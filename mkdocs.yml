@@ -1,0 +1,73 @@
+# Main configuration file for mkdocs generation of the Yasumi website
+
+# project information
+site_name: Yasumi
+site_author: Sacha Telgenhof
+site_description: The easy PHP Library for calculating holidays
+
+# repository
+repo_url: https://github.com/azuyalabs/yasumi
+repo_name: azuyalabs/yasumi
+
+edit_uri: blob/master/docs/
+use_directory_urls: False
+
+copyright: |
+  Copyright &copy; 2015 - 2024 <a href="https://github.com/stelgenhof" target="_blank" rel="noopener">Sacha Telgenhof</a>
+
+# configuration
+theme:
+  name: material
+  palette:
+    scheme: yasumi
+  logo: assets/img/yasumi_logo.svg
+  font:
+    text: Inter
+  favicon: assets/img/favicon.ico
+  features:
+    - navigation.tracking
+    - navigation.top
+    - navigation.footer
+
+# plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
+  # - git-revision-date-localized:
+  #     enable_creation_date: false
+  #     type: timeago
+
+# extensions
+markdown_extensions:
+  - abbr
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.highlight:
+      use_pygments: true
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+extra_css:
+  - assets/css/yasumi.css
+
+# page tree
+nav:
+  - About: about.md
+  - Getting Started: getting-started.md
+  - Holiday Providers: providers.md
+  - Filters: filters.md
+  - Cookbook:
+      - Basic: recipes/basic.md
+      - Date Range: recipes/between_filter.md
+      - Custom Provider: recipes/custom_provider.md
+      - Filter Holidays: recipes/filters.md
+  - Security and Support: security.md
+  - Contributing: contributing.md
+  - Testing: testing.md
