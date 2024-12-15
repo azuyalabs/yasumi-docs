@@ -4,12 +4,13 @@
 site_name: Yasumi
 site_author: Sacha Telgenhof
 site_description: The easy PHP Library for calculating holidays
+site_url: azuyalabs.github.io/yasumi-docs
 
 # repository
 repo_url: https://github.com/azuyalabs/yasumi
 repo_name: azuyalabs/yasumi
 
-edit_uri: blob/master/docs/
+edit_uri: 'https://github.com/azuyalabs/yasumi-docs/blob/main/'
 use_directory_urls: False
 
 copyright: |
