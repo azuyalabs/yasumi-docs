@@ -35,4 +35,4 @@ $holidays = Yasumi\Yasumi::create('USA', (int) date('Y'));
 That's all it takes; you're ready to go!
 
 Interested in learning more about Yasumi? Have a look at the Cookbook section; this section includes various recipes,
-examples and how-to's to [get started](/docs/cookbook/basic) with Yasumi.
+examples and how-to's to [get started](recipes/basic.md) with Yasumi.

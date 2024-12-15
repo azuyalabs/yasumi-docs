@@ -10,7 +10,7 @@ that. Yasumi comes currently with the following filters:
 - **Seasonal** - Holidays that are celebrated due to its seasonal character (e.g. Halloween).
 - **Other** - Holidays that fall outside any of the above type.
 - **Between** - Filters all holidays between a given start and given end date. Check out
-  this [recipe](/recipes/between_filter.md) on how to use the Between filter.
+  this [recipe](between_filter.md) on how to use the Between filter.
 - **On** - Filters all holidays that happen on a given date.
 
 So, how do we for example go about getting only the official holidays from Yasumi? In that case we can

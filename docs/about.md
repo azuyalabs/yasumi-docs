@@ -19,7 +19,7 @@ new holiday providers that calculate holidays.
 - Straightforward API
 - [Supports](security.md) PHP versions 8.0 or higher
 - Framework-agnostic
-- Use of [Providers](providers.md) to easily extend and expand new Holidays
+- Use of [Providers](providers/providers.md) to easily extend and expand new Holidays
 - Common Holiday Providers
 - Accounts for the date/time when holidays have been officially established and/or abolished
 - [Filters](filters.md) enabling to easily select certain holiday types (Official, Observed, Bank, Seasonal or Other)

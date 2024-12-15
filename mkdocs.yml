@@ -1,9 +1,9 @@
 # Main configuration file for mkdocs generation of the Yasumi website
 
 # project information
-site_name: Yasumi
 site_author: Sacha Telgenhof
 site_description: The easy PHP Library for calculating holidays
+site_name: Yasumi
 site_url: https://azuyalabs.github.io/yasumi-docs
 
 # repository
@@ -88,7 +88,6 @@ nav:
           - 2.3.0: releases/2.3.0.md
           - 2.2.0: releases/2.2.0.md
           - 2.1.0: releases/2.1.0.md
-          - 2.0.1: releases/2.0.1.md
           - 2.0.0: releases/2.0.0.md
           - 1.8.1: releases/1.8.1.md
           - 1.8.0: releases/1.8.0.md
