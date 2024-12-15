@@ -13,61 +13,90 @@ edit_uri: blob/master/docs/
 use_directory_urls: False
 
 copyright: |
-  Copyright &copy; 2015 - 2024 <a href="https://github.com/stelgenhof" target="_blank" rel="noopener">Sacha Telgenhof</a>
+    Copyright &copy; 2015 - 2024 <a href="https://github.com/stelgenhof" target="_blank" rel="noopener">Sacha Telgenhof</a>
 
 # configuration
 theme:
-  name: material
-  palette:
-    scheme: yasumi
-  logo: assets/img/yasumi_logo.svg
-  font:
-    text: Inter
-  favicon: assets/img/favicon.ico
-  features:
-    - navigation.tracking
-    - navigation.top
-    - navigation.footer
+    name: material
+    palette:
+        scheme: yasumi
+    #logo: assets/img/yasumi_logo.svg
+    font:
+        text: Inter
+    favicon: assets/img/favicon.ico
+    features:
+        - content.code.copy
+        - navigation.indexes
+        - navigation.prune
+        - navigation.tabs
+        - navigation.top
+        - navigation.tracking
+        - toc.follow
 
 # plugins
 plugins:
-  - search:
-      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  - minify:
-      minify_html: true
-  # - git-revision-date-localized:
-  #     enable_creation_date: false
-  #     type: timeago
+    - search:
+          separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+    - minify:
+          minify_html: true
+    - git-revision-date-localized:
+          enable_creation_date: false
+          type: timeago
 
 # extensions
 markdown_extensions:
-  - abbr
-  - pymdownx.snippets:
-      auto_append:
-        - includes/abbreviations.md
-  - pymdownx.highlight:
-      use_pygments: true
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
+    - abbr
+    - pymdownx.snippets:
+          auto_append:
+              - includes/abbreviations.md
+    - pymdownx.highlight:
+          use_pygments: true
+          anchor_linenums: true
+          line_spans: __span
+          pygments_lang_class: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - pymdownx.superfences
 
 extra_css:
-  - assets/css/yasumi.css
+    - assets/css/yasumi.css
 
 # page tree
 nav:
-  - About: about.md
-  - Getting Started: getting-started.md
-  - Holiday Providers: providers.md
-  - Filters: filters.md
-  - Cookbook:
-      - Basic: recipes/basic.md
-      - Date Range: recipes/between_filter.md
-      - Custom Provider: recipes/custom_provider.md
-      - Filter Holidays: recipes/filters.md
-  - Security and Support: security.md
-  - Contributing: contributing.md
-  - Testing: testing.md
+    - Home: about.md
+    - Documentation:
+          - Getting started: getting-started.md
+          - Holiday Providers: providers/providers.md
+          - Filters: filters.md
+          - Cookbook:
+                - Basic: recipes/basic.md
+                - Date Range: recipes/between_filter.md
+                - Custom Provider: recipes/custom_provider.md
+                - Filter Holidays: recipes/filters.md
+          - Security and Support: security.md
+    - Developers:
+          - Developers: developers/index.md
+          - Contributing: developers/contributing.md
+          - Testing: developers/testing.md
+    - Releases:
+          - Releases: releases/index.md
+          - 2.7.0: releases/2.7.0.md
+          - 2.6.0: releases/2.6.0.md
+          - 2.5.0: releases/2.5.0.md
+          - 2.4.0: releases/2.4.0.md
+          - 2.3.0: releases/2.3.0.md
+          - 2.2.0: releases/2.2.0.md
+          - 2.1.0: releases/2.1.0.md
+          - 2.0.1: releases/2.0.1.md
+          - 2.0.0: releases/2.0.0.md
+          - 1.8.1: releases/1.8.1.md
+          - 1.8.0: releases/1.8.0.md
+          - 1.7.0: releases/1.7.0.md
+          - 1.6.1: releases/1.6.1.md
+          - 1.6.0: releases/1.6.0.md
+          - 1.5.0: releases/1.5.0.md
+          - 1.4.0: releases/1.4.0.md
+          - 1.3.0: releases/1.3.0.md
+          - 1.2.0: releases/1.2.0.md
+          - 1.1.0: releases/1.1.0.md
+          - 1.0.0: releases/1.0.0.md
