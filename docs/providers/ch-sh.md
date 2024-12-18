@@ -1,6 +1,6 @@
-# Schaffhausen
+# Schaffhausen (Switzerland)
 
-There are 10 registered holidays for the **Schaffhausen** provider in **2024**.
+There are _10_ registered holidays for the **Schaffhausen** provider in **2024**.
 
 !!! info ""
 

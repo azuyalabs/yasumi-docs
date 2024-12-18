@@ -1,6 +1,6 @@
-# Western Australia
+# Western Australia (Australia)
 
-There are 10 registered holidays for the **Western Australia** provider in **2024**.
+There are _10_ registered holidays for the **Western Australia** provider in **2024**.
 
 !!! info ""
 

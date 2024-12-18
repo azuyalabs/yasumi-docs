@@ -1,6 +1,6 @@
 # Australia
 
-There are 7 registered holidays for the **Australia** provider in **2024**.
+There are _7_ registered holidays for the **Australia** provider in **2024**.
 
 !!! info ""
 

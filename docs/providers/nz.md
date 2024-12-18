@@ -1,6 +1,6 @@
 # New Zealand
 
-There are 10 registered holidays for the **New Zealand** provider in **2024**.
+There are _10_ registered holidays for the **New Zealand** provider in **2024**.
 
 !!! info ""
 

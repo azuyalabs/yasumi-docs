@@ -1,6 +1,6 @@
-# La Rioja
+# La Rioja (Spain)
 
-There are 14 registered holidays for the **La Rioja** provider in **2024**.
+There are _14_ registered holidays for the **La Rioja** provider in **2024**.
 
 !!! info ""
 

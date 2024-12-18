@@ -1,6 +1,6 @@
 # Poland
 
-There are 13 registered holidays for the **Poland** provider in **2024**.
+There are _13_ registered holidays for the **Poland** provider in **2024**.
 
 !!! info ""
 

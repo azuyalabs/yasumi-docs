@@ -1,6 +1,6 @@
-# Saxony-Anhalt
+# Saxony-Anhalt (Germany)
 
-There are 13 registered holidays for the **Saxony-Anhalt** provider in **2024**.
+There are _13_ registered holidays for the **Saxony-Anhalt** provider in **2024**.
 
 !!! info ""
 

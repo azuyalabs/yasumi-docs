@@ -1,6 +1,6 @@
-# Nova Scotia
+# Nova Scotia (Canada)
 
-There are 13 registered holidays for the **Nova Scotia** provider in **2024**.
+There are _13_ registered holidays for the **Nova Scotia** provider in **2024**.
 
 !!! info ""
 

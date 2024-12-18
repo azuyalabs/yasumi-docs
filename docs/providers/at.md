@@ -1,6 +1,6 @@
 # Austria
 
-There are 15 registered holidays for the **Austria** provider in **2024**.
+There are _15_ registered holidays for the **Austria** provider in **2024**.
 
 !!! info ""
 

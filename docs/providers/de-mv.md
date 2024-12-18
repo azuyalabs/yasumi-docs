@@ -1,6 +1,6 @@
-# Mecklenburg-Vorpommern
+# Mecklenburg-Vorpommern (Germany)
 
-There are 13 registered holidays for the **Mecklenburg-Vorpommern** provider in **2024**.
+There are _13_ registered holidays for the **Mecklenburg-Vorpommern** provider in **2024**.
 
 !!! info ""
 

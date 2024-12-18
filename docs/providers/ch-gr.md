@@ -1,6 +1,6 @@
-# Graubünden
+# Graubünden (Switzerland)
 
-There are 8 registered holidays for the **Graubünden** provider in **2024**.
+There are _8_ registered holidays for the **Graubünden** provider in **2024**.
 
 !!! info ""
 

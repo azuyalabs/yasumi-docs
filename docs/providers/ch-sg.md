@@ -1,6 +1,6 @@
-# St. Gallen
+# St. Gallen (Switzerland)
 
-There are 9 registered holidays for the **St. Gallen** provider in **2024**.
+There are _9_ registered holidays for the **St. Gallen** provider in **2024**.
 
 !!! info ""
 

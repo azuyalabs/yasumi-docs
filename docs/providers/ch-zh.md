@@ -1,6 +1,6 @@
-# Zürich
+# Zürich (Switzerland)
 
-There are 9 registered holidays for the **Zürich** provider in **2024**.
+There are _9_ registered holidays for the **Zürich** provider in **2024**.
 
 !!! info ""
 

@@ -1,6 +1,6 @@
-# South Australia
+# South Australia (Australia)
 
-There are 11 registered holidays for the **South Australia** provider in **2024**.
+There are _11_ registered holidays for the **South Australia** provider in **2024**.
 
 !!! info ""
 

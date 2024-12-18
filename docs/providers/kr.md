@@ -1,6 +1,6 @@
 # South Korea
 
-There are 15 registered holidays for the **South Korea** provider in **2024**.
+There are _15_ registered holidays for the **South Korea** provider in **2024**.
 
 !!! info ""
 

@@ -1,6 +1,6 @@
 # Greece
 
-There are 17 registered holidays for the **Greece** provider in **2024**.
+There are _17_ registered holidays for the **Greece** provider in **2024**.
 
 !!! info ""
 

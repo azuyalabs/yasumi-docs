@@ -1,6 +1,6 @@
-# Northern Ireland
+# Northern Ireland (United Kingdom)
 
-There are 11 registered holidays for the **Northern Ireland** provider in **2024**.
+There are _11_ registered holidays for the **Northern Ireland** provider in **2024**.
 
 !!! info ""
 

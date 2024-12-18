@@ -1,6 +1,6 @@
-# Northwest Territories
+# Northwest Territories (Canada)
 
-There are 13 registered holidays for the **Northwest Territories** provider in **2024**.
+There are _13_ registered holidays for the **Northwest Territories** provider in **2024**.
 
 !!! info ""
 

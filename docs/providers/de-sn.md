@@ -1,6 +1,6 @@
-# Saxony
+# Saxony (Germany)
 
-There are 13 registered holidays for the **Saxony** provider in **2024**.
+There are _13_ registered holidays for the **Saxony** provider in **2024**.
 
 !!! info ""
 

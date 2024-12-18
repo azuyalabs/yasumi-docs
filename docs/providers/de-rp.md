@@ -1,6 +1,6 @@
-# Rhineland-Palatinate
+# Rhineland-Palatinate (Germany)
 
-There are 13 registered holidays for the **Rhineland-Palatinate** provider in **2024**.
+There are _13_ registered holidays for the **Rhineland-Palatinate** provider in **2024**.
 
 !!! info ""
 

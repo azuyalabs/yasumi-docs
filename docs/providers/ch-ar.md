@@ -1,6 +1,6 @@
-# Appenzell Ausserrhoden
+# Appenzell Ausserrhoden (Switzerland)
 
-There are 8 registered holidays for the **Appenzell Ausserrhoden** provider in **2024**.
+There are _8_ registered holidays for the **Appenzell Ausserrhoden** provider in **2024**.
 
 !!! info ""
 

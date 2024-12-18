@@ -1,6 +1,6 @@
-# Vaud
+# Vaud (Switzerland)
 
-There are 9 registered holidays for the **Vaud** provider in **2024**.
+There are _9_ registered holidays for the **Vaud** provider in **2024**.
 
 !!! info ""
 

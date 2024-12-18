@@ -1,6 +1,6 @@
-# Castile and León
+# Castile and León (Spain)
 
-There are 14 registered holidays for the **Castile and León** provider in **2024**.
+There are _14_ registered holidays for the **Castile and León** provider in **2024**.
 
 !!! info ""
 

@@ -1,6 +1,6 @@
-# Appenzell Innerrhoden
+# Appenzell Innerrhoden (Switzerland)
 
-There are 12 registered holidays for the **Appenzell Innerrhoden** provider in **2024**.
+There are _12_ registered holidays for the **Appenzell Innerrhoden** provider in **2024**.
 
 !!! info ""
 

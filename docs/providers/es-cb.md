@@ -1,6 +1,6 @@
-# Cantabria
+# Cantabria (Spain)
 
-There are 14 registered holidays for the **Cantabria** provider in **2024**.
+There are _14_ registered holidays for the **Cantabria** provider in **2024**.
 
 !!! info ""
 

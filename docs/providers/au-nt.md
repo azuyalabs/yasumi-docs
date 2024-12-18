@@ -1,6 +1,6 @@
-# Northern Territory
+# Northern Territory (Australia)
 
-There are 11 registered holidays for the **Northern Territory** provider in **2024**.
+There are _11_ registered holidays for the **Northern Territory** provider in **2024**.
 
 !!! info ""
 

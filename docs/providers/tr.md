@@ -1,6 +1,6 @@
 # Turkey
 
-There are 7 registered holidays for the **Turkey** provider in **2024**.
+There are _7_ registered holidays for the **Turkey** provider in **2024**.
 
 !!! info ""
 

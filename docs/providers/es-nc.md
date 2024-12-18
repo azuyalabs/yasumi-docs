@@ -1,6 +1,6 @@
-# Navarra Chartered Community
+# Navarra Chartered Community (Spain)
 
-There are 15 registered holidays for the **Navarra Chartered Community** provider in **2024**.
+There are _15_ registered holidays for the **Navarra Chartered Community** provider in **2024**.
 
 !!! info ""
 

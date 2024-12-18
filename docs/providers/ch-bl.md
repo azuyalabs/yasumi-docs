@@ -1,6 +1,6 @@
-# Basel-Landschaft
+# Basel-Landschaft (Switzerland)
 
-There are 9 registered holidays for the **Basel-Landschaft** provider in **2024**.
+There are _9_ registered holidays for the **Basel-Landschaft** provider in **2024**.
 
 !!! info ""
 

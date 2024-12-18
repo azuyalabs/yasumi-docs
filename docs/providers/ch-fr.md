@@ -1,6 +1,6 @@
-# Fribourg
+# Fribourg (Switzerland)
 
-There are 13 registered holidays for the **Fribourg** provider in **2024**.
+There are _13_ registered holidays for the **Fribourg** provider in **2024**.
 
 !!! info ""
 

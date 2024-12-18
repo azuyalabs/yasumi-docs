@@ -1,6 +1,6 @@
-# Castile-La Mancha
+# Castile-La Mancha (Spain)
 
-There are 15 registered holidays for the **Castile-La Mancha** provider in **2024**.
+There are _15_ registered holidays for the **Castile-La Mancha** provider in **2024**.
 
 !!! info ""
 

@@ -1,6 +1,6 @@
-# New Brunswick
+# New Brunswick (Canada)
 
-There are 13 registered holidays for the **New Brunswick** provider in **2024**.
+There are _13_ registered holidays for the **New Brunswick** provider in **2024**.
 
 !!! info ""
 

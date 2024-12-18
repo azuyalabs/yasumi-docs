@@ -1,6 +1,6 @@
-# Newfoundland and Labrador
+# Newfoundland and Labrador (Canada)
 
-There are 13 registered holidays for the **Newfoundland and Labrador** provider in **2024**.
+There are _13_ registered holidays for the **Newfoundland and Labrador** provider in **2024**.
 
 !!! info ""
 

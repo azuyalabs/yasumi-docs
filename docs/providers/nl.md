@@ -1,6 +1,6 @@
 # Netherlands
 
-There are 26 registered holidays for the **Netherlands** provider in **2024**.
+There are _26_ registered holidays for the **Netherlands** provider in **2024**.
 
 !!! info ""
 

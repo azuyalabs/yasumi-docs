@@ -1,6 +1,6 @@
-# Scotland
+# Scotland (United Kingdom)
 
-There are 11 registered holidays for the **Scotland** provider in **2024**.
+There are _11_ registered holidays for the **Scotland** provider in **2024**.
 
 !!! info ""
 

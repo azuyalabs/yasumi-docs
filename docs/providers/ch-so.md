@@ -1,6 +1,6 @@
-# Solothurn
+# Solothurn (Switzerland)
 
-There are 6 registered holidays for the **Solothurn** provider in **2024**.
+There are _6_ registered holidays for the **Solothurn** provider in **2024**.
 
 !!! info ""
 

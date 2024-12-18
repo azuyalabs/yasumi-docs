@@ -1,6 +1,6 @@
-# Tasmania
+# Tasmania (Australia)
 
-There are 11 registered holidays for the **Tasmania** provider in **2024**.
+There are _11_ registered holidays for the **Tasmania** provider in **2024**.
 
 !!! info ""
 

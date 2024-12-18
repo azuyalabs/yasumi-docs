@@ -1,6 +1,6 @@
-# Aargau
+# Aargau (Switzerland)
 
-There are 5 registered holidays for the **Aargau** provider in **2024**.
+There are _5_ registered holidays for the **Aargau** provider in **2024**.
 
 !!! info ""
 

@@ -1,6 +1,6 @@
 # Mexico
 
-There are 19 registered holidays for the **Mexico** provider in **2024**.
+There are _19_ registered holidays for the **Mexico** provider in **2024**.
 
 !!! info ""
 

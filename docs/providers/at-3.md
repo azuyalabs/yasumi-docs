@@ -1,6 +1,6 @@
-# Lower Austria
+# Lower Austria (Austria)
 
-There are 16 registered holidays for the **Lower Austria** provider in **2024**.
+There are _16_ registered holidays for the **Lower Austria** provider in **2024**.
 
 !!! info ""
 

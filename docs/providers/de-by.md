@@ -1,6 +1,6 @@
-# Bavaria
+# Bavaria (Germany)
 
-There are 15 registered holidays for the **Bavaria** provider in **2024**.
+There are _15_ registered holidays for the **Bavaria** provider in **2024**.
 
 !!! info ""
 

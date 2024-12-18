@@ -1,6 +1,6 @@
 # Switzerland
 
-There are 1 registered holidays for the **Switzerland** provider in **2024**.
+There are _1_ registered holidays for the **Switzerland** provider in **2024**.
 
 !!! info ""
 

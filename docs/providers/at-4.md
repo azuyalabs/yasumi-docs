@@ -1,6 +1,6 @@
-# Upper Austria
+# Upper Austria (Austria)
 
-There are 16 registered holidays for the **Upper Austria** provider in **2024**.
+There are _16_ registered holidays for the **Upper Austria** provider in **2024**.
 
 !!! info ""
 

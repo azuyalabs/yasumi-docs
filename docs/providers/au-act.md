@@ -1,6 +1,6 @@
-# Australian Capital Territory
+# Australian Capital Territory (Australia)
 
-There are 13 registered holidays for the **Australian Capital Territory** provider in **2024**.
+There are _13_ registered holidays for the **Australian Capital Territory** provider in **2024**.
 
 !!! info ""
 

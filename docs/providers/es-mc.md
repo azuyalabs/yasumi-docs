@@ -1,6 +1,6 @@
-# Murcia Region
+# Murcia Region (Spain)
 
-There are 15 registered holidays for the **Murcia Region** provider in **2024**.
+There are _15_ registered holidays for the **Murcia Region** provider in **2024**.
 
 !!! info ""
 

@@ -1,6 +1,6 @@
-# Queensland
+# Queensland (Australia)
 
-There are 9 registered holidays for the **Queensland** provider in **2024**.
+There are _9_ registered holidays for the **Queensland** provider in **2024**.
 
 !!! info ""
 

@@ -1,6 +1,6 @@
 # Ireland
 
-There are 12 registered holidays for the **Ireland** provider in **2024**.
+There are _12_ registered holidays for the **Ireland** provider in **2024**.
 
 !!! info ""
 

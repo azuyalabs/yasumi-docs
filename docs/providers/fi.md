@@ -1,6 +1,6 @@
 # Finland
 
-There are 13 registered holidays for the **Finland** provider in **2024**.
+There are _13_ registered holidays for the **Finland** provider in **2024**.
 
 !!! info ""
 

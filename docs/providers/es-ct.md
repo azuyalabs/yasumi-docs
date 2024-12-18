@@ -1,6 +1,6 @@
-# Catalonia
+# Catalonia (Spain)
 
-There are 16 registered holidays for the **Catalonia** provider in **2024**.
+There are _16_ registered holidays for the **Catalonia** provider in **2024**.
 
 !!! info ""
 
