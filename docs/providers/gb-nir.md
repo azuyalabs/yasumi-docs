@@ -8,13 +8,13 @@ There are _11_ registered holidays for the **Northern Ireland** provider in **20
     with the Northern Ireland provider in Yasumi. These do not indicate whether a particular holiday is
     considered a non-working day or not.
 
-    Although Yasumi has the ability to classify holidays (e.g. 'Official', 'Regional', etc.), this isn't optimal feature
-    and we are working on a different classification system.
+    Although Yasumi has the ability to classify holidays (e.g. 'Official', 'Regional', etc.), this isn't optimal
+    feature and we are working on a different classification system.
 
 ## Holidays
 
-| | Date | Day of the week | Name |
-| | ---- | --------------- | ---- |
+|     | Date | Day of the week | Name |
+| --- | ---- | --------------- | ---- |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-10 | Sunday | Mothering Sunday |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-17 | Sunday | St. Patrick’s Day |

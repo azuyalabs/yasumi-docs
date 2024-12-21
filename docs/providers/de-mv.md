@@ -8,13 +8,13 @@ There are _13_ registered holidays for the **Mecklenburg-Vorpommern** provider i
     with the Mecklenburg-Vorpommern provider in Yasumi. These do not indicate whether a particular holiday is
     considered a non-working day or not.
 
-    Although Yasumi has the ability to classify holidays (e.g. 'Official', 'Regional', etc.), this isn't optimal feature
-    and we are working on a different classification system.
+    Although Yasumi has the ability to classify holidays (e.g. 'Official', 'Regional', etc.), this isn't optimal
+    feature and we are working on a different classification system.
 
 ## Holidays
 
-| | Date | Day of the week | Name |
-| | ---- | --------------- | ---- |
+|     | Date | Day of the week | Name |
+| --- | ---- | --------------- | ---- |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-08 | Friday | International Women’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |

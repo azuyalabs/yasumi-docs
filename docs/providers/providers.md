@@ -9,6 +9,8 @@ official holidays and non-working days, however other type of holidays or events
 The latest release of Yasumi supports 149 providers (42
 countries and 107 subdivisions):
 
+![World Map showing supported providers](../assets/img/world_map.svg)
+
 
 - [Argentina](ar.md )
 
@@ -456,3 +458,22 @@ countries and 107 subdivisions):
 
 - [UnitedKingdom/Wales](gb-wls.md )
 
+
+<style>
+#world-map {
+  margin-top: 2em;
+
+  svg {
+    fill: #9AE6B4;
+    fill-opacity: 1;
+    stroke: white;
+    stroke-opacity: 1;
+    stroke-width: 0.5;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+
+    #AR, #AU, #AT, #BE, #BA, #BR, #CA, #HR, #CZ, #DK, #EE, #FI, #FR, #GE, #DE, #GR, #HU, #IR, #IE, #IT, #JP, #LV, #LT, #LU, #MX, #NL, #NZ, #NO, #PL, #PT, #RO, #RU, #SK, #ZA, #KR, #ES, #SE, #CH, #TR, #US, #UA, #GB {
+        fill: #028090;
+    }
+  }
+</style>

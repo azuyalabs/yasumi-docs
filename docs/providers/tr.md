@@ -8,13 +8,13 @@ There are _7_ registered holidays for the **Turkey** provider in **2024**.
     with the Turkey provider in Yasumi. These do not indicate whether a particular holiday is
     considered a non-working day or not.
 
-    Although Yasumi has the ability to classify holidays (e.g. 'Official', 'Regional', etc.), this isn't optimal feature
-    and we are working on a different classification system.
+    Although Yasumi has the ability to classify holidays (e.g. 'Official', 'Regional', etc.), this isn't optimal
+    feature and we are working on a different classification system.
 
 ## Holidays
 
-| | Date | Day of the week | Name |
-| | ---- | --------------- | ---- |
+|     | Date | Day of the week | Name |
+| --- | ---- | --------------- | ---- |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-04-23 | Tuesday | nationalSovereigntyDay |
 | :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | Labor Day |

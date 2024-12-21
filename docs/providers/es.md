@@ -8,13 +8,13 @@ There are _12_ registered holidays for the **Spain** provider in **2024**.
     with the Spain provider in Yasumi. These do not indicate whether a particular holiday is
     considered a non-working day or not.
 
-    Although Yasumi has the ability to classify holidays (e.g. 'Official', 'Regional', etc.), this isn't optimal feature
-    and we are working on a different classification system.
+    Although Yasumi has the ability to classify holidays (e.g. 'Official', 'Regional', etc.), this isn't optimal
+    feature and we are working on a different classification system.
 
 ## Holidays
 
-| | Date | Day of the week | Name |
-| | ---- | --------------- | ---- |
+|     | Date | Day of the week | Name |
+| --- | ---- | --------------- | ---- |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
 | :fontawesome-solid-leaf:{ .icon } | 2024-02-14 | Wednesday | Valentine’s Day |
