@@ -23,7 +23,7 @@ composer require azuyalabs/yasumi
 
 Be sure to include the Composer autoload file in your project:
 
-```php
+``` php
 <?php
 
 require 'vendor/autoload.php';

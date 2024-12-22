@@ -5,7 +5,7 @@ Yasumi is very easy to use. Let's find out how easy with this basic exercise.
 We need to include Yasumi using the Composer autoloader first, then we can create a new holiday provider
 instance (we will be using the United States of America):
 
-```php
+``` php
 <?php
 
 require 'vendor/autoload.php';
