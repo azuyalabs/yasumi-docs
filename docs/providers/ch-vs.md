@@ -15,7 +15,6 @@ There are _9_ registered holidays for the **Valais** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-19 | Tuesday | St. Joseph’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-05-09 | Thursday | Ascension Day |

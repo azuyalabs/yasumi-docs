@@ -15,7 +15,6 @@ There are _11_ registered holidays for the **United States** provider in **2024*
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-15 | Monday | Dr. Martin Luther King Jr’s Birthday |
 | :fontawesome-solid-leaf:{ .icon } | 2024-02-19 | Monday | Washington’s Birthday |

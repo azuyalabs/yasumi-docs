@@ -15,7 +15,6 @@ There are _15_ registered holidays for the **South Korea** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-02-09 | Friday | Day before Seollal |
 | :fontawesome-solid-leaf:{ .icon } | 2024-02-10 | Saturday | Seollal |

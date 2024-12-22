@@ -84,7 +84,7 @@ The tests are grouped in some test suites to make testing a bit easier:
 
 - **"Switzerland"**: For separately testing the [Switzerland](../providers/ch.md) Holiday Provider
 
-- **"Turkey"**: For separately testing the [Turkey](../providers/tr.md) Holiday Provider
+- **"Turkey"**: For separately testing the [Türkiye](../providers/tr.md) Holiday Provider
 
 - **"USA"**: For separately testing the [United States](../providers/us.md) Holiday Provider
 

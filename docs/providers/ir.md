@@ -15,7 +15,6 @@ There are _10_ registered holidays for the **Iran** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon } | 2024-02-11 | Sunday | Enqelab e Eslami |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-20 | Wednesday | Melli Shodan e Saneat e Naft |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-21 | Thursday | Nowruz |

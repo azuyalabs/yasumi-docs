@@ -15,7 +15,6 @@ There are _11_ registered holidays for the **Northern Ireland** provider in **20
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-10 | Sunday | Mothering Sunday |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-17 | Sunday | St. Patrick’s Day |

@@ -15,7 +15,6 @@ There are _1_ registered holidays for the **Switzerland** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon } | 2024-08-01 | Thursday | National Day |
 
 ## Sources

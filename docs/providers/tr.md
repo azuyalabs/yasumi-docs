@@ -15,7 +15,6 @@ There are _7_ registered holidays for the **Türkiye** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-04-23 | Tuesday | nationalSovereigntyDay |
 | :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | Labor Day |

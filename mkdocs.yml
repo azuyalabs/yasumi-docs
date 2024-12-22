@@ -71,83 +71,83 @@ extra_css:
 
 # navigation tree
 nav:
-  - Home: about.md
+  - Home: "about.md"
   - Documentation:
-      - Getting started: getting-started.md
+      - Getting started: "getting-started.md"
       - Holiday Providers:
-          - Overview: providers/providers.md
-          - Argentina: providers/ar.md
-          - Australia: providers/au.md
-          - Austria: providers/at.md
-          - Belgium: providers/be.md
-          - Bosnia &amp; Herzegovina: providers/ba.md
-          - Brazil: providers/br.md
-          - Canada: providers/ca.md
-          - Croatia: providers/hr.md
-          - Czech Republic: providers/cz.md
-          - Denmark: providers/dk.md
-          - Estonia: providers/ee.md
-          - Finland: providers/fi.md
-          - France: providers/fr.md
-          - Georgia: providers/ge.md
-          - Germany: providers/de.md
-          - Greece: providers/gr.md
-          - Hungary: providers/hu.md
-          - Iran: providers/ir.md
-          - Ireland: providers/ie.md
-          - Italy: providers/it.md
-          - Japan: providers/jp.md
-          - Latvia: providers/lv.md
-          - Lithuania: providers/lt.md
-          - Luxembourg: providers/lu.md
-          - Mexico: providers/mx.md
-          - Netherlands: providers/nl.md
-          - New Zealand: providers/nz.md
-          - Norway: providers/no.md
-          - Poland: providers/pl.md
-          - Portugal: providers/pt.md
-          - Romania: providers/ro.md
-          - Russia: providers/ru.md
-          - Slovakia: providers/sk.md
-          - South Africa: providers/za.md
-          - South Korea: providers/kr.md
-          - Spain: providers/es.md
-          - Sweden: providers/se.md
-          - Switzerland: providers/ch.md
-          - Turkey: providers/tr.md
-          - United States: providers/us.md
-          - Ukraine: providers/ua.md
-          - United Kingdom: providers/gb.md
-      - Filters: filters.md
+          - Overview: "providers/providers.md"
+          - Argentina: "providers/ar.md"
+          - Australia: "providers/au.md"
+          - Austria: "providers/at.md"
+          - Belgium: "providers/be.md"
+          - Bosnia &amp; Herzegovina: "providers/ba.md"
+          - Brazil: "providers/br.md"
+          - Canada: "providers/ca.md"
+          - Croatia: "providers/hr.md"
+          - Czech Republic: "providers/cz.md"
+          - Denmark: "providers/dk.md"
+          - Estonia: "providers/ee.md"
+          - Finland: "providers/fi.md"
+          - France: "providers/fr.md"
+          - Georgia: "providers/ge.md"
+          - Germany: "providers/de.md"
+          - Greece: "providers/gr.md"
+          - Hungary: "providers/hu.md"
+          - Iran: "providers/ir.md"
+          - Ireland: "providers/ie.md"
+          - Italy: "providers/it.md"
+          - Japan: "providers/jp.md"
+          - Latvia: "providers/lv.md"
+          - Lithuania: "providers/lt.md"
+          - Luxembourg: "providers/lu.md"
+          - Mexico: "providers/mx.md"
+          - Netherlands: "providers/nl.md"
+          - New Zealand: "providers/nz.md"
+          - Norway: "providers/no.md"
+          - Poland: "providers/pl.md"
+          - Portugal: "providers/pt.md"
+          - Romania: "providers/ro.md"
+          - Russia: "providers/ru.md"
+          - Slovakia: "providers/sk.md"
+          - South Africa: "providers/za.md"
+          - South Korea: "providers/kr.md"
+          - Spain: "providers/es.md"
+          - Sweden: "providers/se.md"
+          - Switzerland: "providers/ch.md"
+          - Türkiye: "providers/tr.md"
+          - United States: "providers/us.md"
+          - Ukraine: "providers/ua.md"
+          - United Kingdom: "providers/gb.md"
+      - Filters: "filters.md"
       - Cookbook:
-          - Basic: recipes/basic.md
-          - Date Range: recipes/between_filter.md
-          - Custom Provider: recipes/custom_provider.md
-          - Filter Holidays: recipes/filters.md
-      - Security and Support: security.md
+          - Basic: "recipes/basic.md"
+          - Date Range: "recipes/between_filter.md"
+          - Custom Provider: "recipes/custom_provider.md"
+          - Filter Holidays: "recipes/filters.md"
+      - Security and Support: "security.md"
   - Developers:
-      - Developers: developers/index.md
-      - Contributing: developers/contributing.md
-      - Testing: developers/testing.md
+      - Developers: "developers/index.md"
+      - Contributing: "developers/contributing.md"
+      - Testing: "developers/testing.md"
   - Releases:
-      - Releases: releases/index.md
-      - 2.7.0: releases/2.7.0.md
-      - 2.6.0: releases/2.6.0.md
-      - 2.5.0: releases/2.5.0.md
-      - 2.4.0: releases/2.4.0.md
-      - 2.3.0: releases/2.3.0.md
-      - 2.2.0: releases/2.2.0.md
-      - 2.1.0: releases/2.1.0.md
-      - 2.0.0: releases/2.0.0.md
-      - 1.8.1: releases/1.8.1.md
-      - 1.8.0: releases/1.8.0.md
-      - 1.7.0: releases/1.7.0.md
-      - 1.6.1: releases/1.6.1.md
-      - 1.6.0: releases/1.6.0.md
-      - 1.5.0: releases/1.5.0.md
-      - 1.4.0: releases/1.4.0.md
-      - 1.3.0: releases/1.3.0.md
-      - 1.2.0: releases/1.2.0.md
-      - 1.1.0: releases/1.1.0.md
-      - 1.0.0: releases/1.0.0.md
-
+      - Releases: "releases/index.md"
+      - 2.7.0: "releases/2.7.0.md"
+      - 2.6.0: "releases/2.6.0.md"
+      - 2.5.0: "releases/2.5.0.md"
+      - 2.4.0: "releases/2.4.0.md"
+      - 2.3.0: "releases/2.3.0.md"
+      - 2.2.0: "releases/2.2.0.md"
+      - 2.1.0: "releases/2.1.0.md"
+      - 2.0.0: "releases/2.0.0.md"
+      - 1.8.1: "releases/1.8.1.md"
+      - 1.8.0: "releases/1.8.0.md"
+      - 1.7.0: "releases/1.7.0.md"
+      - 1.6.1: "releases/1.6.1.md"
+      - 1.6.0: "releases/1.6.0.md"
+      - 1.5.0: "releases/1.5.0.md"
+      - 1.4.0: "releases/1.4.0.md"
+      - 1.3.0: "releases/1.3.0.md"
+      - 1.2.0: "releases/1.2.0.md"
+      - 1.1.0: "releases/1.1.0.md"
+      - 1.0.0: "releases/1.0.0.md"
+  

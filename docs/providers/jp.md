@@ -15,7 +15,6 @@ There are _16_ registered holidays for the **Japan** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-08 | Monday | Coming of Age Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-02-11 | Sunday | National Foundation Day |

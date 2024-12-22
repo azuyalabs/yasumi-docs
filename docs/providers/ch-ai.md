@@ -15,7 +15,6 @@ There are _12_ registered holidays for the **Appenzell Innerrhoden** provider in
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
 | :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |

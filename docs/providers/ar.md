@@ -15,7 +15,6 @@ There are _17_ registered holidays for the **Argentina** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-02-12 | Monday | Carnival Monday |
 | :fontawesome-solid-leaf:{ .icon } | 2024-02-13 | Tuesday | Carnival Tuesday |

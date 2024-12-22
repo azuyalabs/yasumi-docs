@@ -15,7 +15,6 @@ There are _11_ registered holidays for the **Scotland** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-02 | Tuesday | 2nd January |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-10 | Sunday | Mothering Sunday |
