@@ -11,7 +11,7 @@ there are a few guidelines to keep in mind.
 
 ## Guidelines
 
-- **[PSR-12 Coding Standard](https://www.php-fig.org/psr/psr-12/ "PSR-12 Coding Standard")**
+- [PSR-12 Coding Standard](https://www.php-fig.org/psr/psr-12/ "PSR-12 Coding Standard")
   Please use the following command after you have completed your work:
 
   ``` shell
