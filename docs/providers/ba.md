@@ -15,6 +15,7 @@ There are _10_ registered holidays for the **Bosnia &amp; Herzegovina** provider
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-02 | Tuesday | Day after New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-07 | Sunday | Orthodox Christmas Day |
@@ -31,8 +32,5 @@ There are _10_ registered holidays for the **Bosnia &amp; Herzegovina** provider
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Bosnia &amp; Herzegovina** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Bosnia_and_Herzegovina](https://en.wikipedia.org/wiki/Public_holidays_in_Bosnia_and_Herzegovina )
-   
-1. [https://bs.wikipedia.org/wiki/Praznici_i_blagdani_u_Bosni_i_Hercegovini](https://bs.wikipedia.org/wiki/Praznici_i_blagdani_u_Bosni_i_Hercegovini )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Bosnia_and_Herzegovina](https://en.wikipedia.org/wiki/Public_holidays_in_Bosnia_and_Herzegovina)
+1. [https://bs.wikipedia.org/wiki/Praznici_i_blagdani_u_Bosni_i_Hercegovini](https://bs.wikipedia.org/wiki/Praznici_i_blagdani_u_Bosni_i_Hercegovini)

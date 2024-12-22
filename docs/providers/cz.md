@@ -15,6 +15,7 @@ There are _14_ registered holidays for the **Czech Republic** provider in **2024
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | Day of renewal of the independent Czech state |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
@@ -35,8 +36,5 @@ There are _14_ registered holidays for the **Czech Republic** provider in **2024
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Czech Republic** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_the_Czech_Republic](https://en.wikipedia.org/wiki/Public_holidays_in_the_Czech_Republic )
-   
-1. [https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_st%C3%A1tn%C3%AD_sv%C3%A1tek](https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_st%C3%A1tn%C3%AD_sv%C3%A1tek )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_the_Czech_Republic](https://en.wikipedia.org/wiki/Public_holidays_in_the_Czech_Republic)
+1. [https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_st%C3%A1tn%C3%AD_sv%C3%A1tek](https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_st%C3%A1tn%C3%AD_sv%C3%A1tek)

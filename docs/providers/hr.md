@@ -15,6 +15,7 @@ There are _14_ registered holidays for the **Croatia** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-31 | Sunday | Easter Sunday |
@@ -35,10 +36,6 @@ There are _14_ registered holidays for the **Croatia** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Croatia** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Croatia](https://en.wikipedia.org/wiki/Public_holidays_in_Croatia )
-   
-1. [https://sh.wikipedia.org/wiki/Praznici_u_Hrvatskoj](https://sh.wikipedia.org/wiki/Praznici_u_Hrvatskoj )
-   
-1. [https://hr.wikipedia.org/wiki/Blagdani_i_spomendani_u_Hrvatskoj](https://hr.wikipedia.org/wiki/Blagdani_i_spomendani_u_Hrvatskoj )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Croatia](https://en.wikipedia.org/wiki/Public_holidays_in_Croatia)
+1. [https://sh.wikipedia.org/wiki/Praznici_u_Hrvatskoj](https://sh.wikipedia.org/wiki/Praznici_u_Hrvatskoj)
+1. [https://hr.wikipedia.org/wiki/Blagdani_i_spomendani_u_Hrvatskoj](https://hr.wikipedia.org/wiki/Blagdani_i_spomendani_u_Hrvatskoj)

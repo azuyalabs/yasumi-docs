@@ -15,6 +15,7 @@ There are _12_ registered holidays for the **South Africa** provider in **2024**
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-21 | Thursday | Human Rights Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
@@ -34,10 +35,6 @@ There are _12_ registered holidays for the **South Africa** provider in **2024**
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **South Africa** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_South_Africa](https://en.wikipedia.org/wiki/Public_holidays_in_South_Africa )
-   
-1. [https://af.wikipedia.org/wiki/Lys_van_openbare_vakansiedae_in_Suid-Afrika](https://af.wikipedia.org/wiki/Lys_van_openbare_vakansiedae_in_Suid-Afrika )
-   
-1. [https://zu.wikipedia.org/wiki/Amaholide_omphakathi_eNingizimu_Afrika](https://zu.wikipedia.org/wiki/Amaholide_omphakathi_eNingizimu_Afrika )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_South_Africa](https://en.wikipedia.org/wiki/Public_holidays_in_South_Africa)
+1. [https://af.wikipedia.org/wiki/Lys_van_openbare_vakansiedae_in_Suid-Afrika](https://af.wikipedia.org/wiki/Lys_van_openbare_vakansiedae_in_Suid-Afrika)
+1. [https://zu.wikipedia.org/wiki/Amaholide_omphakathi_eNingizimu_Afrika](https://zu.wikipedia.org/wiki/Amaholide_omphakathi_eNingizimu_Afrika)

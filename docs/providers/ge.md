@@ -15,6 +15,7 @@ There are _14_ registered holidays for the **Georgia** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-02 | Tuesday | Second day of the New Year |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-07 | Sunday | Orthodox Christmas Day |
@@ -35,10 +36,6 @@ There are _14_ registered holidays for the **Georgia** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Georgia** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Georgia_(country)](https://en.wikipedia.org/wiki/Public_holidays_in_Georgia_(country) )
-   
-1. [https://ka.wikipedia.org/wiki/%E1%83%A3%E1%83%A5%E1%83%9B%E1%83%94_%E1%83%93%E1%83%A6%E1%83%94%E1%83%94%E1%83%91%E1%83%98_%E1%83%A1%E1%83%90%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%95%E1%83%94%E1%83%9A%E1%83%9D%E1%83%A8%E1%83%98](https://ka.wikipedia.org/wiki/%E1%83%A3%E1%83%A5%E1%83%9B%E1%83%94_%E1%83%93%E1%83%A6%E1%83%94%E1%83%94%E1%83%91%E1%83%98_%E1%83%A1%E1%83%90%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%95%E1%83%94%E1%83%9A%E1%83%9D%E1%83%A8%E1%83%98 )
-   
-1. [https://xmf.wikipedia.org/wiki/%E1%83%9D%E1%83%A4%E1%83%98%E1%83%AA%E1%83%98%E1%83%90%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%A3%E1%83%A5%E1%83%95%E1%83%98_%E1%83%93%E1%83%A6%E1%83%90%E1%83%9A%E1%83%94%E1%83%A4%E1%83%98_%E1%83%A1%E1%83%90%E1%83%A5%E1%83%9D%E1%83%A0%E1%83%97%E1%83%A3%E1%83%9D%E1%83%A1](https://xmf.wikipedia.org/wiki/%E1%83%9D%E1%83%A4%E1%83%98%E1%83%AA%E1%83%98%E1%83%90%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%A3%E1%83%A5%E1%83%95%E1%83%98_%E1%83%93%E1%83%A6%E1%83%90%E1%83%9A%E1%83%94%E1%83%A4%E1%83%98_%E1%83%A1%E1%83%90%E1%83%A5%E1%83%9D%E1%83%A0%E1%83%97%E1%83%A3%E1%83%9D%E1%83%A1 )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Georgia_(country)](https://en.wikipedia.org/wiki/Public_holidays_in_Georgia_(country))
+1. [https://ka.wikipedia.org/wiki/%E1%83%A3%E1%83%A5%E1%83%9B%E1%83%94_%E1%83%93%E1%83%A6%E1%83%94%E1%83%94%E1%83%91%E1%83%98_%E1%83%A1%E1%83%90%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%95%E1%83%94%E1%83%9A%E1%83%9D%E1%83%A8%E1%83%98](https://ka.wikipedia.org/wiki/%E1%83%A3%E1%83%A5%E1%83%9B%E1%83%94_%E1%83%93%E1%83%A6%E1%83%94%E1%83%94%E1%83%91%E1%83%98_%E1%83%A1%E1%83%90%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%95%E1%83%94%E1%83%9A%E1%83%9D%E1%83%A8%E1%83%98)
+1. [https://xmf.wikipedia.org/wiki/%E1%83%9D%E1%83%A4%E1%83%98%E1%83%AA%E1%83%98%E1%83%90%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%A3%E1%83%A5%E1%83%95%E1%83%98_%E1%83%93%E1%83%A6%E1%83%90%E1%83%9A%E1%83%94%E1%83%A4%E1%83%98_%E1%83%A1%E1%83%90%E1%83%A5%E1%83%9D%E1%83%A0%E1%83%97%E1%83%A3%E1%83%9D%E1%83%A1](https://xmf.wikipedia.org/wiki/%E1%83%9D%E1%83%A4%E1%83%98%E1%83%AA%E1%83%98%E1%83%90%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%A3%E1%83%A5%E1%83%95%E1%83%98_%E1%83%93%E1%83%A6%E1%83%90%E1%83%9A%E1%83%94%E1%83%A4%E1%83%98_%E1%83%A1%E1%83%90%E1%83%A5%E1%83%9D%E1%83%A0%E1%83%97%E1%83%A3%E1%83%9D%E1%83%A1)

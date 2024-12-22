@@ -15,6 +15,7 @@ There are _16_ registered holidays for the **Tyrol** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-19 | Tuesday | St. Joseph’s Day |
@@ -37,8 +38,5 @@ There are _16_ registered holidays for the **Tyrol** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Tyrol** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Austria](https://en.wikipedia.org/wiki/Public_holidays_in_Austria )
-   
-1. [https://de.wikipedia.org/wiki/Feiertage_in_%C3%96sterreich](https://de.wikipedia.org/wiki/Feiertage_in_%C3%96sterreich )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Austria](https://en.wikipedia.org/wiki/Public_holidays_in_Austria)
+1. [https://de.wikipedia.org/wiki/Feiertage_in_%C3%96sterreich](https://de.wikipedia.org/wiki/Feiertage_in_%C3%96sterreich)

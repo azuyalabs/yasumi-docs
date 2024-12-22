@@ -15,6 +15,7 @@ There are _13_ registered holidays for the **Latvia** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-31 | Sunday | Easter Sunday |
@@ -34,8 +35,5 @@ There are _13_ registered holidays for the **Latvia** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Latvia** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Latvia](https://en.wikipedia.org/wiki/Public_holidays_in_Latvia )
-   
-1. [https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Latvijos_%C5%A1vent%C4%97s](https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Latvijos_%C5%A1vent%C4%97s )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Latvia](https://en.wikipedia.org/wiki/Public_holidays_in_Latvia)
+1. [https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Latvijos_%C5%A1vent%C4%97s](https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Latvijos_%C5%A1vent%C4%97s)

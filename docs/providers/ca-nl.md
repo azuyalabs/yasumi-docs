@@ -15,6 +15,7 @@ There are _13_ registered holidays for the **Newfoundland and Labrador** provide
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-17 | Sunday | St. Patrick’s Day |
 | :fontawesome-solid-repeat:{ .icon } | 2024-03-18 | Monday | St. Patrick’s Day observed |
@@ -35,6 +36,4 @@ There are _13_ registered holidays for the **Newfoundland and Labrador** provide
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Newfoundland and Labrador** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Canada](https://en.wikipedia.org/wiki/Public_holidays_in_Canada )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Canada](https://en.wikipedia.org/wiki/Public_holidays_in_Canada)

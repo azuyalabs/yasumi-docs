@@ -15,6 +15,7 @@ There are _17_ registered holidays for the **Balearic Islands** provider in **20
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
 | :fontawesome-solid-leaf:{ .icon } | 2024-02-14 | Wednesday | Valentine’s Day |
@@ -38,6 +39,4 @@ There are _17_ registered holidays for the **Balearic Islands** provider in **20
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Balearic Islands** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Spain](https://en.wikipedia.org/wiki/Public_holidays_in_Spain )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Spain](https://en.wikipedia.org/wiki/Public_holidays_in_Spain)

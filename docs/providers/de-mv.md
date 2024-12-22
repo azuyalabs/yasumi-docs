@@ -15,6 +15,7 @@ There are _13_ registered holidays for the **Mecklenburg-Vorpommern** provider i
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-08 | Friday | International Women’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
@@ -34,10 +35,6 @@ There are _13_ registered holidays for the **Mecklenburg-Vorpommern** provider i
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Mecklenburg-Vorpommern** Holiday provider.
 
-
-1. [https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Frauentag-in-MV-Landtag-beschliesst-neuen-Feiertag,frauentag370.html](https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Frauentag-in-MV-Landtag-beschliesst-neuen-Feiertag,frauentag370.html )
-   
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Germany](https://en.wikipedia.org/wiki/Public_holidays_in_Germany )
-   
-1. [https://de.wikipedia.org/wiki/Gesetzliche_Feiertage_in_Deutschland](https://de.wikipedia.org/wiki/Gesetzliche_Feiertage_in_Deutschland )
-   
+1. [https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Frauentag-in-MV-Landtag-beschliesst-neuen-Feiertag,frauentag370.html](https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Frauentag-in-MV-Landtag-beschliesst-neuen-Feiertag,frauentag370.html)
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Germany](https://en.wikipedia.org/wiki/Public_holidays_in_Germany)
+1. [https://de.wikipedia.org/wiki/Gesetzliche_Feiertage_in_Deutschland](https://de.wikipedia.org/wiki/Gesetzliche_Feiertage_in_Deutschland)

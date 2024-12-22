@@ -15,6 +15,7 @@ There are _12_ registered holidays for the **Norway** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-28 | Thursday | Maundy Thursday |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
@@ -33,8 +34,5 @@ There are _12_ registered holidays for the **Norway** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Norway** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Norway](https://en.wikipedia.org/wiki/Public_holidays_in_Norway )
-   
-1. [https://no.wikipedia.org/wiki/Helligdager_i_Norge](https://no.wikipedia.org/wiki/Helligdager_i_Norge )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Norway](https://en.wikipedia.org/wiki/Public_holidays_in_Norway)
+1. [https://no.wikipedia.org/wiki/Helligdager_i_Norge](https://no.wikipedia.org/wiki/Helligdager_i_Norge)

@@ -15,6 +15,7 @@ There are _10_ registered holidays for the **New Zealand** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-02 | Tuesday | Day after New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-02-06 | Tuesday | Waitangi Day |
@@ -31,6 +32,4 @@ There are _10_ registered holidays for the **New Zealand** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **New Zealand** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_New_Zealand](https://en.wikipedia.org/wiki/Public_holidays_in_New_Zealand )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_New_Zealand](https://en.wikipedia.org/wiki/Public_holidays_in_New_Zealand)

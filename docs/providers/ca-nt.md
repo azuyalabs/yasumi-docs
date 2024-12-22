@@ -15,6 +15,7 @@ There are _13_ registered holidays for the **Northwest Territories** provider in
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
 | :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |
@@ -34,6 +35,4 @@ There are _13_ registered holidays for the **Northwest Territories** provider in
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Northwest Territories** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Canada](https://en.wikipedia.org/wiki/Public_holidays_in_Canada )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Canada](https://en.wikipedia.org/wiki/Public_holidays_in_Canada)

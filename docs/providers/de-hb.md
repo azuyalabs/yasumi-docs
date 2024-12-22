@@ -15,6 +15,7 @@ There are _12_ registered holidays for the **Bremen** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
 | :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |
@@ -33,8 +34,5 @@ There are _12_ registered holidays for the **Bremen** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Bremen** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Germany](https://en.wikipedia.org/wiki/Public_holidays_in_Germany )
-   
-1. [https://de.wikipedia.org/wiki/Gesetzliche_Feiertage_in_Deutschland](https://de.wikipedia.org/wiki/Gesetzliche_Feiertage_in_Deutschland )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Germany](https://en.wikipedia.org/wiki/Public_holidays_in_Germany)
+1. [https://de.wikipedia.org/wiki/Gesetzliche_Feiertage_in_Deutschland](https://de.wikipedia.org/wiki/Gesetzliche_Feiertage_in_Deutschland)

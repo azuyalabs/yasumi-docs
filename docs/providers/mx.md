@@ -15,6 +15,7 @@ There are _19_ registered holidays for the **Mexico** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
 | :fontawesome-solid-leaf:{ .icon } | 2024-02-05 | Monday | Constitution Day |
@@ -40,6 +41,4 @@ There are _19_ registered holidays for the **Mexico** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Mexico** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Mexico](https://en.wikipedia.org/wiki/Public_holidays_in_Mexico )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Mexico](https://en.wikipedia.org/wiki/Public_holidays_in_Mexico)

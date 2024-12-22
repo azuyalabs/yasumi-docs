@@ -15,6 +15,7 @@ There are _16_ registered holidays for the **Catalonia** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
 | :fontawesome-solid-leaf:{ .icon } | 2024-02-14 | Wednesday | Valentine’s Day |
@@ -37,6 +38,4 @@ There are _16_ registered holidays for the **Catalonia** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Catalonia** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Spain](https://en.wikipedia.org/wiki/Public_holidays_in_Spain )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Spain](https://en.wikipedia.org/wiki/Public_holidays_in_Spain)

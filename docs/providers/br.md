@@ -15,6 +15,7 @@ There are _14_ registered holidays for the **Brazil** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-02-12 | Monday | carnavalMonday |
 | :fontawesome-solid-leaf:{ .icon } | 2024-02-13 | Tuesday | carnavalTuesday |
@@ -35,6 +36,4 @@ There are _14_ registered holidays for the **Brazil** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Brazil** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Brazil](https://en.wikipedia.org/wiki/Public_holidays_in_Brazil )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Brazil](https://en.wikipedia.org/wiki/Public_holidays_in_Brazil)

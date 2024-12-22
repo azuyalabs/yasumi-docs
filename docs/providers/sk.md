@@ -15,6 +15,7 @@ There are _14_ registered holidays for the **Slovakia** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | Day of the Establishment of the Slovak Republic |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
@@ -35,8 +36,5 @@ There are _14_ registered holidays for the **Slovakia** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Slovakia** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Slovakia](https://en.wikipedia.org/wiki/Public_holidays_in_Slovakia )
-   
-1. [https://cs.wikipedia.org/wiki/St%C3%A1tn%C3%AD_sv%C3%A1tky_Slovenska](https://cs.wikipedia.org/wiki/St%C3%A1tn%C3%AD_sv%C3%A1tky_Slovenska )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Slovakia](https://en.wikipedia.org/wiki/Public_holidays_in_Slovakia)
+1. [https://cs.wikipedia.org/wiki/St%C3%A1tn%C3%AD_sv%C3%A1tky_Slovenska](https://cs.wikipedia.org/wiki/St%C3%A1tn%C3%AD_sv%C3%A1tky_Slovenska)

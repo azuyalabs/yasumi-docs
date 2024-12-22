@@ -15,6 +15,7 @@ There are _13_ registered holidays for the **Portugal** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-31 | Sunday | Easter Sunday |
@@ -34,8 +35,5 @@ There are _13_ registered holidays for the **Portugal** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Portugal** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Portugal](https://en.wikipedia.org/wiki/Public_holidays_in_Portugal )
-   
-1. [https://pt.wikipedia.org/wiki/Feriados_em_Portugal](https://pt.wikipedia.org/wiki/Feriados_em_Portugal )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Portugal](https://en.wikipedia.org/wiki/Public_holidays_in_Portugal)
+1. [https://pt.wikipedia.org/wiki/Feriados_em_Portugal](https://pt.wikipedia.org/wiki/Feriados_em_Portugal)

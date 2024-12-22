@@ -15,6 +15,7 @@ There are _17_ registered holidays for the **Romania** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-02 | Tuesday | Day after New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
@@ -38,8 +39,5 @@ There are _17_ registered holidays for the **Romania** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Romania** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Romania](https://en.wikipedia.org/wiki/Public_holidays_in_Romania )
-   
-1. [https://ro.wikipedia.org/wiki/S%C4%83rb%C4%83tori_publice_%C3%AEn_Rom%C3%A2nia](https://ro.wikipedia.org/wiki/S%C4%83rb%C4%83tori_publice_%C3%AEn_Rom%C3%A2nia )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Romania](https://en.wikipedia.org/wiki/Public_holidays_in_Romania)
+1. [https://ro.wikipedia.org/wiki/S%C4%83rb%C4%83tori_publice_%C3%AEn_Rom%C3%A2nia](https://ro.wikipedia.org/wiki/S%C4%83rb%C4%83tori_publice_%C3%AEn_Rom%C3%A2nia)

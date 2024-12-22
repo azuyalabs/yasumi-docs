@@ -15,6 +15,7 @@ There are _14_ registered holidays for the **Uri** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-19 | Tuesday | St. Joseph’s Day |
@@ -35,10 +36,6 @@ There are _14_ registered holidays for the **Uri** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Uri** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Switzerland](https://en.wikipedia.org/wiki/Public_holidays_in_Switzerland )
-   
-1. [https://fr.wikipedia.org/wiki/Jours_f%C3%A9ri%C3%A9s_en_Suisse](https://fr.wikipedia.org/wiki/Jours_f%C3%A9ri%C3%A9s_en_Suisse )
-   
-1. [https://it.wikipedia.org/wiki/Festivit%C3%A0_in_Svizzera](https://it.wikipedia.org/wiki/Festivit%C3%A0_in_Svizzera )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Switzerland](https://en.wikipedia.org/wiki/Public_holidays_in_Switzerland)
+1. [https://fr.wikipedia.org/wiki/Jours_f%C3%A9ri%C3%A9s_en_Suisse](https://fr.wikipedia.org/wiki/Jours_f%C3%A9ri%C3%A9s_en_Suisse)
+1. [https://it.wikipedia.org/wiki/Festivit%C3%A0_in_Svizzera](https://it.wikipedia.org/wiki/Festivit%C3%A0_in_Svizzera)

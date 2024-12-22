@@ -15,6 +15,7 @@ There are _13_ registered holidays for the **Poland** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-31 | Sunday | Easter Sunday |
@@ -34,8 +35,5 @@ There are _13_ registered holidays for the **Poland** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Poland** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Poland](https://en.wikipedia.org/wiki/Public_holidays_in_Poland )
-   
-1. [https://pl.wikipedia.org/wiki/Dni_wolne_od_pracy_w_Polsce](https://pl.wikipedia.org/wiki/Dni_wolne_od_pracy_w_Polsce )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Poland](https://en.wikipedia.org/wiki/Public_holidays_in_Poland)
+1. [https://pl.wikipedia.org/wiki/Dni_wolne_od_pracy_w_Polsce](https://pl.wikipedia.org/wiki/Dni_wolne_od_pracy_w_Polsce)

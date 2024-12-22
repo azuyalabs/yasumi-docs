@@ -15,6 +15,7 @@ There are _19_ registered holidays for the **Sweden** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-05 | Friday | Epiphany Eve |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
@@ -40,8 +41,5 @@ There are _19_ registered holidays for the **Sweden** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Sweden** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Sweden](https://en.wikipedia.org/wiki/Public_holidays_in_Sweden )
-   
-1. [https://sv.wikipedia.org/wiki/Helgdagar_i_Sverige](https://sv.wikipedia.org/wiki/Helgdagar_i_Sverige )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Sweden](https://en.wikipedia.org/wiki/Public_holidays_in_Sweden)
+1. [https://sv.wikipedia.org/wiki/Helgdagar_i_Sverige](https://sv.wikipedia.org/wiki/Helgdagar_i_Sverige)

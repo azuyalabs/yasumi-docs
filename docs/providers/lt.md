@@ -15,6 +15,7 @@ There are _14_ registered holidays for the **Lithuania** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-02-16 | Friday | Day of Restoration of the State of Lithuania |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-11 | Monday | Day of Restoration of Independence of Lithuania |
@@ -35,8 +36,5 @@ There are _14_ registered holidays for the **Lithuania** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Lithuania** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Lithuania](https://en.wikipedia.org/wiki/Public_holidays_in_Lithuania )
-   
-1. [https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Lietuvos_%C5%A1vent%C4%97s](https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Lietuvos_%C5%A1vent%C4%97s )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Lithuania](https://en.wikipedia.org/wiki/Public_holidays_in_Lithuania)
+1. [https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Lietuvos_%C5%A1vent%C4%97s](https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Lietuvos_%C5%A1vent%C4%97s)

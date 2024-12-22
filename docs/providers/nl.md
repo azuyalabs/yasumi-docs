@@ -15,6 +15,7 @@ There are _26_ registered holidays for the **Netherlands** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
 | :fontawesome-solid-leaf:{ .icon } | 2024-02-11 | Sunday | Carnival |
@@ -47,8 +48,5 @@ There are _26_ registered holidays for the **Netherlands** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Netherlands** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_the_Netherlands](https://en.wikipedia.org/wiki/Public_holidays_in_the_Netherlands )
-   
-1. [https://nl.wikipedia.org/wiki/Feestdagen_in_Nederland](https://nl.wikipedia.org/wiki/Feestdagen_in_Nederland )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_the_Netherlands](https://en.wikipedia.org/wiki/Public_holidays_in_the_Netherlands)
+1. [https://nl.wikipedia.org/wiki/Feestdagen_in_Nederland](https://nl.wikipedia.org/wiki/Feestdagen_in_Nederland)

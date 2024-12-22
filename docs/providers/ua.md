@@ -15,6 +15,7 @@ There are _11_ registered holidays for the **Ukraine** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-07 | Sunday | Christmas |
 | :fontawesome-solid-repeat:{ .icon } | 2024-01-08 | Monday | Christmas observed |
@@ -36,8 +37,5 @@ There are _11_ registered holidays for the **Ukraine** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Ukraine** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Ukraine](https://en.wikipedia.org/wiki/Public_holidays_in_Ukraine )
-   
-1. [https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D0%BE%D0%B1%D0%BE%D1%87%D1%96_%D0%B4%D0%BD%D1%96_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96](https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D0%BE%D0%B1%D0%BE%D1%87%D1%96_%D0%B4%D0%BD%D1%96_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96 )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Ukraine](https://en.wikipedia.org/wiki/Public_holidays_in_Ukraine)
+1. [https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D0%BE%D0%B1%D0%BE%D1%87%D1%96_%D0%B4%D0%BD%D1%96_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96](https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D0%BE%D0%B1%D0%BE%D1%87%D1%96_%D0%B4%D0%BD%D1%96_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96)

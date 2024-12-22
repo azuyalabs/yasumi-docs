@@ -15,6 +15,7 @@ There are _12_ registered holidays for the **Tasmania** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
+
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-01-26 | Friday | Australia Day |
 | :fontawesome-solid-leaf:{ .icon } | 2024-03-11 | Monday | Eight Hour Day |
@@ -33,6 +34,4 @@ There are _12_ registered holidays for the **Tasmania** provider in **2024**.
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Tasmania** Holiday provider.
 
-
-1. [https://en.wikipedia.org/wiki/Public_holidays_in_Australia](https://en.wikipedia.org/wiki/Public_holidays_in_Australia )
-   
+1. [https://en.wikipedia.org/wiki/Public_holidays_in_Australia](https://en.wikipedia.org/wiki/Public_holidays_in_Australia)
