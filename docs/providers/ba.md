@@ -1,6 +1,6 @@
 # Bosnia &amp; Herzegovina
 
-There are _10_ registered holidays for the **Bosnia &amp; Herzegovina** provider in **2024**.
+There are _10_ registered holidays for the **Bosnia &amp; Herzegovina** provider in **2025**.
 
 !!! info ""
 
@@ -15,16 +15,16 @@ There are _10_ registered holidays for the **Bosnia &amp; Herzegovina** provider
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-02 | Tuesday | Day after New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-07 | Sunday | Orthodox Christmas Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-01 | Friday | Independence Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-31 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-02 | Thursday | Second Labour Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-01 | Friday | All Saints’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-25 | Monday | Statehood Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-02 | Thursday | Day after New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-07 | Tuesday | Orthodox Christmas Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-01 | Saturday | Independence Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-02 | Friday | Second Labour Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-01 | Saturday | All Saints’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-25 | Tuesday | Statehood Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
 
 ## Sources
 

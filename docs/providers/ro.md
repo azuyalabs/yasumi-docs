@@ -1,6 +1,6 @@
 # Romania
 
-There are _17_ registered holidays for the **Romania** provider in **2024**.
+There are _17_ registered holidays for the **Romania** provider in **2025**.
 
 !!! info ""
 
@@ -15,23 +15,23 @@ There are _17_ registered holidays for the **Romania** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-02 | Tuesday | Day after New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-07 | Sunday | St. John’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-24 | Wednesday | Union Day / Small Union |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-19 | Monday | Constantin Brâncuși day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-05 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-06 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-01 | Saturday | International Children’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-23 | Sunday | Whitsunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-24 | Monday | Whitmonday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-15 | Thursday | Assumption of Mary |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-30 | Saturday | St. Andrew’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-01 | Sunday | National Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-26 | Thursday | Second Christmas Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-02 | Thursday | Day after New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-06 | Monday | Epiphany |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-07 | Tuesday | St. John’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-24 | Friday | Union Day / Small Union |
+| :fontawesome-solid-leaf:{ .icon } | 2025-02-19 | Wednesday | Constantin Brâncuși day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-01 | Sunday | International Children’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-08 | Sunday | Whitsunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-09 | Monday | Whitmonday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-15 | Friday | Assumption of Mary |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-30 | Sunday | St. Andrew’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-01 | Monday | National Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | Second Christmas Day |
 
 ## Sources
 

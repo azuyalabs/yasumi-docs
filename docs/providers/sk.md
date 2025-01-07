@@ -1,6 +1,6 @@
 # Slovakia
 
-There are _14_ registered holidays for the **Slovakia** provider in **2024**.
+There are _14_ registered holidays for the **Slovakia** provider in **2025**.
 
 !!! info ""
 
@@ -15,20 +15,20 @@ There are _14_ registered holidays for the **Slovakia** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | Day of the Establishment of the Slovak Republic |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-08 | Wednesday | Victory in Europe Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-07-05 | Friday | Saints Cyril and Methodius Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-29 | Thursday | Slovak National Uprising Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-09-15 | Sunday | Our Lady of Sorrows Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-01 | Friday | All Saints’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-17 | Sunday | Struggle for Freedom and Democracy Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-24 | Tuesday | Christmas Eve |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-26 | Thursday | Second Christmas Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | Day of the Establishment of the Slovak Republic |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-06 | Monday | Epiphany |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-08 | Thursday | Victory in Europe Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-07-05 | Saturday | Saints Cyril and Methodius Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-29 | Friday | Slovak National Uprising Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-09-15 | Monday | Our Lady of Sorrows Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-01 | Saturday | All Saints’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-17 | Monday | Struggle for Freedom and Democracy Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-24 | Wednesday | Christmas Eve |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | Second Christmas Day |
 
 ## Sources
 

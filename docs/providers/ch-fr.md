@@ -1,6 +1,6 @@
 # Fribourg (Switzerland)
 
-There are _13_ registered holidays for the **Fribourg** provider in **2024**.
+There are _13_ registered holidays for the **Fribourg** provider in **2025**.
 
 !!! info ""
 
@@ -15,19 +15,19 @@ There are _13_ registered holidays for the **Fribourg** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-02 | Tuesday | Berchtoldstag |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-09 | Thursday | Ascension Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-20 | Monday | Whitmonday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-30 | Thursday | Corpus Christi |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-01 | Thursday | National Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-15 | Thursday | Assumption of Mary |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-01 | Friday | All Saints’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-08 | Sunday | Immaculate Conception |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-26 | Thursday | December 26th |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-02 | Thursday | Berchtoldstag |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-29 | Thursday | Ascension Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-09 | Monday | Whitmonday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-19 | Thursday | Corpus Christi |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-01 | Friday | National Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-15 | Friday | Assumption of Mary |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-01 | Saturday | All Saints’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-08 | Monday | Immaculate Conception |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | December 26th |
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # England (United Kingdom)
 
-There are _9_ registered holidays for the **England** provider in **2024**.
+There are _9_ registered holidays for the **England** provider in **2025**.
 
 !!! info ""
 
@@ -15,15 +15,15 @@ There are _9_ registered holidays for the **England** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-10 | Sunday | Mothering Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-06 | Monday | May Day Bank Holiday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-27 | Monday | Spring Bank Holiday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-26 | Monday | Summer Bank Holiday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-26 | Thursday | Second Christmas Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-30 | Sunday | Mothering Sunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-05 | Monday | May Day Bank Holiday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-26 | Monday | Spring Bank Holiday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-25 | Monday | Summer Bank Holiday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | Second Christmas Day |
 
 ## Sources
 

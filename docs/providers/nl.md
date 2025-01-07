@@ -1,6 +1,6 @@
 # Netherlands
 
-There are _26_ registered holidays for the **Netherlands** provider in **2024**.
+There are _26_ registered holidays for the **Netherlands** provider in **2025**.
 
 !!! info ""
 
@@ -15,32 +15,32 @@ There are _26_ registered holidays for the **Netherlands** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-11 | Sunday | Carnival |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-12 | Monday | Carnival |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-13 | Tuesday | Carnival |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-14 | Wednesday | Valentine’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-14 | Wednesday | Ash Wednesday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-31 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-27 | Saturday | Kings Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-04 | Saturday | Commemoration Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-05 | Sunday | Liberation Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-09 | Thursday | Ascension Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-12 | Sunday | Mother’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-19 | Sunday | Whitsunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-20 | Monday | Whitmonday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-16 | Sunday | Father’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-09-17 | Tuesday | Prince’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-10-04 | Friday | World Animal Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-10-31 | Thursday | Halloween |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-11 | Monday | St. Martin’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-05 | Thursday | St. Nicholas’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-26 | Thursday | Second Christmas Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-06 | Monday | Epiphany |
+| :fontawesome-solid-leaf:{ .icon } | 2025-02-14 | Friday | Valentine’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-02 | Sunday | Carnival |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-03 | Monday | Carnival |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-04 | Tuesday | Carnival |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-05 | Wednesday | Ash Wednesday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-26 | Saturday | Kings Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-04 | Sunday | Commemoration Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-05 | Monday | Liberation Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-11 | Sunday | Mother’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-29 | Thursday | Ascension Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-08 | Sunday | Whitsunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-09 | Monday | Whitmonday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-15 | Sunday | Father’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-09-16 | Tuesday | Prince’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-04 | Saturday | World Animal Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-31 | Friday | Halloween |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-11 | Tuesday | St. Martin’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-05 | Friday | St. Nicholas’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | Second Christmas Day |
 
 ## Sources
 

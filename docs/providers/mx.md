@@ -1,6 +1,6 @@
 # Mexico
 
-There are _19_ registered holidays for the **Mexico** provider in **2024**.
+There are _19_ registered holidays for the **Mexico** provider in **2025**.
 
 !!! info ""
 
@@ -15,25 +15,25 @@ There are _19_ registered holidays for the **Mexico** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-05 | Monday | Constitution Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-18 | Monday | Benito Juárez’s birthday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-31 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-15 | Thursday | Assumption of Mary |
-| :fontawesome-solid-leaf:{ .icon } | 2024-09-16 | Monday | Independence Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-10-14 | Monday | Discovery of America |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-01 | Friday | All Saints’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-02 | Saturday | Day of the Deaths |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-18 | Monday | Revolution Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-08 | Sunday | Immaculate Conception |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-12 | Thursday | virginOfGuadalupe |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-24 | Tuesday | Christmas Eve |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-31 | Tuesday | New Year’s Eve |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-06 | Monday | Epiphany |
+| :fontawesome-solid-leaf:{ .icon } | 2025-02-03 | Monday | Constitution Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-17 | Monday | Benito Juárez’s birthday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-15 | Friday | Assumption of Mary |
+| :fontawesome-solid-leaf:{ .icon } | 2025-09-16 | Tuesday | Independence Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-13 | Monday | Discovery of America |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-01 | Saturday | All Saints’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-02 | Sunday | Day of the Deaths |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-17 | Monday | Revolution Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-08 | Monday | Immaculate Conception |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-12 | Friday | virginOfGuadalupe |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-24 | Wednesday | Christmas Eve |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-31 | Wednesday | New Year’s Eve |
 
 ## Sources
 

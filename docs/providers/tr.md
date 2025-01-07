@@ -1,6 +1,6 @@
 # Türkiye
 
-There are _7_ registered holidays for the **Türkiye** provider in **2024**.
+There are _7_ registered holidays for the **Türkiye** provider in **2025**.
 
 !!! info ""
 
@@ -15,13 +15,13 @@ There are _7_ registered holidays for the **Türkiye** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-23 | Tuesday | nationalSovereigntyDay |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | Labor Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-19 | Sunday | commemorationAtaturk |
-| :fontawesome-solid-leaf:{ .icon } | 2024-07-15 | Monday | democracyDay |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-30 | Friday | victoryDay |
-| :fontawesome-solid-leaf:{ .icon } | 2024-10-29 | Tuesday | republicDay |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-23 | Wednesday | nationalSovereigntyDay |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | Labor Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-19 | Monday | commemorationAtaturk |
+| :fontawesome-solid-leaf:{ .icon } | 2025-07-15 | Tuesday | democracyDay |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-30 | Saturday | victoryDay |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-29 | Wednesday | republicDay |
 
 ## Sources
 

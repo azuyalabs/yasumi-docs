@@ -1,6 +1,6 @@
 # Australian Capital Territory (Australia)
 
-There are _13_ registered holidays for the **Australian Capital Territory** provider in **2024**.
+There are _13_ registered holidays for the **Australian Capital Territory** provider in **2025**.
 
 !!! info ""
 
@@ -15,19 +15,20 @@ There are _13_ registered holidays for the **Australian Capital Territory** prov
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-26 | Friday | Australia Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-11 | Monday | Canberra Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-30 | Saturday | Easter Saturday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-31 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-25 | Thursday | ANZAC Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-27 | Monday | Reconciliation Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-10 | Monday | Queen’s Birthday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-10-07 | Monday | Labor Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-26 | Thursday | Second Christmas Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-26 | Sunday | Australia Day |
+| :fontawesome-solid-repeat:{ .icon } | 2025-01-27 | Monday | Australia Day observed |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-10 | Monday | Canberra Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-19 | Saturday | Easter Saturday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-25 | Friday | ANZAC Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-02 | Monday | Reconciliation Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-09 | Monday | Queen’s Birthday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-06 | Monday | Labor Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | Second Christmas Day |
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Greece
 
-There are _17_ registered holidays for the **Greece** provider in **2024**.
+There are _17_ registered holidays for the **Greece** provider in **2025**.
 
 !!! info ""
 
@@ -15,23 +15,23 @@ There are _17_ registered holidays for the **Greece** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-30 | Tuesday | threeHolyHierarchs |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-18 | Monday | cleanMonday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-25 | Monday | Annunciation |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-25 | Monday | independenceDay |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-03 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-05 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-06 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-13 | Thursday | Ascension Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-23 | Sunday | Whitsunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-24 | Monday | Whitmonday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-15 | Thursday | Assumption of Mary |
-| :fontawesome-solid-leaf:{ .icon } | 2024-10-28 | Monday | ohiDay |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-17 | Sunday | polytechnio |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-06 | Monday | Epiphany |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-30 | Thursday | threeHolyHierarchs |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-03 | Monday | cleanMonday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-25 | Tuesday | Annunciation |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-25 | Tuesday | independenceDay |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-29 | Thursday | Ascension Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-08 | Sunday | Whitsunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-09 | Monday | Whitmonday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-15 | Friday | Assumption of Mary |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-28 | Tuesday | ohiDay |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-17 | Monday | polytechnio |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Sweden
 
-There are _19_ registered holidays for the **Sweden** provider in **2024**.
+There are _19_ registered holidays for the **Sweden** provider in **2025**.
 
 !!! info ""
 
@@ -15,25 +15,25 @@ There are _19_ registered holidays for the **Sweden** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-05 | Friday | Epiphany Eve |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-31 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-30 | Tuesday | Walpurgis Night |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-09 | Thursday | Ascension Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-19 | Sunday | Whitsunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-06 | Thursday | nationalDay |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-21 | Friday | St. John’s Eve |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-22 | Saturday | St. John’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-01 | Friday | All Saints’ Eve |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-02 | Saturday | All Saints’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-24 | Tuesday | Christmas Eve |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-26 | Thursday | Second Christmas Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-31 | Tuesday | New Year’s Eve |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-05 | Sunday | Epiphany Eve |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-06 | Monday | Epiphany |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-30 | Wednesday | Walpurgis Night |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-29 | Thursday | Ascension Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-06 | Friday | nationalDay |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-08 | Sunday | Whitsunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-20 | Friday | St. John’s Eve |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-21 | Saturday | St. John’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-31 | Friday | All Saints’ Eve |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-01 | Saturday | All Saints’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-24 | Wednesday | Christmas Eve |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | Second Christmas Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-31 | Wednesday | New Year’s Eve |
 
 ## Sources
 

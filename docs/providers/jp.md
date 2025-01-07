@@ -1,6 +1,6 @@
 # Japan
 
-There are _16_ registered holidays for the **Japan** provider in **2024**.
+There are _16_ registered holidays for the **Japan** provider in **2025**.
 
 !!! info ""
 
@@ -15,27 +15,25 @@ There are _16_ registered holidays for the **Japan** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-08 | Monday | Coming of Age Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-11 | Sunday | National Foundation Day |
-| :fontawesome-solid-repeat:{ .icon } | 2024-02-12 | Monday | National Foundation Day observed |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-23 | Friday | Emperors Birthday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-20 | Wednesday | Vernal Equinox Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-29 | Monday | Showa Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-03 | Friday | Constitution Memorial Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-04 | Saturday | Greenery Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-05 | Sunday | Children’s Day |
-| :fontawesome-solid-repeat:{ .icon } | 2024-05-06 | Monday | Children’s Day observed |
-| :fontawesome-solid-leaf:{ .icon } | 2024-07-15 | Monday | Marine Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-11 | Sunday | Mountain Day |
-| :fontawesome-solid-repeat:{ .icon } | 2024-08-12 | Monday | Mountain Day observed |
-| :fontawesome-solid-leaf:{ .icon } | 2024-09-16 | Monday | Respect for the Aged Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-09-22 | Sunday | Autumnal Equinox Day |
-| :fontawesome-solid-repeat:{ .icon } | 2024-09-23 | Monday | Autumnal Equinox Day observed |
-| :fontawesome-solid-leaf:{ .icon } | 2024-10-14 | Monday | Sports Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-03 | Sunday | Culture Day |
-| :fontawesome-solid-repeat:{ .icon } | 2024-11-04 | Monday | Culture Day observed |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-23 | Saturday | Labor Thanksgiving Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-13 | Monday | Coming of Age Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-02-11 | Tuesday | National Foundation Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-02-23 | Sunday | Emperors Birthday |
+| :fontawesome-solid-repeat:{ .icon } | 2025-02-24 | Monday | Emperors Birthday observed |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-20 | Thursday | Vernal Equinox Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-29 | Tuesday | Showa Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-03 | Saturday | Constitution Memorial Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-04 | Sunday | Greenery Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-05 | Monday | Children’s Day |
+| :fontawesome-solid-repeat:{ .icon } | 2025-05-06 | Tuesday | Greenery Day observed |
+| :fontawesome-solid-leaf:{ .icon } | 2025-07-21 | Monday | Marine Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-11 | Monday | Mountain Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-09-15 | Monday | Respect for the Aged Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-09-23 | Tuesday | Autumnal Equinox Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-13 | Monday | Sports Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-03 | Monday | Culture Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-23 | Sunday | Labor Thanksgiving Day |
+| :fontawesome-solid-repeat:{ .icon } | 2025-11-24 | Monday | Labor Thanksgiving Day observed |
 
 ## Sources
 

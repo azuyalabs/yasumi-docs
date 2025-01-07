@@ -1,6 +1,6 @@
 # Argentina
 
-There are _17_ registered holidays for the **Argentina** provider in **2024**.
+There are _17_ registered holidays for the **Argentina** provider in **2025**.
 
 !!! info ""
 
@@ -15,23 +15,23 @@ There are _17_ registered holidays for the **Argentina** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-12 | Monday | Carnival Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-13 | Tuesday | Carnival Tuesday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-24 | Sunday | Day of Remembrance for Truth and Justice |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-31 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-02 | Tuesday | Malvinas Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-25 | Saturday | May Revolution |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-17 | Monday | Anniversary of the Passing of General Martín Miguel de Güemes |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-20 | Thursday | General Manuel Belgrano Memorial Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-07-09 | Tuesday | Independence Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-17 | Saturday | General José de San Martín Memorial Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-10-12 | Saturday | Day of Respect for Cultural Diversity |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-20 | Wednesday | National Sovereignty Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-08 | Sunday | Immaculate Conception Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-03 | Monday | Carnival Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-04 | Tuesday | Carnival Tuesday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-24 | Monday | Day of Remembrance for Truth and Justice |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-02 | Wednesday | Malvinas Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-25 | Sunday | May Revolution |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-17 | Tuesday | Anniversary of the Passing of General Martín Miguel de Güemes |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-20 | Friday | General Manuel Belgrano Memorial Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-07-09 | Wednesday | Independence Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-17 | Sunday | General José de San Martín Memorial Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-12 | Sunday | Day of Respect for Cultural Diversity |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-20 | Thursday | National Sovereignty Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-08 | Monday | Immaculate Conception Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
 
 ## Sources
 

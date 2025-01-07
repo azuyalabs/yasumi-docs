@@ -1,6 +1,6 @@
 # Iran
 
-There are _10_ registered holidays for the **Iran** provider in **2024**.
+There are _10_ registered holidays for the **Iran** provider in **2025**.
 
 !!! info ""
 
@@ -15,16 +15,16 @@ There are _10_ registered holidays for the **Iran** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-11 | Sunday | Enqelab e Eslami |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-20 | Wednesday | Melli Shodan e Saneat e Naft |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-21 | Thursday | Nowruz |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-22 | Friday | Nowruz |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-23 | Saturday | Nowruz |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-24 | Sunday | Nowruz |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Ruz e Jomhuri ye Eslami |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-02 | Tuesday | Sizdah be dar |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-04 | Tuesday | Marg e Khomeini |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-05 | Wednesday | Qiam e Panzdah e Khordad |
+| :fontawesome-solid-leaf:{ .icon } | 2025-02-11 | Tuesday | Enqelab e Eslami |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-20 | Thursday | Melli Shodan e Saneat e Naft |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-21 | Friday | Nowruz |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-22 | Saturday | Nowruz |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-23 | Sunday | Nowruz |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-24 | Monday | Nowruz |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-01 | Tuesday | Ruz e Jomhuri ye Eslami |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-02 | Wednesday | Sizdah be dar |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-04 | Wednesday | Marg e Khomeini |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-05 | Thursday | Qiam e Panzdah e Khordad |
 
 ## Sources
 

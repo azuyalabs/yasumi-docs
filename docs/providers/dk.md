@@ -1,6 +1,6 @@
 # Denmark
 
-There are _14_ registered holidays for the **Denmark** provider in **2024**.
+There are _14_ registered holidays for the **Denmark** provider in **2025**.
 
 !!! info ""
 
@@ -15,20 +15,20 @@ There are _14_ registered holidays for the **Denmark** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-28 | Thursday | Maundy Thursday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-31 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-09 | Thursday | Ascension Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-19 | Sunday | Whitsunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-20 | Monday | Whitmonday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-05 | Wednesday | constitutionDay |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-24 | Tuesday | Christmas Eve |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-26 | Thursday | Second Christmas Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-31 | Tuesday | New Year’s Eve |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-17 | Thursday | Maundy Thursday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-29 | Thursday | Ascension Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-05 | Thursday | constitutionDay |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-08 | Sunday | Whitsunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-09 | Monday | Whitmonday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-24 | Wednesday | Christmas Eve |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | Second Christmas Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-31 | Wednesday | New Year’s Eve |
 
 ## Sources
 

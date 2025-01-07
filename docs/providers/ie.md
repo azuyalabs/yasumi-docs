@@ -1,6 +1,6 @@
 # Ireland
 
-There are _12_ registered holidays for the **Ireland** provider in **2024**.
+There are _12_ registered holidays for the **Ireland** provider in **2025**.
 
 !!! info ""
 
@@ -15,19 +15,18 @@ There are _12_ registered holidays for the **Ireland** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-17 | Sunday | St. Patrick’s Day |
-| :fontawesome-solid-repeat:{ .icon } | 2024-03-18 | Monday | St. Patrick’s Day observed |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-31 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-06 | Monday | May Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-19 | Sunday | Whitsunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-03 | Monday | June Holiday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-05 | Monday | August Holiday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-10-28 | Monday | October Holiday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-26 | Thursday | St. Stephen’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-17 | Monday | St. Patrick’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-05 | Monday | May Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-02 | Monday | June Holiday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-08 | Sunday | Whitsunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-04 | Monday | August Holiday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-27 | Monday | October Holiday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | St. Stephen’s Day |
 
 ## Sources
 

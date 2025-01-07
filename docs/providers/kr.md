@@ -1,6 +1,6 @@
 # South Korea
 
-There are _15_ registered holidays for the **South Korea** provider in **2024**.
+There are _15_ registered holidays for the **South Korea** provider in **2025**.
 
 !!! info ""
 
@@ -15,23 +15,24 @@ There are _15_ registered holidays for the **South Korea** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-09 | Friday | Day before Seollal |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-10 | Saturday | Seollal |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-11 | Sunday | Day after Seollal |
-| :fontawesome-solid-repeat:{ .icon } | 2024-02-12 | Monday | Day after Seollal observed |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-01 | Friday | Independence Movement Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-05 | Sunday | Children’s Day |
-| :fontawesome-solid-repeat:{ .icon } | 2024-05-06 | Monday | Children’s Day observed |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-15 | Wednesday | Buddha’s Birthday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-06 | Thursday | Memorial Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-15 | Thursday | Liberation Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-09-16 | Monday | Day before Chuseok |
-| :fontawesome-solid-leaf:{ .icon } | 2024-09-17 | Tuesday | Chuseok |
-| :fontawesome-solid-leaf:{ .icon } | 2024-09-18 | Wednesday | Day after Chuseok |
-| :fontawesome-solid-leaf:{ .icon } | 2024-10-03 | Thursday | National Foundation Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-10-09 | Wednesday | Hangul Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-28 | Tuesday | Day before Seollal |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-29 | Wednesday | Seollal |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-30 | Thursday | Day after Seollal |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-01 | Saturday | Independence Movement Day |
+| :fontawesome-solid-repeat:{ .icon } | 2025-03-03 | Monday | Independence Movement Day observed |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-05 | Monday | Buddha’s Birthday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-05 | Monday | Children’s Day |
+| :fontawesome-solid-repeat:{ .icon } | 2025-05-06 | Tuesday | Buddha’s Birthday observed |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-06 | Friday | Memorial Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-15 | Friday | Liberation Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-03 | Friday | National Foundation Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-05 | Sunday | Day before Chuseok |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-06 | Monday | Chuseok |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-07 | Tuesday | Day after Chuseok |
+| :fontawesome-solid-repeat:{ .icon } | 2025-10-08 | Wednesday | Day before Chuseok observed |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-09 | Thursday | Hangul Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
 
 ## Sources
 

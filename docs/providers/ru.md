@@ -1,6 +1,6 @@
 # Russia
 
-There are _14_ registered holidays for the **Russia** provider in **2024**.
+There are _14_ registered holidays for the **Russia** provider in **2025**.
 
 !!! info ""
 
@@ -15,20 +15,20 @@ There are _14_ registered holidays for the **Russia** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-02 | Tuesday | New Year’s holidays |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-03 | Wednesday | New Year’s holidays |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-04 | Thursday | New Year’s holidays |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-05 | Friday | New Year’s holidays |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | New Year’s holidays |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-07 | Sunday | Orthodox Christmas Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-08 | Monday | New Year’s holidays |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-23 | Friday | Defence of the Fatherland Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-08 | Friday | International Women’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | Spring and Labour Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-09 | Thursday | Victory Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-12 | Wednesday | Russia Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-04 | Monday | Unity Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-02 | Thursday | New Year’s holidays |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-03 | Friday | New Year’s holidays |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-04 | Saturday | New Year’s holidays |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-05 | Sunday | New Year’s holidays |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-06 | Monday | New Year’s holidays |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-07 | Tuesday | Orthodox Christmas Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-08 | Wednesday | New Year’s holidays |
+| :fontawesome-solid-leaf:{ .icon } | 2025-02-23 | Sunday | Defence of the Fatherland Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-08 | Saturday | International Women’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | Spring and Labour Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-09 | Friday | Victory Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-12 | Thursday | Russia Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-04 | Tuesday | Unity Day |
 
 ## Sources
 

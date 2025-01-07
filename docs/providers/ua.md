@@ -1,6 +1,6 @@
 # Ukraine
 
-There are _11_ registered holidays for the **Ukraine** provider in **2024**.
+There are _11_ registered holidays for the **Ukraine** provider in **2025**.
 
 !!! info ""
 
@@ -15,21 +15,22 @@ There are _11_ registered holidays for the **Ukraine** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-07 | Sunday | Christmas |
-| :fontawesome-solid-repeat:{ .icon } | 2024-01-08 | Monday | Christmas observed |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-08 | Friday | International Women’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-05 | Sunday | Easter Sunday |
-| :fontawesome-solid-repeat:{ .icon } | 2024-05-06 | Monday | Easter Sunday observed |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-09 | Thursday | victoryDay |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-23 | Sunday | Whitsunday |
-| :fontawesome-solid-repeat:{ .icon } | 2024-06-24 | Monday | Whitsunday observed |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-28 | Friday | constitutionDay |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-24 | Saturday | independenceDay |
-| :fontawesome-solid-repeat:{ .icon } | 2024-08-26 | Monday | independenceDay observed |
-| :fontawesome-solid-leaf:{ .icon } | 2024-10-14 | Monday | defenderOfUkraineDay |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | catholicChristmasDay |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-07 | Tuesday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-08 | Saturday | International Women’s Day |
+| :fontawesome-solid-repeat:{ .icon } | 2025-03-10 | Monday | International Women’s Day observed |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
+| :fontawesome-solid-repeat:{ .icon } | 2025-04-21 | Monday | Easter Sunday observed |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-09 | Friday | victoryDay |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-08 | Sunday | Whitsunday |
+| :fontawesome-solid-repeat:{ .icon } | 2025-06-09 | Monday | Whitsunday observed |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-28 | Saturday | constitutionDay |
+| :fontawesome-solid-repeat:{ .icon } | 2025-06-30 | Monday | constitutionDay observed |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-24 | Sunday | independenceDay |
+| :fontawesome-solid-repeat:{ .icon } | 2025-08-25 | Monday | independenceDay observed |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-14 | Tuesday | defenderOfUkraineDay |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | catholicChristmasDay |
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Czech Republic
 
-There are _14_ registered holidays for the **Czech Republic** provider in **2024**.
+There are _14_ registered holidays for the **Czech Republic** provider in **2025**.
 
 !!! info ""
 
@@ -15,20 +15,20 @@ There are _14_ registered holidays for the **Czech Republic** provider in **2024
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | Day of renewal of the independent Czech state |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-08 | Wednesday | Victory in Europe Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-07-05 | Friday | Saints Cyril and Methodius Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-07-06 | Saturday | Jan Hus Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-09-28 | Saturday | St. Wenceslas Day (Czech Statehood Day) |
-| :fontawesome-solid-leaf:{ .icon } | 2024-10-28 | Monday | Independent Czechoslovak State Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-17 | Sunday | Struggle for Freedom and Democracy Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-24 | Tuesday | Christmas Eve |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-26 | Thursday | Second Christmas Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | Day of renewal of the independent Czech state |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-08 | Thursday | Victory in Europe Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-07-05 | Saturday | Saints Cyril and Methodius Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-07-06 | Sunday | Jan Hus Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-09-28 | Sunday | St. Wenceslas Day (Czech Statehood Day) |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-28 | Tuesday | Independent Czechoslovak State Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-17 | Monday | Struggle for Freedom and Democracy Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-24 | Wednesday | Christmas Eve |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | Second Christmas Day |
 
 ## Sources
 

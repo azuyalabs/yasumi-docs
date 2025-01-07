@@ -1,6 +1,6 @@
 # Switzerland
 
-There are _1_ registered holidays for the **Switzerland** provider in **2024**.
+There are _1_ registered holidays for the **Switzerland** provider in **2025**.
 
 !!! info ""
 
@@ -15,7 +15,7 @@ There are _1_ registered holidays for the **Switzerland** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-01 | Thursday | National Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-01 | Friday | National Day |
 
 ## Sources
 

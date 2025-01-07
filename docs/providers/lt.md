@@ -1,6 +1,6 @@
 # Lithuania
 
-There are _14_ registered holidays for the **Lithuania** provider in **2024**.
+There are _14_ registered holidays for the **Lithuania** provider in **2025**.
 
 !!! info ""
 
@@ -15,20 +15,20 @@ There are _14_ registered holidays for the **Lithuania** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-16 | Friday | Day of Restoration of the State of Lithuania |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-11 | Monday | Day of Restoration of Independence of Lithuania |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-31 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-24 | Monday | St. John’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-07-06 | Saturday | Statehood Day (Lithuania) |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-15 | Thursday | Assumption of Mary |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-01 | Friday | All Saints’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-02 | Saturday | All Souls’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-24 | Tuesday | Christmas Eve |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-26 | Thursday | Second Christmas Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-02-16 | Sunday | Day of Restoration of the State of Lithuania |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-11 | Tuesday | Day of Restoration of Independence of Lithuania |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-24 | Tuesday | St. John’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-07-06 | Sunday | Statehood Day (Lithuania) |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-15 | Friday | Assumption of Mary |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-01 | Saturday | All Saints’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-02 | Sunday | All Souls’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-24 | Wednesday | Christmas Eve |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | Second Christmas Day |
 
 ## Sources
 

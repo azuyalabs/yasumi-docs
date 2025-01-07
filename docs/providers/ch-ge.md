@@ -1,6 +1,6 @@
 # Geneva (Switzerland)
 
-There are _9_ registered holidays for the **Geneva** provider in **2024**.
+There are _9_ registered holidays for the **Geneva** provider in **2025**.
 
 !!! info ""
 
@@ -15,15 +15,15 @@ There are _9_ registered holidays for the **Geneva** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-09 | Thursday | Ascension Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-20 | Monday | Whitmonday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-01 | Thursday | National Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-09-05 | Thursday | jeuneGenevois |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-31 | Tuesday | restaurationGenevoise |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-29 | Thursday | Ascension Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-09 | Monday | Whitmonday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-01 | Friday | National Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-09-11 | Thursday | jeuneGenevois |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-31 | Wednesday | restaurationGenevoise |
 
 ## Sources
 

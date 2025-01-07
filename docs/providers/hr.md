@@ -1,6 +1,6 @@
 # Croatia
 
-There are _14_ registered holidays for the **Croatia** provider in **2024**.
+There are _14_ registered holidays for the **Croatia** provider in **2025**.
 
 !!! info ""
 
@@ -15,20 +15,20 @@ There are _14_ registered holidays for the **Croatia** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-06 | Saturday | Epiphany |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-31 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-01 | Wednesday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-30 | Thursday | Corpus Christi |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-30 | Thursday | Statehood Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-06-22 | Saturday | Day of Antifascist Struggle |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-05 | Monday | Victory and Homeland Thanksgiving Day and the Day of Croatian Defenders |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-15 | Thursday | Assumption of Mary |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-01 | Friday | All Saints’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-18 | Monday | Remembrance Day for Homeland War Victims and Remembrance Day for the Victims of Vukovar and Skabrnja |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-26 | Thursday | St. Stephen’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-06 | Monday | Epiphany |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-30 | Friday | Statehood Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-19 | Thursday | Corpus Christi |
+| :fontawesome-solid-leaf:{ .icon } | 2025-06-22 | Sunday | Day of Antifascist Struggle |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-05 | Tuesday | Victory and Homeland Thanksgiving Day and the Day of Croatian Defenders |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-15 | Friday | Assumption of Mary |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-01 | Saturday | All Saints’ Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-18 | Tuesday | Remembrance Day for Homeland War Victims and Remembrance Day for the Victims of Vukovar and Skabrnja |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | St. Stephen’s Day |
 
 ## Sources
 

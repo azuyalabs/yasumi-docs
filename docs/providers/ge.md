@@ -1,6 +1,6 @@
 # Georgia
 
-There are _14_ registered holidays for the **Georgia** provider in **2024**.
+There are _14_ registered holidays for the **Georgia** provider in **2025**.
 
 !!! info ""
 
@@ -15,20 +15,20 @@ There are _14_ registered holidays for the **Georgia** provider in **2024**.
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-02 | Tuesday | Second day of the New Year |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-07 | Sunday | Orthodox Christmas Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-19 | Friday | Orthodox Epiphany Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-03 | Sunday | Mothers Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-08 | Friday | International Women’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-09 | Tuesday | National Unity Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-05 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-09 | Thursday | Day of Victory over Fascism |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-12 | Sunday | Saint Andrew the First-Called Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-26 | Sunday | Independence Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-28 | Wednesday | Saint Marys Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-10-14 | Monday | Day of Svetitskhoveli Cathedral |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-23 | Saturday | Saint Georges Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-02 | Thursday | Second day of the New Year |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-07 | Tuesday | Orthodox Christmas Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-19 | Sunday | Orthodox Epiphany Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-03 | Monday | Mothers Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-03-08 | Saturday | International Women’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-09 | Wednesday | National Unity Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-09 | Friday | Day of Victory over Fascism |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-12 | Monday | Saint Andrew the First-Called Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-26 | Monday | Independence Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-28 | Thursday | Saint Marys Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-14 | Tuesday | Day of Svetitskhoveli Cathedral |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-23 | Sunday | Saint Georges Day |
 
 ## Sources
 

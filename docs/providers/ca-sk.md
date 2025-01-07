@@ -1,6 +1,6 @@
 # Saskatchewan (Canada)
 
-There are _13_ registered holidays for the **Saskatchewan** provider in **2024**.
+There are _13_ registered holidays for the **Saskatchewan** provider in **2025**.
 
 !!! info ""
 
@@ -15,19 +15,19 @@ There are _13_ registered holidays for the **Saskatchewan** provider in **2024**
 
 |     | Date | Day of the week | Name |
 | --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2024-01-01 | Monday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-02-19 | Monday | Family Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-03-29 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-04-01 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2024-05-20 | Monday | Victoria Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-07-01 | Monday | Canada Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-08-05 | Monday | Saskatchewan Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-09-02 | Monday | Labor Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-09-30 | Monday | National Day For Truth And Reconciliation |
-| :fontawesome-solid-leaf:{ .icon } | 2024-10-14 | Monday | Thanksgiving |
-| :fontawesome-solid-leaf:{ .icon } | 2024-11-11 | Monday | Remembrance Day |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-25 | Wednesday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2024-12-26 | Thursday | Second Christmas Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-02-17 | Monday | Family Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
+| :fontawesome-solid-leaf:{ .icon } | 2025-05-19 | Monday | Victoria Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-07-01 | Tuesday | Canada Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-08-04 | Monday | Saskatchewan Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-09-01 | Monday | Labor Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-09-30 | Tuesday | National Day For Truth And Reconciliation |
+| :fontawesome-solid-leaf:{ .icon } | 2025-10-13 | Monday | Thanksgiving |
+| :fontawesome-solid-leaf:{ .icon } | 2025-11-11 | Tuesday | Remembrance Day |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
+| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | Second Christmas Day |
 
 ## Sources
 
