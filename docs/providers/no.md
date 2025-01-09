@@ -13,25 +13,36 @@ There are _12_ registered holidays for the **Norway** provider in **2025**.
 
 ## Holidays
 
-|     | Date | Day of the week | Name |
-| --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-17 | Thursday | Maundy Thursday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-05-17 | Saturday | constitutionDay |
-| :fontawesome-solid-leaf:{ .icon } | 2025-05-29 | Thursday | Ascension Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-06-08 | Sunday | Whitsunday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-06-09 | Monday | Whitmonday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | Second Christmas Day |
+|     | Date | Day of the week | Name | Type |
+| --- | ---- | --------------- | ---- | ---- |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-17 | Thursday | Maundy Thursday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-17 | Saturday | constitutionDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-29 | Thursday | Ascension Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-08 | Sunday | Whitsunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-09 | Monday | Whitmonday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Official |
+
+??? info "Legend"
+
+    - **Official** - Holidays that are marked as public or statutory.
+    - **Observance** - Holidays that are not necessarily official however are being observed.
+    - **Bank** - A public holiday in the United Kingdom, some Commonwealth countries and some other European countries.
+    - **Seasonal** - Holidays that are celebrated due to its seasonal character (e.g. Halloween).
+    - **Other** - Holidays that fall outside any of the above type.
 
 ## Sources
 
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Norway** Holiday provider.
 
+
 1. [https://en.wikipedia.org/wiki/Public_holidays_in_Norway](https://en.wikipedia.org/wiki/Public_holidays_in_Norway)
+   
 1. [https://no.wikipedia.org/wiki/Helligdager_i_Norge](https://no.wikipedia.org/wiki/Helligdager_i_Norge)
+   

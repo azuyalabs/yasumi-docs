@@ -13,24 +13,34 @@ There are _12_ registered holidays for the **Ireland** provider in **2025**.
 
 ## Holidays
 
-|     | Date | Day of the week | Name |
-| --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-03-17 | Monday | St. Patrick’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-05-05 | Monday | May Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-06-02 | Monday | June Holiday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-06-08 | Sunday | Whitsunday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-08-04 | Monday | August Holiday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-10-27 | Monday | October Holiday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | St. Stephen’s Day |
+|     | Date | Day of the week | Name | Type |
+| --- | ---- | --------------- | ---- | ---- |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-17 | Monday | St. Patrick’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-05 | Monday | May Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-02 | Monday | June Holiday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-08 | Sunday | Whitsunday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-04 | Monday | August Holiday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-27 | Monday | October Holiday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | St. Stephen’s Day | Official |
+
+??? info "Legend"
+
+    - **Official** - Holidays that are marked as public or statutory.
+    - **Observance** - Holidays that are not necessarily official however are being observed.
+    - **Bank** - A public holiday in the United Kingdom, some Commonwealth countries and some other European countries.
+    - **Seasonal** - Holidays that are celebrated due to its seasonal character (e.g. Halloween).
+    - **Other** - Holidays that fall outside any of the above type.
 
 ## Sources
 
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Ireland** Holiday provider.
 
+
 1. [https://en.wikipedia.org/wiki/Public_holidays_in_Ireland](https://en.wikipedia.org/wiki/Public_holidays_in_Ireland)
+   

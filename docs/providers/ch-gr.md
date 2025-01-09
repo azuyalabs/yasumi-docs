@@ -13,22 +13,34 @@ There are _8_ registered holidays for the **Graubünden** provider in **2025**.
 
 ## Holidays
 
-|     | Date | Day of the week | Name |
-| --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-05-29 | Thursday | Ascension Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-06-09 | Monday | Whitmonday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-08-01 | Friday | National Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | St. Stephen’s Day |
+|     | Date | Day of the week | Name | Type |
+| --- | ---- | --------------- | ---- | ---- |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-29 | Thursday | Ascension Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-09 | Monday | Whitmonday | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-01 | Friday | National Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | St. Stephen’s Day | Other |
+
+??? info "Legend"
+
+    - **Official** - Holidays that are marked as public or statutory.
+    - **Observance** - Holidays that are not necessarily official however are being observed.
+    - **Bank** - A public holiday in the United Kingdom, some Commonwealth countries and some other European countries.
+    - **Seasonal** - Holidays that are celebrated due to its seasonal character (e.g. Halloween).
+    - **Other** - Holidays that fall outside any of the above type.
 
 ## Sources
 
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Graubünden** Holiday provider.
 
+
 1. [https://en.wikipedia.org/wiki/Public_holidays_in_Switzerland](https://en.wikipedia.org/wiki/Public_holidays_in_Switzerland)
+   
 1. [https://fr.wikipedia.org/wiki/Jours_f%C3%A9ri%C3%A9s_en_Suisse](https://fr.wikipedia.org/wiki/Jours_f%C3%A9ri%C3%A9s_en_Suisse)
+   
 1. [https://it.wikipedia.org/wiki/Festivit%C3%A0_in_Svizzera](https://it.wikipedia.org/wiki/Festivit%C3%A0_in_Svizzera)
+   

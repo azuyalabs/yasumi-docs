@@ -13,27 +13,37 @@ There are _15_ registered holidays for the **Murcia Region** provider in **2025*
 
 ## Holidays
 
-|     | Date | Day of the week | Name |
-| --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-01-06 | Monday | Epiphany |
-| :fontawesome-solid-leaf:{ .icon } | 2025-02-14 | Friday | Valentine’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-03-19 | Wednesday | St. Joseph’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-17 | Thursday | Maundy Thursday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-06-09 | Monday | murciaDay |
-| :fontawesome-solid-leaf:{ .icon } | 2025-08-15 | Friday | Assumption of Mary |
-| :fontawesome-solid-leaf:{ .icon } | 2025-10-12 | Sunday | nationalDay |
-| :fontawesome-solid-leaf:{ .icon } | 2025-11-01 | Saturday | All Saints’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-12-06 | Saturday | constitutionDay |
-| :fontawesome-solid-leaf:{ .icon } | 2025-12-08 | Monday | Immaculate Conception |
-| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
+|     | Date | Day of the week | Name | Type |
+| --- | ---- | --------------- | ---- | ---- |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-06 | Monday | Epiphany | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-02-14 | Friday | Valentine’s Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-19 | Wednesday | St. Joseph’s Day | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-17 | Thursday | Maundy Thursday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-09 | Monday | murciaDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-15 | Friday | Assumption of Mary | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-12 | Sunday | nationalDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-01 | Saturday | All Saints’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-06 | Saturday | constitutionDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-08 | Monday | Immaculate Conception | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
+
+??? info "Legend"
+
+    - **Official** - Holidays that are marked as public or statutory.
+    - **Observance** - Holidays that are not necessarily official however are being observed.
+    - **Bank** - A public holiday in the United Kingdom, some Commonwealth countries and some other European countries.
+    - **Seasonal** - Holidays that are celebrated due to its seasonal character (e.g. Halloween).
+    - **Other** - Holidays that fall outside any of the above type.
 
 ## Sources
 
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Murcia Region** Holiday provider.
 
+
 1. [https://en.wikipedia.org/wiki/Public_holidays_in_Spain](https://en.wikipedia.org/wiki/Public_holidays_in_Spain)
+   

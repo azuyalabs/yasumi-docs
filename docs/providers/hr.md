@@ -13,28 +13,40 @@ There are _14_ registered holidays for the **Croatia** provider in **2025**.
 
 ## Holidays
 
-|     | Date | Day of the week | Name |
-| --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-01-06 | Monday | Epiphany |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-05-30 | Friday | Statehood Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-06-19 | Thursday | Corpus Christi |
-| :fontawesome-solid-leaf:{ .icon } | 2025-06-22 | Sunday | Day of Antifascist Struggle |
-| :fontawesome-solid-leaf:{ .icon } | 2025-08-05 | Tuesday | Victory and Homeland Thanksgiving Day and the Day of Croatian Defenders |
-| :fontawesome-solid-leaf:{ .icon } | 2025-08-15 | Friday | Assumption of Mary |
-| :fontawesome-solid-leaf:{ .icon } | 2025-11-01 | Saturday | All Saints’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-11-18 | Tuesday | Remembrance Day for Homeland War Victims and Remembrance Day for the Victims of Vukovar and Skabrnja |
-| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | St. Stephen’s Day |
+|     | Date | Day of the week | Name | Type |
+| --- | ---- | --------------- | ---- | ---- |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-06 | Monday | Epiphany | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-30 | Friday | Statehood Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-19 | Thursday | Corpus Christi | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-22 | Sunday | Day of Antifascist Struggle | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-05 | Tuesday | Victory and Homeland Thanksgiving Day and the Day of Croatian Defenders | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-15 | Friday | Assumption of Mary | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-01 | Saturday | All Saints’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-18 | Tuesday | Remembrance Day for Homeland War Victims and Remembrance Day for the Victims of Vukovar and Skabrnja | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | St. Stephen’s Day | Official |
+
+??? info "Legend"
+
+    - **Official** - Holidays that are marked as public or statutory.
+    - **Observance** - Holidays that are not necessarily official however are being observed.
+    - **Bank** - A public holiday in the United Kingdom, some Commonwealth countries and some other European countries.
+    - **Seasonal** - Holidays that are celebrated due to its seasonal character (e.g. Halloween).
+    - **Other** - Holidays that fall outside any of the above type.
 
 ## Sources
 
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Croatia** Holiday provider.
 
+
 1. [https://en.wikipedia.org/wiki/Public_holidays_in_Croatia](https://en.wikipedia.org/wiki/Public_holidays_in_Croatia)
+   
 1. [https://sh.wikipedia.org/wiki/Praznici_u_Hrvatskoj](https://sh.wikipedia.org/wiki/Praznici_u_Hrvatskoj)
+   
 1. [https://hr.wikipedia.org/wiki/Blagdani_i_spomendani_u_Hrvatskoj](https://hr.wikipedia.org/wiki/Blagdani_i_spomendani_u_Hrvatskoj)
+   

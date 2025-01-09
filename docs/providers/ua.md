@@ -13,29 +13,40 @@ There are _11_ registered holidays for the **Ukraine** provider in **2025**.
 
 ## Holidays
 
-|     | Date | Day of the week | Name |
-| --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-01-07 | Tuesday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2025-03-08 | Saturday | International Women’s Day |
-| :fontawesome-solid-repeat:{ .icon } | 2025-03-10 | Monday | International Women’s Day observed |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-20 | Sunday | Easter Sunday |
-| :fontawesome-solid-repeat:{ .icon } | 2025-04-21 | Monday | Easter Sunday observed |
-| :fontawesome-solid-leaf:{ .icon } | 2025-05-01 | Thursday | International Workers’ Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-05-09 | Friday | victoryDay |
-| :fontawesome-solid-leaf:{ .icon } | 2025-06-08 | Sunday | Whitsunday |
-| :fontawesome-solid-repeat:{ .icon } | 2025-06-09 | Monday | Whitsunday observed |
-| :fontawesome-solid-leaf:{ .icon } | 2025-06-28 | Saturday | constitutionDay |
-| :fontawesome-solid-repeat:{ .icon } | 2025-06-30 | Monday | constitutionDay observed |
-| :fontawesome-solid-leaf:{ .icon } | 2025-08-24 | Sunday | independenceDay |
-| :fontawesome-solid-repeat:{ .icon } | 2025-08-25 | Monday | independenceDay observed |
-| :fontawesome-solid-leaf:{ .icon } | 2025-10-14 | Tuesday | defenderOfUkraineDay |
-| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | catholicChristmasDay |
+|     | Date | Day of the week | Name | Type |
+| --- | ---- | --------------- | ---- | ---- |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-07 | Tuesday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-08 | Saturday | International Women’s Day | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-03-10 | Monday | International Women’s Day observed | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-04-21 | Monday | Easter Sunday observed | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-09 | Friday | victoryDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-08 | Sunday | Whitsunday | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-06-09 | Monday | Whitsunday observed | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-28 | Saturday | constitutionDay | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-06-30 | Monday | constitutionDay observed | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-24 | Sunday | independenceDay | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-08-25 | Monday | independenceDay observed | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-14 | Tuesday | defenderOfUkraineDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | catholicChristmasDay | Official |
+
+??? info "Legend"
+
+    - **Official** - Holidays that are marked as public or statutory.
+    - **Observance** - Holidays that are not necessarily official however are being observed.
+    - **Bank** - A public holiday in the United Kingdom, some Commonwealth countries and some other European countries.
+    - **Seasonal** - Holidays that are celebrated due to its seasonal character (e.g. Halloween).
+    - **Other** - Holidays that fall outside any of the above type.
 
 ## Sources
 
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **Ukraine** Holiday provider.
 
+
 1. [https://en.wikipedia.org/wiki/Public_holidays_in_Ukraine](https://en.wikipedia.org/wiki/Public_holidays_in_Ukraine)
+   
 1. [https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D0%BE%D0%B1%D0%BE%D1%87%D1%96_%D0%B4%D0%BD%D1%96_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96](https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D0%BE%D0%B1%D0%BE%D1%87%D1%96_%D0%B4%D0%BD%D1%96_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96)
+   

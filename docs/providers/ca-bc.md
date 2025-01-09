@@ -13,25 +13,35 @@ There are _13_ registered holidays for the **British Columbia** provider in **20
 
 ## Holidays
 
-|     | Date | Day of the week | Name |
-| --- | ---- | --------------- | ---- |
-| :fontawesome-solid-leaf:{ .icon } | 2025-01-01 | Wednesday | New Year’s Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-02-17 | Monday | Family Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-18 | Friday | Good Friday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-04-21 | Monday | Easter Monday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-05-19 | Monday | Victoria Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-07-01 | Tuesday | Canada Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-08-04 | Monday | Civic Holiday |
-| :fontawesome-solid-leaf:{ .icon } | 2025-09-01 | Monday | Labor Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-09-30 | Tuesday | National Day For Truth And Reconciliation |
-| :fontawesome-solid-leaf:{ .icon } | 2025-10-13 | Monday | Thanksgiving |
-| :fontawesome-solid-leaf:{ .icon } | 2025-11-11 | Tuesday | Remembrance Day |
-| :fontawesome-solid-leaf:{ .icon } | 2025-12-25 | Thursday | Christmas |
-| :fontawesome-solid-leaf:{ .icon } | 2025-12-26 | Friday | Second Christmas Day |
+|     | Date | Day of the week | Name | Type |
+| --- | ---- | --------------- | ---- | ---- |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-02-17 | Monday | Family Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-19 | Monday | Victoria Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-07-01 | Tuesday | Canada Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-04 | Monday | Civic Holiday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-01 | Monday | Labor Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-30 | Tuesday | National Day For Truth And Reconciliation | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-13 | Monday | Thanksgiving | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-11 | Tuesday | Remembrance Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Official |
+
+??? info "Legend"
+
+    - **Official** - Holidays that are marked as public or statutory.
+    - **Observance** - Holidays that are not necessarily official however are being observed.
+    - **Bank** - A public holiday in the United Kingdom, some Commonwealth countries and some other European countries.
+    - **Seasonal** - Holidays that are celebrated due to its seasonal character (e.g. Halloween).
+    - **Other** - Holidays that fall outside any of the above type.
 
 ## Sources
 
 The following list of sources are used for determining the calculation logic of
 the holidays given by the **British Columbia** Holiday provider.
 
+
 1. [https://en.wikipedia.org/wiki/Public_holidays_in_Canada](https://en.wikipedia.org/wiki/Public_holidays_in_Canada)
+   
