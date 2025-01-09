@@ -50,6 +50,7 @@ markdown_extensions:
   - abbr
   - admonition
   - attr_list
+  - pymdownx.details
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
