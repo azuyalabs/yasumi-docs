@@ -19,13 +19,43 @@ copyright: |
 # configuration
 theme:
   name: material
+
+  # Setup colorscheme for Light and Dark mode
+  # Setup icon set for the light/dark mode toggle
+  # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
   palette:
-    scheme: yasumi
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: "teal"
+      accent: "teal"
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to system preference
+      primary: "teal"
+      accent: "teal"
+
   #logo: assets/img/yasumi_logo.svg
   font:
     text: Inter
   favicon: assets/img/favicon.ico
+
   features:
+    # Navigation pruning (not compatible with navigation.expand)
+    # When pruning is enabled, only the visible navigation items are included in the rendered HTML, reducing the size of the built site by 33% or more.
+    # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-pruning
+    - navigation.prune
+
     - content.code.copy
     - navigation.indexes
     - navigation.prune
@@ -49,8 +79,19 @@ plugins:
 markdown_extensions:
   - abbr
   - admonition
+
+  # The Attribute Lists extension allows us to add HTML attributes and CSS classes to almost every Markdown inline- and block-level element with a special syntax.
+  # We're using this to get a button on the homepage that links to our GitHub app.
+  # https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/#attribute-lists
   - attr_list
+
+  # This configuration adds the ability to align images, add captions to images (rendering them as figures), and mark large images for lazy-loading.
+  # We also need the attr_list markdown extension, which is enabled in the lines above this comment.
+  # https://squidfunk.github.io/mkdocs-material/reference/images/#configuration
+  - md_in_html
+
   - pymdownx.details
+
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
@@ -70,9 +111,24 @@ markdown_extensions:
 extra_css:
   - assets/css/yasumi.css
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/squidfunk
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
+    - icon: fontawesome/brands/python
+      link: https://pypi.org/project/mkdocs-material/
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/squidfunk.bsky.social
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@squidfunk
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/squidfunk
+
 # navigation tree
 nav:
-  - Home: "about.md"
+  - Home: "index.md"
   - Documentation:
       - Getting started: "getting-started.md"
       - Holiday Providers:
