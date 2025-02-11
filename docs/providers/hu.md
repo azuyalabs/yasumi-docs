@@ -9,7 +9,7 @@ There are _13_ registered holidays for the **Hungary** provider in **2025**.
     considered a non-working day or not.
 
     Although Yasumi has the ability to classify holidays (e.g. 'Official', 'Regional', etc.), this isn't optimal
-    feature and we are working on a different classification system.
+    feature and consider changing this in a future release.
 
 ## Holidays
 

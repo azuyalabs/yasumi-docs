@@ -9,7 +9,7 @@ There are _17_ registered holidays for the **Balearic Islands** provider in **20
     considered a non-working day or not.
 
     Although Yasumi has the ability to classify holidays (e.g. 'Official', 'Regional', etc.), this isn't optimal
-    feature and we are working on a different classification system.
+    feature and consider changing this in a future release.
 
 ## Holidays
 
