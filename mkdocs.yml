@@ -101,6 +101,18 @@ extra:
     - icon: fontawesome/brands/square-github
       link: https://packagist.org/packages/azuyalabs/yasumi
 
+# providers with subdivisions are not part of the navigation
+not_in_nav: |
+  /index.md
+  /providers/at-*.md
+  /providers/au-*.md
+  /providers/ca-*.md
+  /providers/ch-*.md
+  /providers/de-*.md
+  /providers/es-*.md
+  /providers/fr-*.md
+  /providers/gb-*.md
+
 # navigation tree
 nav:
   - Documentation:
