@@ -1,4 +1,5 @@
-![Yasumi Logo](./assets/img/yasumi_logo.svg)
+![Yasumi Logo](./assets/img/yasumi_logo.svg#only-light)
+![Yasumi Logo](./assets/img/yasumi_logo-dark.svg#only-dark)
 
 ![Yasumi World Map](./assets/img/map.svg){ loading=lazy }
 

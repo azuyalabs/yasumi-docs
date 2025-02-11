@@ -42,7 +42,8 @@ theme:
       primary: "teal"
       accent: "teal"
 
-  #logo: assets/img/yasumi_logo.svg
+  logo: assets/img/yasumi_logo_globe.svg
+
   font:
     text: Inter
   favicon: assets/img/favicon.ico
