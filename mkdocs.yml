@@ -98,8 +98,10 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/azuyalabs/yasumi
-    - icon: fontawesome/brands/square-github
+    - icon: fontawesome/solid/box-open
       link: https://packagist.org/packages/azuyalabs/yasumi
+    - icon: fontawesome/brands/mastodon
+      link: https://phpc.social/@yasumi
 
 # providers with subdivisions are not part of the navigation
 not_in_nav: |
