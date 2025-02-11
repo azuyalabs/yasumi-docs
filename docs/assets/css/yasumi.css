@@ -5,3 +5,14 @@
 .icon {
     color: var(--ys-primary-color);
 }
+
+#world-map {
+    display: block;
+    margin: auto;
+    width: 70%;
+}
+
+#yasumi-logo {
+    display: block;
+    margin: auto;
+}
