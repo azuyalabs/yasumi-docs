@@ -51,10 +51,10 @@ Now we can instantiate a Yasumi Holiday Provider object with our new custom prov
 
 ```php
 // Use the factory method to create a new holiday provider instance
-$NYSEHolidays = Yasumi\Yasumi::create(NYSE::class, 2023);
+$NYSEHolidays = Yasumi\Yasumi::create(NYSE::class, 2025);
 ```
 
-We then can retrieve the NYSE observed holidays in 2023 in the usual manner:
+We then can retrieve the NYSE observed holidays in 2025 in the usual manner:
 
 ```php
 <?php
@@ -64,19 +64,16 @@ foreach ($NYSEHolidays as $day) {
     echo $day->getName() . PHP_EOL;
 }
 
-// 'New Year’s Day observed'
 // 'New Year’s Day'
 // 'Dr. Martin Luther King Jr’s Birthday'
 // 'Washington’s Birthday'
 // 'Good Friday'
 // 'Memorial Day'
 // 'Juneteenth'
-// 'Juneteenth observed'
 // 'Independence Day'
 // 'Labor Day'
 // 'Thanksgiving Day'
 // 'Christmas'
-// 'Christmas observed'
 ```
 
 ```php

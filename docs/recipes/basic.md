@@ -15,7 +15,7 @@ $holidays = Yasumi\Yasumi::create('USA', (int) date('Y'));
 ```
 
 Now we can access and use the various API methods of Yasumi. Let's see how many holidays the US has in
-2023:
+2025:
 
 ``` php
 <?php
@@ -36,19 +36,17 @@ foreach ($holidays->getHolidayNames() as $name) {
     echo $name . PHP_EOL;
 }
 
-// 'newYearsDay'
-// 'substituteHoliday:newYearsDay'
-// 'martinLutherKingDay'
-// 'washingtonsBirthday'
-// 'memorialDay'
-// 'juneteenth'
-// 'independenceDay'
-// 'labourDay'
-// 'columbusDay'
-// 'veteransDay'
-// 'substituteHoliday:veteransDay'
-// 'thanksgivingDay'
-// 'christmasDay'
+// `newYearsDay`
+// `martinLutherKingDay`
+// `washingtonsBirthday`
+// `memorialDay`
+// `juneteenth`
+// `independenceDay`
+// `labourDay`
+// `columbusDay`
+// `veteransDay`
+// `thanksgivingDay`
+// `christmasDay`
 ```
 
 > These short names are not the names used for display purposes: they are simply used as internal identifiers by Yasumi.
@@ -62,19 +60,17 @@ foreach ($holidays->getHolidayDates() as $date) {
     echo $date . PHP_EOL;
 }
 
-// 2023-01-01
-// 2023-01-02
-// 2023-01-16
-// 2023-02-20
-// 2023-05-29
-// 2023-06-19
-// 2023-07-04
-// 2023-09-04
-// 2023-10-09
-// 2023-11-10
-// 2023-11-11
-// 2023-11-23
-// 2023-12-25
+// 2025-01-01
+// 2025-01-20
+// 2025-02-17
+// 2025-05-26
+// 2025-06-19
+// 2025-07-04
+// 2025-09-01
+// 2025-10-13
+// 2025-11-11
+// 2025-11-27
+// 2025-12-25
 ```
 
 Independence Day is an important holiday in the US. What details can Yasumi tell us about this holiday?
@@ -93,7 +89,7 @@ echo $independenceDay->getName() . PHP_EOL;
 // Get the date
 echo $independenceDay . PHP_EOL;
 
-// '2023-07-04'
+// '2025-07-04'
 
 // Get the type of holiday
 echo $independenceDay->getType() . PHP_EOL;
@@ -112,7 +108,7 @@ echo json_encode($independenceDay, JSON_PRETTY_PRINT);
 //     "translations": {
 //         "en": "Independence Day"
 //     },
-//     "date": "2023-07-04 00:00:00.000000",
+//     "date": "2025-07-04 00:00:00.000000",
 //     "timezone_type": 3,
 //     "timezone": "America\/New_York"
 // }
