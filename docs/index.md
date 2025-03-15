@@ -8,15 +8,15 @@
 Keep your **global** application in sync with holiday dates - _Forever_
 
 **Yasumi** (Japanese for 'Holiday'「休み」) is the easy PHP library that helps you retrieve the dates and names of
-holidays and other special celebrations from various countries/states. It is calculation and rule driven avoiding the
-need of a comprehensive database.
+holidays and other special celebrations from various countries/states. It is calculation and rule-driven, avoiding
+the need for a comprehensive database.
 
 ## Why use Yasumi?
 
-Many services exist that can provide holiday information, however are either not entirely free or only offer limited
-information. In addition, no exhaustive PHP library exists today covering a wide range of holidays and
-countries. [PEAR's Date_Holidays](https://pear.php.net/package/Date_Holidays) library was a similar attempt, however it
-hasn't been updated for a long time.
+Many services exist that can provide holiday information, but are either not entirely free or only offer limited
+information. In addition, no exhaustive PHP library exists today, covering a wide range of holidays and countries.
+[PEAR's Date_Holidays](https://pear.php.net/package/Date_Holidays) library was a similar attempt; However, it hasn't
+been updated for a long time.
 
 <div class="grid cards" markdown>
 
@@ -24,19 +24,19 @@ hasn't been updated for a long time.
 
     ***
 
-    New countries and holidays can be added comfortably as Yasumi is provider based and holidays are rule driven.
+    New countries and holidays can be added comfortably as Yasumi is provider-based and holidays are rule-driven.
 
 - :fontawesome-solid-landmark:{ .lg .middle .icon } **Use with any PHP framework**
 
     ***
 
-    Yasumi is framework agnostic allowing you to use it anywhere, without trouble even when you decide to change your framework.
+    Yasumi is framework-agnostic, allowing you to use it anywhere, without trouble even when you decide to change your framework.
 
 - :fontawesome-solid-language:{ .lg .middle .icon } **Speaks multiple languages**
 
     ***
 
-    Yasumi comes out of the box with translations in many languages for all the holiday names, and is totally timezone aware.
+    Yasumi comes out of the box with translations in many languages for all the holiday names, and is totally timezone-aware.
 
 - :fontawesome-solid-gear:{ .lg .middle .icon } **Open source**
 
@@ -58,7 +58,7 @@ new holiday providers that calculate holidays.
 - Use of [Providers](providers/providers.md) to easily extend and expand new Holidays
 - Common Holiday Providers
 - Accounts for the date/time when holidays have been officially established and/or abolished
-- [Filters](filters.md) enabling to easily select certain holiday types (Official, Observed, Bank, Seasonal or Other)
+- [Filters](filters.md) enabling you to easily select certain holiday types (Official, Observed, Bank, Seasonal or Other)
 - Global Translations
 - Time zone aware
 - Implements [ArrayIterator](https://www.php.net/manual/en/class.arrayiterator.php) to easily process a provider's holidays
