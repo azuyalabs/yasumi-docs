@@ -6,8 +6,8 @@ installed using [Composer](https://getcomposer.org/ "Composer").
 
 ## System Requirements
 
-You need **PHP >= 8.0** to use Yasumi, but the latest stable version of PHP is recommended. Yasumi is
-verified and tested on PHP 8.0 or higher. Other versions of PHP are no longer supported.
+You need **PHP >= 8.1** to use Yasumi, but the latest stable version of PHP is recommended. Yasumi is
+verified and tested on PHP 8.1 or higher. Other versions of PHP are no longer supported.
 
 Please see the [Security and Support Policy](security.md) for more details.
 

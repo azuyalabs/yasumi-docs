@@ -1,6 +1,6 @@
 # Brazil
 
-There are _14_ registered holidays for the **Brazil** provider in **2025**.
+There are _15_ registered holidays for the **Brazil** provider in **2025**.
 
 !!! info ""
 
@@ -28,6 +28,7 @@ There are _14_ registered holidays for the **Brazil** provider in **2025**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-12 | Sunday | ourLadyOfAparecidaDay | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-02 | Sunday | All Souls’ Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-15 | Saturday | proclamationOfRepublicDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-20 | Thursday | blackConsciousnessDay | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
 
 ??? info "Legend"

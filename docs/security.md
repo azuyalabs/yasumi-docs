@@ -11,6 +11,7 @@ Please refer to the below table for the current supported versions of Yasumi.
 
 | Version  | Supported |
 | -------- | --------- |
+| 2.8      | Yes       |
 | 2.7      | Yes       |
 | 2.6      | Yes       |
 | 2.5      | Yes       |

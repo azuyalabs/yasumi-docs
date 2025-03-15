@@ -16,11 +16,11 @@ There are _17_ registered holidays for the **Argentina** provider in **2025**.
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-03 | Monday | Carnival Monday | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-04 | Tuesday | Carnival Tuesday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-03 | Monday | Carnival Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-04 | Tuesday | Carnival Tuesday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-24 | Monday | Day of Remembrance for Truth and Justice | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-02 | Wednesday | Malvinas Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Observance |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-25 | Sunday | May Revolution | Official |

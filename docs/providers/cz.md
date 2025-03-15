@@ -26,7 +26,7 @@ There are _14_ registered holidays for the **Czech Republic** provider in **2025
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-28 | Sunday | St. Wenceslas Day (Czech Statehood Day) | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-28 | Tuesday | Independent Czechoslovak State Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-17 | Monday | Struggle for Freedom and Democracy Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-24 | Wednesday | Christmas Eve | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-24 | Wednesday | Christmas Eve | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Official |
 
@@ -47,4 +47,6 @@ the holidays given by the **Czech Republic** Holiday provider.
 1. [https://en.wikipedia.org/wiki/Public_holidays_in_the_Czech_Republic](https://en.wikipedia.org/wiki/Public_holidays_in_the_Czech_Republic)
    
 1. [https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_st%C3%A1tn%C3%AD_sv%C3%A1tek](https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_st%C3%A1tn%C3%AD_sv%C3%A1tek)
+   
+1. [https://www.e-sbirka.cz/sb/2000/245/0000-00-00?zalozka=text#par_2](https://www.e-sbirka.cz/sb/2000/245/0000-00-00?zalozka=text#par_2)
    

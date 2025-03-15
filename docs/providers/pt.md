@@ -21,7 +21,7 @@ There are _13_ registered holidays for the **Portugal** provider in **2025**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-25 | Friday | 25thApril | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-10 | Tuesday | Portugal Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-19 | Thursday | Corpus Christi | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-19 | Thursday | Corpus Christi | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-15 | Friday | Assumption of Mary | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-05 | Sunday | portugueseRepublic | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-01 | Saturday | All Saints’ Day | Official |
@@ -46,4 +46,6 @@ the holidays given by the **Portugal** Holiday provider.
 1. [https://en.wikipedia.org/wiki/Public_holidays_in_Portugal](https://en.wikipedia.org/wiki/Public_holidays_in_Portugal)
    
 1. [https://pt.wikipedia.org/wiki/Feriados_em_Portugal](https://pt.wikipedia.org/wiki/Feriados_em_Portugal)
+   
+1. [https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-34546475-73982045](https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-34546475-73982045)
    

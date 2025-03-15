@@ -53,7 +53,7 @@ wherever possible. Yasumi's calculation is provider-based (i.e. by country/state
 new holiday providers that calculate holidays.
 
 - Pure PHP with a straightforward API
-- [Supports](security.md) PHP versions 8.0 or higher
+- [Supports](security.md) PHP versions 8.1 or higher
 - Framework-agnostic
 - Use of [Providers](providers/providers.md) to easily extend and expand new Holidays
 - Common Holiday Providers
