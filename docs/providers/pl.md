@@ -1,6 +1,6 @@
 # Poland
 
-There are _13_ registered holidays for the **Poland** provider in **2025**.
+There are _14_ registered holidays for the **Poland** provider in **2025**.
 
 !!! info ""
 
@@ -26,6 +26,7 @@ There are _13_ registered holidays for the **Poland** provider in **2025**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-15 | Friday | Assumption of Mary | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-01 | Saturday | All Saints’ Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-11 | Tuesday | Independence Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-24 | Wednesday | Christmas Eve | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Official |
 

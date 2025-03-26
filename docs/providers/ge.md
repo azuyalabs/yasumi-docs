@@ -19,7 +19,7 @@ There are _14_ registered holidays for the **Georgia** provider in **2025**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-02 | Thursday | Second day of the New Year | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-07 | Tuesday | Orthodox Christmas Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-19 | Sunday | Orthodox Epiphany Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-03 | Monday | Mothers Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-03 | Monday | Mother’s Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-08 | Saturday | International Women’s Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-09 | Wednesday | National Unity Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Official |

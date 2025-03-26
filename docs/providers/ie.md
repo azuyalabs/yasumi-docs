@@ -1,6 +1,6 @@
 # Ireland
 
-There are _12_ registered holidays for the **Ireland** provider in **2025**.
+There are _13_ registered holidays for the **Ireland** provider in **2025**.
 
 !!! info ""
 
@@ -16,9 +16,10 @@ There are _12_ registered holidays for the **Ireland** provider in **2025**.
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-02-03 | Monday | Saint Brigid’s Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-17 | Monday | St. Patrick’s Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Observance |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-05 | Monday | May Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-02 | Monday | June Holiday | Official |
@@ -43,4 +44,8 @@ the holidays given by the **Ireland** Holiday provider.
 
 
 1. [https://en.wikipedia.org/wiki/Public_holidays_in_Ireland](https://en.wikipedia.org/wiki/Public_holidays_in_Ireland)
+   
+1. [https://www.irishstatutebook.ie/eli/1997/act/20/schedule/2/enacted/en/html](https://www.irishstatutebook.ie/eli/1997/act/20/schedule/2/enacted/en/html)
+   
+1. [https://www.irishstatutebook.ie/eli/2022/si/50/made/en/html](https://www.irishstatutebook.ie/eli/2022/si/50/made/en/html)
    

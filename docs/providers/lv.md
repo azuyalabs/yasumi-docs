@@ -1,6 +1,6 @@
 # Latvia
 
-There are _13_ registered holidays for the **Latvia** provider in **2025**.
+There are _15_ registered holidays for the **Latvia** provider in **2025**.
 
 !!! info ""
 
@@ -21,6 +21,8 @@ There are _13_ registered holidays for the **Latvia** provider in **2025**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-05 | Monday | Restoration of Independence day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-11 | Sunday | Mother’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-08 | Sunday | Whitsunday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-23 | Monday | Midsummer Eve | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-24 | Tuesday | St. John’s Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-18 | Tuesday | Proclamation Day of the Republic of Latvia | Official |
@@ -46,4 +48,8 @@ the holidays given by the **Latvia** Holiday provider.
 1. [https://en.wikipedia.org/wiki/Public_holidays_in_Latvia](https://en.wikipedia.org/wiki/Public_holidays_in_Latvia)
    
 1. [https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Latvijos_%C5%A1vent%C4%97s](https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Latvijos_%C5%A1vent%C4%97s)
+   
+1. [https://www.mfa.gov.lv/en/11-national-hollidays-and-remembrance-days](https://www.mfa.gov.lv/en/11-national-hollidays-and-remembrance-days)
+   
+1. [https://likumi.lv/ta/id/72608-par-svetku-atceres-un-atzimejamam-dienam](https://likumi.lv/ta/id/72608-par-svetku-atceres-un-atzimejamam-dienam)
    

@@ -1,6 +1,6 @@
 # Lithuania
 
-There are _14_ registered holidays for the **Lithuania** provider in **2025**.
+There are _16_ registered holidays for the **Lithuania** provider in **2025**.
 
 !!! info ""
 
@@ -21,6 +21,8 @@ There are _14_ registered holidays for the **Lithuania** provider in **2025**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-04 | Sunday | Mother’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-01 | Sunday | Father’s Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-24 | Tuesday | St. John’s Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-07-06 | Sunday | Statehood Day (Lithuania) | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-15 | Friday | Assumption of Mary | Official |
@@ -47,4 +49,6 @@ the holidays given by the **Lithuania** Holiday provider.
 1. [https://en.wikipedia.org/wiki/Public_holidays_in_Lithuania](https://en.wikipedia.org/wiki/Public_holidays_in_Lithuania)
    
 1. [https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Lietuvos_%C5%A1vent%C4%97s](https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Lietuvos_%C5%A1vent%C4%97s)
+   
+1. [https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/10c6bfd07bd511e6a0f68fd135e6f40c/asr](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/10c6bfd07bd511e6a0f68fd135e6f40c/asr)
    

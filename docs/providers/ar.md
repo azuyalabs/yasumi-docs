@@ -24,12 +24,12 @@ There are _17_ registered holidays for the **Argentina** provider in **2025**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Observance |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-25 | Sunday | May Revolution | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-17 | Tuesday | Anniversary of the Passing of General Martín Miguel de Güemes | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-16 | Monday | Anniversary of the Passing of General Martín Miguel de Güemes | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-20 | Friday | General Manuel Belgrano Memorial Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-07-09 | Wednesday | Independence Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-17 | Sunday | General José de San Martín Memorial Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-12 | Sunday | Day of Respect for Cultural Diversity | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-20 | Thursday | National Sovereignty Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-24 | Monday | National Sovereignty Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-08 | Monday | Immaculate Conception Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
 
@@ -48,4 +48,10 @@ the holidays given by the **Argentina** Holiday provider.
 
 
 1. [https://en.wikipedia.org/wiki/Public_holidays_in_Argentina](https://en.wikipedia.org/wiki/Public_holidays_in_Argentina)
+   
+1. [https://www.argentina.gob.ar/interior/feriados-nacionales-2025](https://www.argentina.gob.ar/interior/feriados-nacionales-2025)
+   
+1. [https://www.argentina.gob.ar/normativa/nacional/ley-27399-281835/texto](https://www.argentina.gob.ar/normativa/nacional/ley-27399-281835/texto)
+   
+1. [https://www.argentina.gob.ar/normativa/nacional/decreto-789-2021-356678/texto](https://www.argentina.gob.ar/normativa/nacional/decreto-789-2021-356678/texto)
    
