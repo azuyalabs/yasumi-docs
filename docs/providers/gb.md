@@ -1,6 +1,6 @@
 # United Kingdom
 
-There are _9_ registered holidays for the **United Kingdom** provider in **2025**.
+There are _8_ registered holidays for the **United Kingdom** provider in **2025**.
 
 !!! info ""
 
@@ -18,7 +18,6 @@ There are _9_ registered holidays for the **United Kingdom** provider in **2025*
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Bank |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-30 | Sunday | Mothering Sunday | Other |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Bank |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-05 | Monday | May Day Bank Holiday | Bank |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-26 | Monday | Spring Bank Holiday | Bank |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-25 | Monday | Summer Bank Holiday | Bank |

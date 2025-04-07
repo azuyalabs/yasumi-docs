@@ -1,6 +1,6 @@
 # Scotland (United Kingdom)
 
-There are _11_ registered holidays for the **Scotland** provider in **2025**.
+There are _10_ registered holidays for the **Scotland** provider in **2025**.
 
 !!! info ""
 
@@ -19,7 +19,6 @@ There are _11_ registered holidays for the **Scotland** provider in **2025**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-02 | Thursday | 2nd January | Bank |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-30 | Sunday | Mothering Sunday | Other |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Bank |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-05 | Monday | May Day Bank Holiday | Bank |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-26 | Monday | Spring Bank Holiday | Bank |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-04 | Monday | August Bank Holiday | Bank |
