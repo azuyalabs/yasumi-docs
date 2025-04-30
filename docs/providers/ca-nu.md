@@ -1,6 +1,6 @@
 # Nunavut (Canada)
 
-There are _12_ registered holidays for the **Nunavut** provider in **2025**.
+There are _13_ registered holidays for the **Nunavut** provider in **2025**.
 
 !!! info ""
 
@@ -20,6 +20,7 @@ There are _12_ registered holidays for the **Nunavut** provider in **2025**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-19 | Monday | Victoria Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-07-01 | Tuesday | Canada Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-07-09 | Wednesday | Nunavut Day | Observance |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-04 | Monday | Civic Holiday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-01 | Monday | Labor Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-30 | Tuesday | National Day For Truth And Reconciliation | Official |
