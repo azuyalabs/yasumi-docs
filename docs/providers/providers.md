@@ -6,7 +6,7 @@ official holidays and non-working days, however other type of holidays or events
 
 ## Coverage
 
-The latest release of Yasumi supports 149 providers (42
+The latest release of Yasumi supports 150 providers (43
 countries and 107 subdivisions):
 
 ![World Map showing supported providers](../assets/img/map_providers.svg)
@@ -106,6 +106,9 @@ countries and 107 subdivisions):
 
 
 - [Brazil](br.md )
+
+
+- [Bulgaria](bg.md )
 
 
 - [Canada](ca.md )
@@ -472,7 +475,7 @@ countries and 107 subdivisions):
     stroke-linejoin: round;
     stroke-linecap: round;
 
-    #AR, #AU, #AT, #BE, #BA, #BR, #CA, #HR, #CZ, #DK, #EE, #FI, #FR, #GE, #DE, #GR, #HU, #IR, #IE, #IT, #JP, #LV, #LT, #LU, #MX, #NL, #NZ, #NO, #PL, #PT, #RO, #RU, #SK, #ZA, #KR, #ES, #SE, #CH, #TR, #US, #UA, #GB {
+    #AR, #AU, #AT, #BE, #BA, #BR, #BG, #CA, #HR, #CZ, #DK, #EE, #FI, #FR, #GE, #DE, #GR, #HU, #IR, #IE, #IT, #JP, #LV, #LT, #LU, #MX, #NL, #NZ, #NO, #PL, #PT, #RO, #RU, #SK, #ZA, #KR, #ES, #SE, #CH, #TR, #US, #UA, #GB {
         fill: #028090;
     }
   }

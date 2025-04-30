@@ -20,6 +20,8 @@ The tests are grouped in some test suites to make testing a bit easier:
 
 - **"Brazil"**: For separately testing the [Brazil](../providers/br.md) Holiday Provider
 
+- **"Bulgaria"**: For separately testing the [Bulgaria](../providers/bg.md) Holiday Provider
+
 - **"Canada"**: For separately testing the [Canada](../providers/ca.md) Holiday Provider
 
 - **"Croatia"**: For separately testing the [Croatia](../providers/hr.md) Holiday Provider
