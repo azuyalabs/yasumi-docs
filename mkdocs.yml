@@ -178,6 +178,7 @@ nav:
       - Testing: "developers/testing.md"
   - Releases:
       - Releases: "releases/index.md"
+      - 2.8.0: "releases/2.8.0.md"
       - 2.7.0: "releases/2.7.0.md"
       - 2.6.0: "releases/2.6.0.md"
       - 2.5.0: "releases/2.5.0.md"
