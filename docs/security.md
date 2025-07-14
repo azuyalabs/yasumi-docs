@@ -8,8 +8,8 @@ The following versions are supported with security updates:
 | -------- | --------- |
 | 2.8      | Yes       |
 | 2.7      | Yes       |
-| 2.6      | Yes       |
-| 2.5      | Yes       |
+| 2.6      | No        |
+| 2.5      | No        |
 | &lt; 2.4 | No        |
 
 As for supported PHP versions, Yasumi only supports the actively supported versions of PHP and versions of PHP
