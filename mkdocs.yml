@@ -148,6 +148,7 @@ nav:
           - Lithuania: "providers/lt.md"
           - Luxembourg: "providers/lu.md"
           - Mexico: "providers/mx.md"
+          - NYSE: "providers/us-nyse.md"
           - Netherlands: "providers/nl.md"
           - New Zealand: "providers/nz.md"
           - Norway: "providers/no.md"
@@ -162,9 +163,9 @@ nav:
           - Sweden: "providers/se.md"
           - Switzerland: "providers/ch.md"
           - Türkiye: "providers/tr.md"
-          - United States: "providers/us.md"
           - Ukraine: "providers/ua.md"
           - United Kingdom: "providers/gb.md"
+          - United States: "providers/us.md"
       - Filters: "filters.md"
       - Cookbook:
           - Basic: "recipes/basic.md"
@@ -198,4 +199,3 @@ nav:
       - 1.2.0: "releases/1.2.0.md"
       - 1.1.0: "releases/1.1.0.md"
       - 1.0.0: "releases/1.0.0.md"
-  

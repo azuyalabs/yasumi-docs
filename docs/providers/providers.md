@@ -6,8 +6,8 @@ official holidays and non-working days, however other type of holidays or events
 
 ## Coverage
 
-The latest release of Yasumi supports 150 providers (43
-countries and 107 subdivisions):
+The latest release of Yasumi supports 151 providers (43
+countries and 108 subdivisions):
 
 ![World Map showing supported providers](../assets/img/map_providers.svg)
 
@@ -442,6 +442,9 @@ countries and 107 subdivisions):
 
 
 - [USA](us.md )
+
+
+- [USA/NYSE](us-nyse.md )
 
 
 - [Ukraine](ua.md )

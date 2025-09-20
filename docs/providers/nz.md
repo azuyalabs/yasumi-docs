@@ -1,6 +1,6 @@
 # New Zealand
 
-There are _10_ registered holidays for the **New Zealand** provider in **2025**.
+There are _11_ registered holidays for the **New Zealand** provider in **2025**.
 
 !!! info ""
 
@@ -22,6 +22,7 @@ There are _10_ registered holidays for the **New Zealand** provider in **2025**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-25 | Friday | ANZAC Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-02 | Monday | Queen’s Birthday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-20 | Friday | Matariki | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-27 | Monday | Labor Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Official |
