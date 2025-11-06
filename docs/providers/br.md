@@ -24,7 +24,7 @@ There are _15_ registered holidays for the **Brazil** provider in **2025**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | tiradentesDay | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-19 | Thursday | Corpus Christi | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-07 | Sunday | independenceDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-07 | Sunday | Independence Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-12 | Sunday | ourLadyOfAparecidaDay | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-02 | Sunday | All Souls’ Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-15 | Saturday | proclamationOfRepublicDay | Official |

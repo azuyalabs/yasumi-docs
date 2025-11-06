@@ -25,7 +25,7 @@ There are _13_ registered holidays for the **Finland** provider in **2025**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-08 | Sunday | Whitsunday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-21 | Saturday | St. John’s Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-01 | Saturday | All Saints’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-06 | Saturday | independenceDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-06 | Saturday | Independence Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Official |
 

@@ -20,7 +20,7 @@ There are _17_ registered holidays for the **Greece** provider in **2025**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-30 | Thursday | threeHolyHierarchs | Other |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-03 | Monday | cleanMonday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-25 | Tuesday | Annunciation | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-25 | Tuesday | independenceDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-25 | Tuesday | Independence Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |

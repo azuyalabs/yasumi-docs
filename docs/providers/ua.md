@@ -26,8 +26,8 @@ There are _10_ registered holidays for the **Ukraine** provider in **2025**.
 | :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-06-09 | Monday | Whitsunday observed | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-15 | Sunday | constitutionDay | Official |
 | :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-06-16 | Monday | constitutionDay observed | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-24 | Sunday | independenceDay | Official |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-08-25 | Monday | independenceDay observed | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-24 | Sunday | Independence Day | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-08-25 | Monday | Independence Day observed | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-01 | Wednesday | defenderOfUkraineDay | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | catholicChristmasDay | Official |
 
