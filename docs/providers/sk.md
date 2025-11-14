@@ -1,6 +1,6 @@
 # Slovakia
 
-There are _14_ registered holidays for the **Slovakia** provider in **2025**.
+There are _11_ registered holidays for the **Slovakia** provider in **2025**.
 
 !!! info ""
 
@@ -20,12 +20,9 @@ There are _14_ registered holidays for the **Slovakia** provider in **2025**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Bank |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Bank |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-08 | Thursday | Victory in Europe Day | Bank |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-07-05 | Saturday | Saints Cyril and Methodius Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-29 | Friday | Slovak National Uprising Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-15 | Monday | Our Lady of Sorrows Day | Bank |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-01 | Saturday | All Saints’ Day | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-17 | Monday | Struggle for Freedom and Democracy Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-24 | Wednesday | Christmas Eve | Bank |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Bank |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Bank |
