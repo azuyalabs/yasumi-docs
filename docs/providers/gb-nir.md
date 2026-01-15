@@ -1,6 +1,6 @@
 # Northern Ireland (United Kingdom)
 
-There are _11_ registered holidays for the **Northern Ireland** provider in **2025**.
+There are _11_ registered holidays for the **Northern Ireland** provider in **2026**.
 
 !!! info ""
 
@@ -15,18 +15,20 @@ There are _11_ registered holidays for the **Northern Ireland** provider in **20
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-17 | Monday | St. Patrick’s Day | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-30 | Sunday | Mothering Sunday | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-05 | Monday | May Day Bank Holiday | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-26 | Monday | Spring Bank Holiday | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-07-12 | Saturday | Battle of the Boyne | Bank |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-07-14 | Monday | Battle of the Boyne observed | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-25 | Monday | Summer Bank Holiday | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Bank |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-15 | Sunday | Mothering Sunday | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-17 | Tuesday | St. Patrick’s Day | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-04 | Monday | May Day Bank Holiday | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-25 | Monday | Spring Bank Holiday | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-07-12 | Sunday | Battle of the Boyne | Bank |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2026-07-13 | Monday | Battle of the Boyne observed | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-31 | Monday | Summer Bank Holiday | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Second Christmas Day | Bank |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2026-12-28 | Monday | Second Christmas Day observed | Bank |
 
 ??? info "Legend"
 

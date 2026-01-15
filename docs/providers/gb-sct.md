@@ -1,6 +1,6 @@
 # Scotland (United Kingdom)
 
-There are _10_ registered holidays for the **Scotland** provider in **2025**.
+There are _10_ registered holidays for the **Scotland** provider in **2026**.
 
 !!! info ""
 
@@ -15,17 +15,18 @@ There are _10_ registered holidays for the **Scotland** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-02 | Thursday | 2nd January | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-30 | Sunday | Mothering Sunday | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-05 | Monday | May Day Bank Holiday | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-26 | Monday | Spring Bank Holiday | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-04 | Monday | August Bank Holiday | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-30 | Sunday | St. Andrew’s Day | Bank |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-12-01 | Monday | St. Andrew’s Day observed | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Bank |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-02 | Friday | 2nd January | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-15 | Sunday | Mothering Sunday | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-04 | Monday | May Day Bank Holiday | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-25 | Monday | Spring Bank Holiday | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-03 | Monday | August Bank Holiday | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-30 | Monday | St. Andrew’s Day | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Second Christmas Day | Bank |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2026-12-28 | Monday | Second Christmas Day observed | Bank |
 
 ??? info "Legend"
 

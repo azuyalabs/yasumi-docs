@@ -1,6 +1,6 @@
 # South Africa
 
-There are _12_ registered holidays for the **South Africa** provider in **2025**.
+There are _12_ registered holidays for the **South Africa** provider in **2026**.
 
 !!! info ""
 
@@ -15,19 +15,20 @@ There are _12_ registered holidays for the **South Africa** provider in **2025**
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-21 | Friday | Human Rights Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Family Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-27 | Sunday | Freedom Day | Official |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-04-28 | Monday | Freedom Day observed | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-16 | Monday | Youth Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-09 | Saturday | National Women’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-24 | Wednesday | Heritage Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-16 | Tuesday | Day of Reconciliation | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-21 | Saturday | Human Rights Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Family Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-27 | Monday | Freedom Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-16 | Tuesday | Youth Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-09 | Sunday | National Women’s Day | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2026-08-10 | Monday | National Women’s Day observed | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-24 | Thursday | Heritage Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-16 | Wednesday | Day of Reconciliation | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Second Christmas Day | Official |
 
 ??? info "Legend"
 

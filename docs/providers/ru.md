@@ -1,6 +1,6 @@
 # Russia
 
-There are _14_ registered holidays for the **Russia** provider in **2025**.
+There are _14_ registered holidays for the **Russia** provider in **2026**.
 
 !!! info ""
 
@@ -15,20 +15,21 @@ There are _14_ registered holidays for the **Russia** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-02 | Thursday | New Year’s holidays | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-03 | Friday | New Year’s holidays | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-04 | Saturday | New Year’s holidays | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-05 | Sunday | New Year’s holidays | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-06 | Monday | New Year’s holidays | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-07 | Tuesday | Orthodox Christmas Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-08 | Wednesday | New Year’s holidays | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-02-23 | Sunday | Defence of the Fatherland Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-08 | Saturday | International Women’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | Spring and Labour Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-09 | Friday | Victory Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-12 | Thursday | Russia Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-04 | Tuesday | Unity Day | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-02 | Friday | New Year’s holidays | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-03 | Saturday | New Year’s holidays | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-04 | Sunday | New Year’s holidays | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-05 | Monday | New Year’s holidays | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-06 | Tuesday | New Year’s holidays | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-07 | Wednesday | Orthodox Christmas Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-08 | Thursday | New Year’s holidays | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-23 | Monday | Defence of the Fatherland Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-08 | Sunday | International Women’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | Spring and Labour Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-09 | Saturday | Victory Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-12 | Friday | Russia Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-04 | Wednesday | Unity Day | Official |
 
 ??? info "Legend"
 

@@ -1,6 +1,6 @@
 # Georgia
 
-There are _14_ registered holidays for the **Georgia** provider in **2025**.
+There are _14_ registered holidays for the **Georgia** provider in **2026**.
 
 !!! info ""
 
@@ -15,20 +15,21 @@ There are _14_ registered holidays for the **Georgia** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-02 | Thursday | Second day of the New Year | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-07 | Tuesday | Orthodox Christmas Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-19 | Sunday | Orthodox Epiphany Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-03 | Monday | Mother’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-08 | Saturday | International Women’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-09 | Wednesday | National Unity Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-09 | Friday | Day of Victory over Fascism | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-12 | Monday | Saint Andrew the First-Called Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-26 | Monday | Independence Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-28 | Thursday | Saint Marys Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-14 | Tuesday | Day of Svetitskhoveli Cathedral | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-23 | Sunday | Saint Georges Day | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-02 | Friday | Second day of the New Year | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-07 | Wednesday | Orthodox Christmas Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-19 | Monday | Orthodox Epiphany Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-03 | Tuesday | Mother’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-08 | Sunday | International Women’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-09 | Thursday | National Unity Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-12 | Sunday | Easter Sunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-09 | Saturday | Day of Victory over Fascism | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-12 | Tuesday | Saint Andrew the First-Called Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-26 | Tuesday | Independence Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-28 | Friday | Saint Marys Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-14 | Wednesday | Day of Svetitskhoveli Cathedral | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-23 | Monday | Saint Georges Day | Official |
 
 ??? info "Legend"
 

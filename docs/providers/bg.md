@@ -1,6 +1,6 @@
 # Bulgaria
 
-There are _13_ registered holidays for the **Bulgaria** provider in **2025**.
+There are _13_ registered holidays for the **Bulgaria** provider in **2026**.
 
 !!! info ""
 
@@ -15,19 +15,20 @@ There are _13_ registered holidays for the **Bulgaria** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-03 | Monday | Liberation Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Orthodox Good Friday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Orthodox Easter | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Orthodox Easter Monday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-06 | Tuesday | St. George’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-24 | Saturday | Bulgarian Education and Culture and Slavonic Literature Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-06 | Saturday | Unification Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-22 | Monday | Independence Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-24 | Wednesday | Christmas Eve | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-03 | Tuesday | Liberation Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-10 | Friday | Orthodox Good Friday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-12 | Sunday | Orthodox Easter | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-13 | Monday | Orthodox Easter Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-06 | Wednesday | St. George’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-24 | Sunday | Bulgarian Education and Culture and Slavonic Literature Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-06 | Sunday | Unification Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-22 | Tuesday | Independence Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-24 | Thursday | Christmas Eve | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Second Christmas Day | Official |
 
 ??? info "Legend"
 

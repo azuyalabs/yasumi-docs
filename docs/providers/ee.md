@@ -1,6 +1,6 @@
 # Estonia
 
-There are _12_ registered holidays for the **Estonia** provider in **2025**.
+There are _12_ registered holidays for the **Estonia** provider in **2026**.
 
 !!! info ""
 
@@ -15,18 +15,19 @@ There are _12_ registered holidays for the **Estonia** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-02-24 | Monday | Independence Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-08 | Sunday | Whitsunday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-23 | Monday | Victory Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-24 | Tuesday | St. John’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-20 | Wednesday | Day of Restoration of Independence | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-24 | Wednesday | Christmas Eve | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-24 | Tuesday | Independence Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-05 | Sunday | Easter Sunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-24 | Sunday | Whitsunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-23 | Tuesday | Victory Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-24 | Wednesday | St. John’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-20 | Thursday | Day of Restoration of Independence | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-24 | Thursday | Christmas Eve | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Second Christmas Day | Official |
 
 ??? info "Legend"
 

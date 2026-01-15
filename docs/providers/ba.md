@@ -1,6 +1,6 @@
 # Bosnia &amp; Herzegovina
 
-There are _10_ registered holidays for the **Bosnia &amp; Herzegovina** provider in **2025**.
+There are _10_ registered holidays for the **Bosnia &amp; Herzegovina** provider in **2026**.
 
 !!! info ""
 
@@ -15,16 +15,17 @@ There are _10_ registered holidays for the **Bosnia &amp; Herzegovina** provider
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-02 | Thursday | Day after New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-07 | Tuesday | Orthodox Christmas Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-01 | Saturday | Independence Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-02 | Friday | Second Labour Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-01 | Saturday | All Saints’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-25 | Tuesday | Statehood Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-02 | Friday | Day after New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-07 | Wednesday | Orthodox Christmas Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-01 | Sunday | Independence Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-05 | Sunday | Easter Sunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-02 | Saturday | Second Labour Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-01 | Sunday | All Saints’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-25 | Wednesday | Statehood Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
 
 ??? info "Legend"
 

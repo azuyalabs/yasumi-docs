@@ -1,6 +1,6 @@
 # South Australia (Australia)
 
-There are _11_ registered holidays for the **South Australia** provider in **2025**.
+There are _11_ registered holidays for the **South Australia** provider in **2026**.
 
 !!! info ""
 
@@ -15,18 +15,18 @@ There are _11_ registered holidays for the **South Australia** provider in **202
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-26 | Sunday | Australia Day | Official |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-01-27 | Monday | Australia Day observed | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-10 | Monday | Adelaide Cup | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-19 | Saturday | Easter Saturday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-25 | Friday | ANZAC Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-09 | Monday | Queen’s Birthday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-06 | Monday | Labor Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Proclamation Day | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-26 | Monday | Australia Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-09 | Monday | Adelaide Cup | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-04 | Saturday | Easter Saturday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-25 | Saturday | ANZAC Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-08 | Monday | Queen’s Birthday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-05 | Monday | Labor Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-28 | Monday | Proclamation Day | Official |
 
 ??? info "Legend"
 

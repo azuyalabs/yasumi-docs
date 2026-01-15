@@ -1,6 +1,6 @@
 # Greece
 
-There are _17_ registered holidays for the **Greece** provider in **2025**.
+There are _17_ registered holidays for the **Greece** provider in **2026**.
 
 !!! info ""
 
@@ -15,23 +15,24 @@ There are _17_ registered holidays for the **Greece** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-06 | Monday | Epiphany | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-30 | Thursday | threeHolyHierarchs | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-03 | Monday | cleanMonday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-25 | Tuesday | Annunciation | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-25 | Tuesday | Independence Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-29 | Thursday | Ascension Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-08 | Sunday | Whitsunday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-09 | Monday | Whitmonday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-15 | Friday | Assumption of Mary | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-28 | Tuesday | ohiDay | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-17 | Monday | polytechnio | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-06 | Tuesday | Epiphany | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-30 | Friday | threeHolyHierarchs | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-23 | Monday | cleanMonday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-25 | Wednesday | Annunciation | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-25 | Wednesday | Independence Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-10 | Friday | Good Friday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-12 | Sunday | Easter Sunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-13 | Monday | Easter Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-21 | Thursday | Ascension Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-31 | Sunday | Whitsunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-01 | Monday | Whitmonday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-15 | Saturday | Assumption of Mary | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-28 | Wednesday | ohiDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-17 | Tuesday | polytechnio | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
 
 ??? info "Legend"
 

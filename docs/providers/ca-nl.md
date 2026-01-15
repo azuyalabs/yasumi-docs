@@ -1,6 +1,6 @@
 # Newfoundland and Labrador (Canada)
 
-There are _13_ registered holidays for the **Newfoundland and Labrador** provider in **2025**.
+There are _13_ registered holidays for the **Newfoundland and Labrador** provider in **2026**.
 
 !!! info ""
 
@@ -15,20 +15,21 @@ There are _13_ registered holidays for the **Newfoundland and Labrador** provide
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-17 | Monday | St. Patrick’s Day | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-23 | Wednesday | St. George’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-07-01 | Tuesday | Canada Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-07-12 | Saturday | Orangemen’s Day | Bank |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-07-14 | Monday | Orangemen’s Day observed | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-01 | Monday | Labor Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-30 | Tuesday | National Day For Truth And Reconciliation | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-13 | Monday | Thanksgiving | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-11 | Tuesday | Remembrance Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-17 | Tuesday | St. Patrick’s Day | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-23 | Thursday | St. George’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-07-01 | Wednesday | Canada Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-07-12 | Sunday | Orangemen’s Day | Bank |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2026-07-13 | Monday | Orangemen’s Day observed | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-07 | Monday | Labor Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-30 | Wednesday | National Day For Truth And Reconciliation | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-12 | Monday | Thanksgiving | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-11 | Wednesday | Remembrance Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Second Christmas Day | Official |
 
 ??? info "Legend"
 

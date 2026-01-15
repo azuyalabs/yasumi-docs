@@ -1,6 +1,6 @@
 # Tasmania (Australia)
 
-There are _12_ registered holidays for the **Tasmania** provider in **2025**.
+There are _13_ registered holidays for the **Tasmania** provider in **2026**.
 
 !!! info ""
 
@@ -15,19 +15,20 @@ There are _12_ registered holidays for the **Tasmania** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-26 | Sunday | Australia Day | Official |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-01-27 | Monday | Australia Day observed | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-10 | Monday | Eight Hour Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-25 | Friday | ANZAC Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-02 | Friday | AGFEST | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-09 | Monday | Queen’s Birthday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-03 | Friday | Burnie Show | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-03 | Monday | Recreation Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-26 | Monday | Australia Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-09 | Monday | Eight Hour Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-25 | Saturday | ANZAC Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-08 | Friday | AGFEST | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-08 | Monday | Queen’s Birthday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-02 | Friday | Burnie Show | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-02 | Monday | Recreation Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Second Christmas Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-28 | Monday | Boxing Day Holiday | Official |
 
 ??? info "Legend"
 

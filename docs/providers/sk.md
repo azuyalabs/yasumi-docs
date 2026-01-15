@@ -1,6 +1,6 @@
 # Slovakia
 
-There are _11_ registered holidays for the **Slovakia** provider in **2025**.
+There are _11_ registered holidays for the **Slovakia** provider in **2026**.
 
 !!! info ""
 
@@ -15,17 +15,18 @@ There are _11_ registered holidays for the **Slovakia** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | Day of the Establishment of the Slovak Republic | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-06 | Monday | Epiphany | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-07-05 | Saturday | Saints Cyril and Methodius Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-29 | Friday | Slovak National Uprising Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-01 | Saturday | All Saints’ Day | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-24 | Wednesday | Christmas Eve | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Bank |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Bank |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | Day of the Establishment of the Slovak Republic | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-06 | Tuesday | Epiphany | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-07-05 | Sunday | Saints Cyril and Methodius Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-29 | Saturday | Slovak National Uprising Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-01 | Sunday | All Saints’ Day | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-24 | Thursday | Christmas Eve | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Bank |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Second Christmas Day | Bank |
 
 ??? info "Legend"
 

@@ -1,6 +1,6 @@
 # Obwalden (Switzerland)
 
-There are _14_ registered holidays for the **Obwalden** provider in **2025**.
+There are _14_ registered holidays for the **Obwalden** provider in **2026**.
 
 !!! info ""
 
@@ -15,20 +15,21 @@ There are _14_ registered holidays for the **Obwalden** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-02 | Thursday | Berchtoldstag | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-29 | Thursday | Ascension Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-09 | Monday | Whitmonday | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-19 | Thursday | Corpus Christi | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-01 | Friday | National Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-15 | Friday | Assumption of Mary | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-25 | Thursday | bruderKlausenFest | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-01 | Saturday | All Saints’ Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-08 | Monday | Immaculate Conception | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | St. Stephen’s Day | Other |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-02 | Friday | Berchtoldstag | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-14 | Thursday | Ascension Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-25 | Monday | Whitmonday | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-04 | Thursday | Corpus Christi | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-01 | Saturday | National Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-15 | Saturday | Assumption of Mary | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-25 | Friday | bruderKlausenFest | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-01 | Sunday | All Saints’ Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-08 | Tuesday | Immaculate Conception | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | St. Stephen’s Day | Other |
 
 ??? info "Legend"
 

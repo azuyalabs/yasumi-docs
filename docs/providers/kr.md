@@ -1,6 +1,6 @@
 # South Korea
 
-There are _15_ registered holidays for the **South Korea** provider in **2025**.
+There are _15_ registered holidays for the **South Korea** provider in **2026**.
 
 !!! info ""
 
@@ -15,24 +15,26 @@ There are _15_ registered holidays for the **South Korea** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-28 | Tuesday | Day before Seollal | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-29 | Wednesday | Seollal | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-30 | Thursday | Day after Seollal | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-01 | Saturday | Independence Movement Day | Official |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-03-03 | Monday | Independence Movement Day observed | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-05 | Monday | Buddha’s Birthday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-05 | Monday | Children’s Day | Official |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-05-06 | Tuesday | Buddha’s Birthday observed | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-06 | Friday | Memorial Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-15 | Friday | Liberation Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-03 | Friday | National Foundation Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-05 | Sunday | Day before Chuseok | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-06 | Monday | Chuseok | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-07 | Tuesday | Day after Chuseok | Official |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-10-08 | Wednesday | Day before Chuseok observed | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-09 | Thursday | Hangul Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-16 | Monday | Day before Seollal | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-17 | Tuesday | Seollal | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-18 | Wednesday | Day after Seollal | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-01 | Sunday | Independence Movement Day | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2026-03-02 | Monday | Independence Movement Day observed | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-05 | Tuesday | Children’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-24 | Sunday | Buddha’s Birthday | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2026-05-25 | Monday | Buddha’s Birthday observed | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-06 | Saturday | Memorial Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-15 | Saturday | Liberation Day | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2026-08-17 | Monday | Liberation Day observed | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-24 | Thursday | Day before Chuseok | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-25 | Friday | Chuseok | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-26 | Saturday | Day after Chuseok | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-03 | Saturday | National Foundation Day | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2026-10-05 | Monday | National Foundation Day observed | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-09 | Friday | Hangul Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
 
 ??? info "Legend"
 

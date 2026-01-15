@@ -1,6 +1,6 @@
 # Slovenia
 
-There are _15_ registered holidays for the **Slovenia** provider in **2025**.
+There are _15_ registered holidays for the **Slovenia** provider in **2026**.
 
 !!! info ""
 
@@ -15,21 +15,22 @@ There are _15_ registered holidays for the **Slovenia** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-02 | Thursday | Second New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-02-08 | Saturday | Prešeren Day, Slovenian Cultural Holiday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-27 | Sunday | Day of Uprising Against Occupation | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-02 | Friday | Labor Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-08 | Sunday | Whitsunday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-25 | Wednesday | Statehood Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-15 | Friday | Assumption of Mary | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-31 | Friday | Reformation Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-01 | Saturday | Day of Remembrance for the Dead | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Independence and Unity Day | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-02 | Friday | Second New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-08 | Sunday | Prešeren Day, Slovenian Cultural Holiday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-05 | Sunday | Easter Sunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-27 | Monday | Day of Uprising Against Occupation | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-02 | Saturday | Labor Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-24 | Sunday | Whitsunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-25 | Thursday | Statehood Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-15 | Saturday | Assumption of Mary | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-31 | Saturday | Reformation Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-01 | Sunday | Day of Remembrance for the Dead | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Independence and Unity Day | Official |
 
 ??? info "Legend"
 

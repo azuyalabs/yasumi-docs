@@ -1,6 +1,6 @@
 # Brazil
 
-There are _15_ registered holidays for the **Brazil** provider in **2025**.
+There are _15_ registered holidays for the **Brazil** provider in **2026**.
 
 !!! info ""
 
@@ -15,21 +15,22 @@ There are _15_ registered holidays for the **Brazil** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-03 | Monday | carnavalMonday | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-04 | Tuesday | carnavalTuesday | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-05 | Wednesday | Ash Wednesday | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | tiradentesDay | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-19 | Thursday | Corpus Christi | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-07 | Sunday | Independence Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-12 | Sunday | ourLadyOfAparecidaDay | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-02 | Sunday | All Souls’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-15 | Saturday | proclamationOfRepublicDay | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-20 | Thursday | blackConsciousnessDay | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-16 | Monday | carnavalMonday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-17 | Tuesday | carnavalTuesday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-18 | Wednesday | Ash Wednesday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-05 | Sunday | Easter Sunday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-21 | Tuesday | tiradentesDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-04 | Thursday | Corpus Christi | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-07 | Monday | Independence Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-12 | Monday | ourLadyOfAparecidaDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-02 | Monday | All Souls’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-15 | Sunday | proclamationOfRepublicDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-20 | Friday | blackConsciousnessDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
 
 ??? info "Legend"
 

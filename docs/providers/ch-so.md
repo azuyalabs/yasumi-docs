@@ -1,6 +1,6 @@
 # Solothurn (Switzerland)
 
-There are _6_ registered holidays for the **Solothurn** provider in **2025**.
+There are _6_ registered holidays for the **Solothurn** provider in **2026**.
 
 !!! info ""
 
@@ -15,12 +15,13 @@ There are _6_ registered holidays for the **Solothurn** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-02 | Thursday | Berchtoldstag | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-29 | Thursday | Ascension Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-01 | Friday | National Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Other |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-02 | Friday | Berchtoldstag | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-14 | Thursday | Ascension Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-01 | Saturday | National Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Other |
 
 ??? info "Legend"
 

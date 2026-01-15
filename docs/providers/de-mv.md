@@ -1,6 +1,6 @@
 # Mecklenburg-Vorpommern (Germany)
 
-There are _13_ registered holidays for the **Mecklenburg-Vorpommern** provider in **2025**.
+There are _13_ registered holidays for the **Mecklenburg-Vorpommern** provider in **2026**.
 
 !!! info ""
 
@@ -15,19 +15,20 @@ There are _13_ registered holidays for the **Mecklenburg-Vorpommern** provider i
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-08 | Saturday | International Women’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-29 | Thursday | Ascension Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-08 | Sunday | Whitsunday | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-09 | Monday | Whitmonday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-03 | Friday | germanUnityDay | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-31 | Friday | Reformation Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-31 | Wednesday | New Year’s Eve | Other |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-08 | Sunday | International Women’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-14 | Thursday | Ascension Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-24 | Sunday | Whitsunday | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-25 | Monday | Whitmonday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-03 | Saturday | germanUnityDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-31 | Saturday | Reformation Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Second Christmas Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-31 | Thursday | New Year’s Eve | Other |
 
 ??? info "Legend"
 

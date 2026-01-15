@@ -1,6 +1,6 @@
 # Ireland
 
-There are _13_ registered holidays for the **Ireland** provider in **2025**.
+There are _13_ registered holidays for the **Ireland** provider in **2026**.
 
 !!! info ""
 
@@ -15,19 +15,21 @@ There are _13_ registered holidays for the **Ireland** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-02-03 | Monday | Saint Brigid’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-17 | Monday | St. Patrick’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-05 | Monday | May Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-02 | Monday | June Holiday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-08 | Sunday | Whitsunday | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-04 | Monday | August Holiday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-27 | Monday | October Holiday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | St. Stephen’s Day | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-02 | Monday | Saint Brigid’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-17 | Tuesday | St. Patrick’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-05 | Sunday | Easter Sunday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-04 | Monday | May Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-24 | Sunday | Whitsunday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-01 | Monday | June Holiday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-03 | Monday | August Holiday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-26 | Monday | October Holiday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | St. Stephen’s Day | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2026-12-28 | Monday | St. Stephen’s Day observed | Official |
 
 ??? info "Legend"
 

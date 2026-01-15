@@ -1,6 +1,6 @@
 # Iran
 
-There are _10_ registered holidays for the **Iran** provider in **2025**.
+There are _10_ registered holidays for the **Iran** provider in **2026**.
 
 !!! info ""
 
@@ -15,16 +15,17 @@ There are _10_ registered holidays for the **Iran** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-02-11 | Tuesday | Enqelab e Eslami | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-20 | Thursday | Melli Shodan e Saneat e Naft | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-21 | Friday | Nowruz | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-22 | Saturday | Nowruz | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-23 | Sunday | Nowruz | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-24 | Monday | Nowruz | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-01 | Tuesday | Ruz e Jomhuri ye Eslami | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-02 | Wednesday | Sizdah be dar | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-04 | Wednesday | Marg e Khomeini | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-05 | Thursday | Qiam e Panzdah e Khordad | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-11 | Wednesday | Enqelab e Eslami | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-20 | Friday | Melli Shodan e Saneat e Naft | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-21 | Saturday | Nowruz | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-22 | Sunday | Nowruz | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-23 | Monday | Nowruz | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-24 | Tuesday | Nowruz | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-01 | Wednesday | Ruz e Jomhuri ye Eslami | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-02 | Thursday | Sizdah be dar | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-04 | Thursday | Marg e Khomeini | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-05 | Friday | Qiam e Panzdah e Khordad | Official |
 
 ??? info "Legend"
 

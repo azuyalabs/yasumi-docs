@@ -1,6 +1,6 @@
 # Argentina
 
-There are _17_ registered holidays for the **Argentina** provider in **2025**.
+There are _17_ registered holidays for the **Argentina** provider in **2026**.
 
 !!! info ""
 
@@ -15,23 +15,24 @@ There are _17_ registered holidays for the **Argentina** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-03 | Monday | Carnival Monday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-04 | Tuesday | Carnival Tuesday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-24 | Monday | Day of Remembrance for Truth and Justice | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-02 | Wednesday | Malvinas Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-25 | Sunday | May Revolution | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-16 | Monday | Anniversary of the Passing of General Martín Miguel de Güemes | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-20 | Friday | General Manuel Belgrano Memorial Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-07-09 | Wednesday | Independence Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-17 | Sunday | General José de San Martín Memorial Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-12 | Sunday | Day of Respect for Cultural Diversity | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-24 | Monday | National Sovereignty Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-08 | Monday | Immaculate Conception Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-16 | Monday | Carnival Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-17 | Tuesday | Carnival Tuesday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-24 | Tuesday | Day of Remembrance for Truth and Justice | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-02 | Thursday | Malvinas Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-05 | Sunday | Easter Sunday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-25 | Monday | May Revolution | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-15 | Monday | Anniversary of the Passing of General Martín Miguel de Güemes | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-20 | Saturday | General Manuel Belgrano Memorial Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-07-09 | Thursday | Independence Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-17 | Monday | General José de San Martín Memorial Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-12 | Monday | Day of Respect for Cultural Diversity | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-23 | Monday | National Sovereignty Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-08 | Tuesday | Immaculate Conception Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
 
 ??? info "Legend"
 

@@ -1,6 +1,6 @@
 # Netherlands
 
-There are _26_ registered holidays for the **Netherlands** provider in **2025**.
+There are _28_ registered holidays for the **Netherlands** provider in **2026**.
 
 !!! info ""
 
@@ -15,32 +15,35 @@ There are _26_ registered holidays for the **Netherlands** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-06 | Monday | Epiphany | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-02-14 | Friday | Valentine’s Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-02 | Sunday | Carnival | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-03 | Monday | Carnival | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-04 | Tuesday | Carnival | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-05 | Wednesday | Ash Wednesday | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-26 | Saturday | Kings Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-04 | Sunday | Commemoration Day | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-05 | Monday | Liberation Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-11 | Sunday | Mother’s Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-29 | Thursday | Ascension Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-08 | Sunday | Whitsunday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-09 | Monday | Whitmonday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-15 | Sunday | Father’s Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-16 | Tuesday | Prince’s Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-04 | Saturday | World Animal Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-31 | Friday | Halloween | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-11 | Tuesday | St. Martin’s Day | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-05 | Friday | St. Nicholas’ Day | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-02 | Friday | Day after New Year’s Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-06 | Tuesday | Epiphany | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-14 | Saturday | Valentine’s Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-15 | Sunday | Carnival | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-16 | Monday | Carnival | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-17 | Tuesday | Carnival | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-18 | Wednesday | Ash Wednesday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-05 | Sunday | Easter Sunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-27 | Monday | Kings Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-04 | Monday | Commemoration Day | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-05 | Tuesday | Liberation Day | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-10 | Sunday | Mother’s Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-14 | Thursday | Ascension Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-15 | Friday | Day after Ascension Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-24 | Sunday | Whitsunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-25 | Monday | Whitmonday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-21 | Sunday | Father’s Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-15 | Tuesday | Prince’s Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-04 | Sunday | World Animal Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-31 | Saturday | Halloween | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-11 | Wednesday | St. Martin’s Day | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-05 | Saturday | St. Nicholas’ Day | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Second Christmas Day | Official |
 
 ??? info "Legend"
 

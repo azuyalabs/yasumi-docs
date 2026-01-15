@@ -1,6 +1,6 @@
 # Asturias (Spain)
 
-There are _15_ registered holidays for the **Asturias** provider in **2025**.
+There are _15_ registered holidays for the **Asturias** provider in **2026**.
 
 !!! info ""
 
@@ -15,21 +15,22 @@ There are _15_ registered holidays for the **Asturias** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-06 | Monday | Epiphany | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-02-14 | Friday | Valentine’s Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-19 | Wednesday | St. Joseph’s Day | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-17 | Thursday | Maundy Thursday | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Observance |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-15 | Friday | Assumption of Mary | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-08 | Monday | asturiasDay | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-12 | Sunday | nationalDay | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-01 | Saturday | All Saints’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-06 | Saturday | constitutionDay | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-08 | Monday | Immaculate Conception | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-06 | Tuesday | Epiphany | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-14 | Saturday | Valentine’s Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-19 | Thursday | St. Joseph’s Day | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-02 | Thursday | Maundy Thursday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-05 | Sunday | Easter Sunday | Observance |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-15 | Saturday | Assumption of Mary | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-08 | Tuesday | asturiasDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-12 | Monday | nationalDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-01 | Sunday | All Saints’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-06 | Sunday | constitutionDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-08 | Tuesday | Immaculate Conception | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
 
 ??? info "Legend"
 

@@ -1,6 +1,6 @@
 # Ticino (Switzerland)
 
-There are _15_ registered holidays for the **Ticino** provider in **2025**.
+There are _15_ registered holidays for the **Ticino** provider in **2026**.
 
 !!! info ""
 
@@ -15,21 +15,22 @@ There are _15_ registered holidays for the **Ticino** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-06 | Monday | Epiphany | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-19 | Wednesday | St. Joseph’s Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-29 | Thursday | Ascension Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-09 | Monday | Whitmonday | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-19 | Thursday | Corpus Christi | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-29 | Sunday | Feast of Saints Peter and Paul | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-01 | Friday | National Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-15 | Friday | Assumption of Mary | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-01 | Saturday | All Saints’ Day | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-08 | Monday | Immaculate Conception | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Other |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | St. Stephen’s Day | Other |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-06 | Tuesday | Epiphany | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-19 | Thursday | St. Joseph’s Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-14 | Thursday | Ascension Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-25 | Monday | Whitmonday | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-04 | Thursday | Corpus Christi | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-29 | Monday | Feast of Saints Peter and Paul | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-01 | Saturday | National Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-15 | Saturday | Assumption of Mary | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-01 | Sunday | All Saints’ Day | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-08 | Tuesday | Immaculate Conception | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | St. Stephen’s Day | Other |
 
 ??? info "Legend"
 

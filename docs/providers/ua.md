@@ -1,6 +1,6 @@
 # Ukraine
 
-There are _10_ registered holidays for the **Ukraine** provider in **2025**.
+There are _10_ registered holidays for the **Ukraine** provider in **2026**.
 
 !!! info ""
 
@@ -15,21 +15,20 @@ There are _10_ registered holidays for the **Ukraine** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-08 | Saturday | International Women’s Day | Official |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-03-10 | Monday | International Women’s Day observed | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-20 | Sunday | Easter Sunday | Official |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-04-21 | Monday | Easter Sunday observed | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-08 | Thursday | victoryDay | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-08 | Sunday | Whitsunday | Official |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-06-09 | Monday | Whitsunday observed | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-06-15 | Sunday | constitutionDay | Official |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-06-16 | Monday | constitutionDay observed | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-24 | Sunday | Independence Day | Official |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-08-25 | Monday | Independence Day observed | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-01 | Wednesday | defenderOfUkraineDay | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | catholicChristmasDay | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-08 | Sunday | International Women’s Day | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2026-03-09 | Monday | International Women’s Day observed | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-12 | Sunday | Easter Sunday | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2026-04-13 | Monday | Easter Sunday observed | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-08 | Friday | victoryDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-31 | Sunday | Whitsunday | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2026-06-01 | Monday | Whitsunday observed | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-15 | Monday | constitutionDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-24 | Monday | Independence Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-01 | Thursday | defenderOfUkraineDay | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | catholicChristmasDay | Official |
 
 ??? info "Legend"
 

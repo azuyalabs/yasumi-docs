@@ -1,6 +1,6 @@
 # Japan
 
-There are _16_ registered holidays for the **Japan** provider in **2025**.
+There are _17_ registered holidays for the **Japan** provider in **2026**.
 
 !!! info ""
 
@@ -15,25 +15,25 @@ There are _16_ registered holidays for the **Japan** provider in **2025**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-13 | Monday | Coming of Age Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-02-11 | Tuesday | National Foundation Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-02-23 | Sunday | Emperors Birthday | Official |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-02-24 | Monday | Emperors Birthday observed | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-03-20 | Thursday | Vernal Equinox Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-29 | Tuesday | Showa Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-03 | Saturday | Constitution Memorial Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-04 | Sunday | Greenery Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-05 | Monday | Children’s Day | Official |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-05-06 | Tuesday | Greenery Day observed | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-07-21 | Monday | Marine Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-08-11 | Monday | Mountain Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-15 | Monday | Respect for the Aged Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-23 | Tuesday | Autumnal Equinox Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-13 | Monday | Sports Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-03 | Monday | Culture Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-23 | Sunday | Labor Thanksgiving Day | Official |
-| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2025-11-24 | Monday | Labor Thanksgiving Day observed | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-12 | Monday | Coming of Age Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-11 | Wednesday | National Foundation Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-23 | Monday | Emperors Birthday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-20 | Friday | Vernal Equinox Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-29 | Wednesday | Showa Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-03 | Sunday | Constitution Memorial Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-04 | Monday | Greenery Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-05 | Tuesday | Children’s Day | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2026-05-06 | Wednesday | Constitution Memorial Day observed | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-07-20 | Monday | Marine Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-11 | Tuesday | Mountain Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-21 | Monday | Respect for the Aged Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-22 | Tuesday | Bridge Public holiday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-23 | Wednesday | Autumnal Equinox Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-12 | Monday | Sports Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-03 | Tuesday | Culture Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-23 | Monday | Labor Thanksgiving Day | Official |
 
 ??? info "Legend"
 

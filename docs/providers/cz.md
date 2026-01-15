@@ -1,6 +1,6 @@
 # Czech Republic
 
-There are _14_ registered holidays for the **Czech Republic** provider in **2025**.
+There are _14_ registered holidays for the **Czech Republic** provider in **2026**.
 
 !!! info ""
 
@@ -15,20 +15,21 @@ There are _14_ registered holidays for the **Czech Republic** provider in **2025
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-01-01 | Wednesday | Day of renewal of the independent Czech state | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-18 | Friday | Good Friday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-04-21 | Monday | Easter Monday | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-01 | Thursday | International Workers’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-05-08 | Thursday | Victory in Europe Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-07-05 | Saturday | Saints Cyril and Methodius Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-07-06 | Sunday | Jan Hus Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-09-28 | Sunday | St. Wenceslas Day (Czech Statehood Day) | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-10-28 | Tuesday | Independent Czechoslovak State Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-11-17 | Monday | Struggle for Freedom and Democracy Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-24 | Wednesday | Christmas Eve | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-25 | Thursday | Christmas | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2025-12-26 | Friday | Second Christmas Day | Official |
+
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | Day of renewal of the independent Czech state | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-08 | Friday | Victory in Europe Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-07-05 | Sunday | Saints Cyril and Methodius Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-07-06 | Monday | Jan Hus Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-28 | Monday | St. Wenceslas Day (Czech Statehood Day) | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-28 | Wednesday | Independent Czechoslovak State Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-17 | Tuesday | Struggle for Freedom and Democracy Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-24 | Thursday | Christmas Eve | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Second Christmas Day | Official |
 
 ??? info "Legend"
 

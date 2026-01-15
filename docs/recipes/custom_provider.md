@@ -51,10 +51,10 @@ Now we can instantiate a Yasumi Holiday Provider object with our new custom prov
 
 ```php
 // Use the factory method to create a new holiday provider instance
-$NYSEHolidays = Yasumi\Yasumi::create(NYSE::class, 2025);
+$NYSEHolidays = Yasumi\Yasumi::create(NYSE::class, 2026);
 ```
 
-We then can retrieve the NYSE observed holidays in 2025 in the usual manner:
+We then can retrieve the NYSE observed holidays in 2026 in the usual manner:
 
 ```php
 <?php
@@ -93,4 +93,4 @@ Holiday Provider.
 
 Sources:
 
-* [NYSE Holidays and Trading Hours](https://www.nyse.com/markets/hours-calendars)
+- [NYSE Holidays and Trading Hours](https://www.nyse.com/markets/hours-calendars)
