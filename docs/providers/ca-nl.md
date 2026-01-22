@@ -15,7 +15,6 @@ There are _13_ registered holidays for the **Newfoundland and Labrador** provide
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-17 | Tuesday | St. Patrick’s Day | Bank |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Official |

@@ -15,7 +15,6 @@ There are _10_ registered holidays for the **Iran** provider in **2026**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-11 | Wednesday | Enqelab e Eslami | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-20 | Friday | Melli Shodan e Saneat e Naft | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-21 | Saturday | Nowruz | Official |

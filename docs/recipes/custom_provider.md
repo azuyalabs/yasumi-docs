@@ -70,6 +70,7 @@ foreach ($NYSEHolidays as $day) {
 // 'Good Friday'
 // 'Memorial Day'
 // 'Juneteenth'
+// 'Independence Day observed'
 // 'Independence Day'
 // 'Labor Day'
 // 'Thanksgiving Day'

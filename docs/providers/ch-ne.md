@@ -15,7 +15,6 @@ There are _10_ registered holidays for the **Neuchâtel** provider in **2026**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Other |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-01 | Sunday | instaurationRepublique | Other |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Other |

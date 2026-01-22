@@ -15,7 +15,6 @@ There are _16_ registered holidays for the **Lithuania** provider in **2026**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-16 | Monday | Day of Restoration of the State of Lithuania | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-11 | Wednesday | Day of Restoration of Independence of Lithuania | Official |

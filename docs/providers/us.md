@@ -15,7 +15,6 @@ There are _11_ registered holidays for the **United States** provider in **2026*
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-19 | Monday | Dr. Martin Luther King Jr’s Birthday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-16 | Monday | Washington’s Birthday | Official |

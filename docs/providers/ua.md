@@ -15,7 +15,6 @@ There are _10_ registered holidays for the **Ukraine** provider in **2026**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-08 | Sunday | International Women’s Day | Official |
 | :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2026-03-09 | Monday | International Women’s Day observed | Official |

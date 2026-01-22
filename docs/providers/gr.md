@@ -15,7 +15,6 @@ There are _17_ registered holidays for the **Greece** provider in **2026**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-06 | Tuesday | Epiphany | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-30 | Friday | threeHolyHierarchs | Other |

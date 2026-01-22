@@ -15,7 +15,6 @@ There are _7_ registered holidays for the **Türkiye** provider in **2026**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-23 | Thursday | nationalSovereigntyDay | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | Labor Day | Official |

@@ -29,9 +29,9 @@ foreach ($holidaysInDecember as $holiday) {
     echo $holiday . ' - ' . $holiday->getName() . PHP_EOL;
 }
 
-// 2025-12-08 - Immaculate Conception
-// 2025-12-25 - Christmas
-// 2025-12-26 - St. Stephen’s Day
+// 2026-12-08 - Immaculate Conception
+// 2026-12-25 - Christmas
+// 2026-12-26 - St. Stephen’s Day
 ```
 
 Using this, you can select new products that you would like to promote to your shoppers. Simple as that!

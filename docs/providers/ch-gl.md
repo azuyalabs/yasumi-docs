@@ -15,7 +15,6 @@ There are _11_ registered holidays for the **Glarus** provider in **2026**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Other |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-02 | Friday | Berchtoldstag | Other |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-02 | Thursday | nafelserFahrt | Other |

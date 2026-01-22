@@ -15,7 +15,6 @@ There are _1_ registered holidays for the **Switzerland** provider in **2026**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-01 | Saturday | National Day | Official |
 
 ??? info "Legend"

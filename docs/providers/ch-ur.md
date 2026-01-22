@@ -15,7 +15,6 @@ There are _14_ registered holidays for the **Uri** provider in **2026**.
 
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
-
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Other |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-06 | Tuesday | Epiphany | Other |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-19 | Thursday | St. Joseph’s Day | Other |

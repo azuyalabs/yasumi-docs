@@ -15,22 +15,22 @@ $holidays = Yasumi\Yasumi::create('USA', (int) date('Y'));
 ```
 
 Now we can access and use the various API methods of Yasumi. Let's see how many holidays the US has in
-2025:
+2026:
 
-``` php
+```php
 <?php
 
 // Get the number of defined holidays
 echo $holidays->count() . PHP_EOL;
 
-// 11 (Substituted holidays are only accounted for once)
+// 10 (Substituted holidays are only accounted for once)
 ```
 
 To get an overview of all the holidays of the US, we can simply loop through the results since each Yasumi
 Holiday Provider implements the [ArrayIterator](https://www.php.net/manual/en/class.arrayiterator.php). Getting a
 list of holidays for the US with the internal short names can be obtained as follows:
 
-``` php-inline
+```php-inline
 // Get a list all of the holiday names (short names)
 foreach ($holidays->getHolidayNames() as $name) {
     echo $name . PHP_EOL;
@@ -42,6 +42,7 @@ foreach ($holidays->getHolidayNames() as $name) {
 // `memorialDay`
 // `juneteenth`
 // `independenceDay`
+// `independenceDayObserved`
 // `labourDay`
 // `columbusDay`
 // `veteransDay`
@@ -54,61 +55,62 @@ foreach ($holidays->getHolidayNames() as $name) {
 
 Now let's get all the holiday dates:
 
-``` php
+```php
 // Get a list all of the holiday dates
 foreach ($holidays->getHolidayDates() as $date) {
     echo $date . PHP_EOL;
 }
 
-// 2025-01-01
-// 2025-01-20
-// 2025-02-17
-// 2025-05-26
-// 2025-06-19
-// 2025-07-04
-// 2025-09-01
-// 2025-10-13
-// 2025-11-11
-// 2025-11-27
-// 2025-12-25
+// 2026-01-01
+// 2026-01-19
+// 2026-02-16
+// 2026-05-26
+// 2026-06-19
+// 2026-07-03
+// 2026-07-04
+// 2026-09-07
+// 2026-10-12
+// 2026-11-11
+// 2026-11-26
+// 2026-12-25
 ```
 
 Independence Day is an important holiday in the US. What details can Yasumi tell us about this holiday?
 Using the 'getHoliday' function we can retrieve information like the localized name, date and type of holiday of
 Independence Day:
 
-``` php
-// Get a holiday object for Independence Day
-$independenceDay = $holidays->getHoliday('independenceDay');
+```php
+// Get a holiday object for Columbus Day
+$columbusDay = $holidays->getHoliday('independenceDay');
 
 // Get the localized name
-echo $independenceDay->getName() . PHP_EOL;
+echo $columbusDay->getName() . PHP_EOL;
 
-// 'Independence Day'
+// 'Columbus Day'
 
 // Get the date
-echo $independenceDay . PHP_EOL;
+echo $columbusDay . PHP_EOL;
 
-// '2025-07-04'
+// '2026-10-12'
 
 // Get the type of holiday
-echo $independenceDay->getType() . PHP_EOL;
+echo $columbusDay->getType() . PHP_EOL;
 
 // 'official'
 ```
 
 Lastly, if you are a developer, you might be interested in getting the holiday information as a JSON object:
 
-``` php
+```php
 // Print the holiday as a JSON object
-echo json_encode($independenceDay, JSON_PRETTY_PRINT);
+echo json_encode($columbusDay, JSON_PRETTY_PRINT);
 
 // {
-//     "shortName": "independenceDay",
+//     "shortName": "columbusDay",
 //     "translations": {
-//         "en": "Independence Day"
+//         "en": "Columbus Day"
 //     },
-//     "date": "2025-07-04 00:00:00.000000",
+//     "date": "2026-10-12 00:00:00.000000",
 //     "timezone_type": 3,
 //     "timezone": "America\/New_York"
 // }
