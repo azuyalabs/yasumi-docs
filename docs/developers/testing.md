@@ -1,12 +1,14 @@
 # Testing
 
-Yasumi includes a [PHPUnit](https://phpunit.de/) test suite that contains more than 4.9K unit tests with multiple
+Yasumi includes a [PHPUnit](https://phpunit.de/) test suite that contains more than 5.0K unit tests with multiple
 iterations of assertions. Since Yasumi is using randomized years for asserting the holidays,
 multiple iterations of assertions get executed to ensure the holidays will be calculated for many years.
 
 The tests are grouped in some test suites to make testing a bit easier:
 
 - **"Base"**: For testing the base functionality of Yasumi
+
+- **"Andorra"**: For separately testing the [Andorra](../providers/ad.md) Holiday Provider
 
 - **"Argentina"**: For separately testing the [Argentina](../providers/ar.md) Holiday Provider
 

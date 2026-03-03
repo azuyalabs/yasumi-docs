@@ -122,6 +122,7 @@ nav:
       - Getting started: "getting-started.md"
       - Holiday Providers:
           - Overview: "providers/providers.md"
+          - Andorra: "providers/ad.md"
           - Argentina: "providers/ar.md"
           - Australia: "providers/au.md"
           - Austria: "providers/at.md"
