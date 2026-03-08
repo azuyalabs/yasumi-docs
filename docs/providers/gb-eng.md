@@ -42,3 +42,5 @@ the holidays given by the **England** Holiday provider.
 
 1. [https://en.wikipedia.org/wiki/Public_holidays_in_the_United_Kingdom](https://en.wikipedia.org/wiki/Public_holidays_in_the_United_Kingdom)
    
+1. [https://bank-holidays.uk/history-of-bank-holidays/](https://bank-holidays.uk/history-of-bank-holidays/)
+   

@@ -76,6 +76,8 @@ The tests are grouped in some test suites to make testing a bit easier:
 
 - **"Russia"**: For separately testing the [Russia](../providers/ru.md) Holiday Provider
 
+- **"SanMarino"**: For separately testing the [San Marino](../providers/sm.md) Holiday Provider
+
 - **"Slovakia"**: For separately testing the [Slovakia](../providers/sk.md) Holiday Provider
 
 - **"Slovenia"**: For separately testing the [Slovenia](../providers/si.md) Holiday Provider
