@@ -4,15 +4,13 @@
 
 The following versions are supported with security updates:
 
-| Version  | Supported |
-| -------- | --------- |
-| 2.10     | Yes       |
-| 2.9      | Yes       |
-| 2.8      | Yes       |
-| 2.7      | Yes       |
-| 2.6      | No        |
-| 2.5      | No        |
-| &lt; 2.4 | No        |
+| Version | Supported |
+| ------- | --------- |
+| 2.11.0  | Yes       |
+| 2.10.0  | Yes       |
+| 2.9.0   | Yes       |
+| 2.8.0   | No        |
+| <2.8    | No        |
 
 As for supported PHP versions, Yasumi only supports the actively supported versions of PHP and versions of PHP
 that only receive critical security updates. Currently, that is PHP 8.2, 8.3, 8.4 and 8.5.

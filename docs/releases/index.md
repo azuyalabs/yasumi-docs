@@ -4,6 +4,13 @@ Generally a new version of Yasumi is released whenever there are a significant n
 there are critical (security) issues resolved. See below for information about each release.
 
 
+## [2.11.0](./2.11.0.md)
+
+_Released on March 30, 2026_
+
+- GitHub: [`2.11.0`](https://github.com/azuyalabs/yasumi/releases/tag/2.11.0)
+
+
 ## [2.10.0](./2.10.0.md)
 
 _Released on January 22, 2026_
