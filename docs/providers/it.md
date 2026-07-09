@@ -1,6 +1,6 @@
 # Italy
 
-There are _12_ registered holidays for the **Italy** provider in **2026**.
+There are _13_ registered holidays for the **Italy** provider in **2026**.
 
 !!! info ""
 
@@ -23,6 +23,7 @@ There are _12_ registered holidays for the **Italy** provider in **2026**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-02 | Tuesday | republicDay | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-15 | Saturday | Assumption of Mary | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-04 | Sunday | sanFrancescoAssisi | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-01 | Sunday | All Saints’ Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-08 | Tuesday | Immaculate Conception | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
@@ -45,4 +46,6 @@ the holidays given by the **Italy** Holiday provider.
 1. [https://en.wikipedia.org/wiki/Public_holidays_in_Italy](https://en.wikipedia.org/wiki/Public_holidays_in_Italy)
    
 1. [https://it.wikipedia.org/wiki/Festivit%C3%A0_in_Italia](https://it.wikipedia.org/wiki/Festivit%C3%A0_in_Italia)
+   
+1. [https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-10-08;151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-10-08;151)
    

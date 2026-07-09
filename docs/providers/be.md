@@ -16,11 +16,11 @@ There are _12_ registered holidays for the **Belgium** provider in **2026**.
 |     | Date | Day of the week | Name | Type |
 | --- | ---- | --------------- | ---- | ---- |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-05 | Sunday | Easter Sunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-05 | Sunday | Easter Sunday | Observance |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-01 | Friday | International Workers’ Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-14 | Thursday | Ascension Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-24 | Sunday | Whitsunday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-24 | Sunday | Whitsunday | Observance |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-25 | Monday | Whitmonday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-07-21 | Tuesday | Belgian National Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-15 | Saturday | Assumption of Mary | Official |

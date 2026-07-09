@@ -18,7 +18,7 @@ There are _17_ registered holidays for the **Japan** provider in **2026**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-12 | Monday | Coming of Age Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-11 | Wednesday | National Foundation Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-23 | Monday | Emperors Birthday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-02-23 | Monday | Emperor’s Birthday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-20 | Friday | Vernal Equinox Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-29 | Wednesday | Showa Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-03 | Sunday | Constitution Memorial Day | Official |
