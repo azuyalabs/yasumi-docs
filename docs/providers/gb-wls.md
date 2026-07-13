@@ -1,6 +1,6 @@
 # Wales (United Kingdom)
 
-There are _9_ registered holidays for the **Wales** provider in **2026**.
+There are _10_ registered holidays for the **Wales** provider in **2026**.
 
 !!! info ""
 

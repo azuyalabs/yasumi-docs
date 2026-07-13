@@ -1,6 +1,6 @@
 # United States
 
-There are _11_ registered holidays for the **United States** provider in **2026**.
+There are _12_ registered holidays for the **United States** provider in **2026**.
 
 !!! info ""
 

@@ -21,7 +21,7 @@ There are _11_ registered holidays for the **Tasmania** provider in **2026**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-25 | Saturday | ANZAC Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-08 | Monday | Queen’s Birthday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-08 | Monday | King’s Birthday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-02 | Monday | Recreation Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Second Christmas Day | Official |

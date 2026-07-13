@@ -1,6 +1,6 @@
 # United Kingdom
 
-There are _8_ registered holidays for the **United Kingdom** provider in **2026**.
+There are _9_ registered holidays for the **United Kingdom** provider in **2026**.
 
 !!! info ""
 

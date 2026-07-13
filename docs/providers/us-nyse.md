@@ -1,6 +1,6 @@
 # usnyse (United States)
 
-There are _10_ registered holidays for the **usnyse** provider in **2026**.
+There are _11_ registered holidays for the **usnyse** provider in **2026**.
 
 !!! info ""
 

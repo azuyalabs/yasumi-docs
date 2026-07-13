@@ -1,6 +1,6 @@
 # South Africa
 
-There are _12_ registered holidays for the **South Africa** provider in **2026**.
+There are _13_ registered holidays for the **South Africa** provider in **2026**.
 
 !!! info ""
 

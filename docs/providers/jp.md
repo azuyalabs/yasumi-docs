@@ -1,6 +1,6 @@
 # Japan
 
-There are _17_ registered holidays for the **Japan** provider in **2026**.
+There are _18_ registered holidays for the **Japan** provider in **2026**.
 
 !!! info ""
 

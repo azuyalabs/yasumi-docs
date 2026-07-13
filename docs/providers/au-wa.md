@@ -1,6 +1,6 @@
 # Western Australia (Australia)
 
-There are _11_ registered holidays for the **Western Australia** provider in **2026**.
+There are _13_ registered holidays for the **Western Australia** provider in **2026**.
 
 !!! info ""
 
@@ -19,10 +19,12 @@ There are _11_ registered holidays for the **Western Australia** provider in **2
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-26 | Monday | Australia Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-02 | Monday | Labor Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-05 | Sunday | Easter Sunday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-25 | Saturday | ANZAC Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-27 | Monday | ANZAC Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-01 | Monday | Western Australia Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-28 | Monday | Queen’s Birthday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-28 | Monday | King’s Birthday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Second Christmas Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-28 | Monday | Boxing Day Holiday | Official |

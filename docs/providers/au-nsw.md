@@ -1,6 +1,6 @@
 # New South Wales (Australia)
 
-There are _13_ registered holidays for the **New South Wales** provider in **2026**.
+There are _14_ registered holidays for the **New South Wales** provider in **2026**.
 
 !!! info ""
 
@@ -22,7 +22,8 @@ There are _13_ registered holidays for the **New South Wales** provider in **202
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-05 | Sunday | Easter Sunday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-25 | Saturday | ANZAC Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-08 | Monday | Queen’s Birthday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-27 | Monday | ANZAC Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-08 | Monday | King’s Birthday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-03 | Monday | Bank Holiday | Bank |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-05 | Monday | Labor Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |

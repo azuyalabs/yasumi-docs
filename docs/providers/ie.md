@@ -1,6 +1,6 @@
 # Ireland
 
-There are _13_ registered holidays for the **Ireland** provider in **2026**.
+There are _14_ registered holidays for the **Ireland** provider in **2026**.
 
 !!! info ""
 

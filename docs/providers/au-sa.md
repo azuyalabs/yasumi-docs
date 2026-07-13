@@ -1,6 +1,6 @@
 # South Australia (Australia)
 
-There are _11_ registered holidays for the **South Australia** provider in **2026**.
+There are _13_ registered holidays for the **South Australia** provider in **2026**.
 
 !!! info ""
 
@@ -20,12 +20,14 @@ There are _11_ registered holidays for the **South Australia** provider in **202
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-03-09 | Monday | Adelaide Cup | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-04 | Saturday | Easter Saturday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-05 | Sunday | Easter Sunday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-25 | Saturday | ANZAC Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-08 | Monday | Queen’s Birthday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-08 | Monday | King’s Birthday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-05 | Monday | Labor Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-28 | Monday | Proclamation Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Proclamation Day | Official |
+| :fontawesome-solid-repeat:{ .icon title="Substituted holiday" } | 2026-12-28 | Monday | Proclamation Day observed | Official |
 
 ??? info "Legend"
 

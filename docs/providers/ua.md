@@ -1,6 +1,6 @@
 # Ukraine
 
-There are _10_ registered holidays for the **Ukraine** provider in **2026**.
+There are _13_ registered holidays for the **Ukraine** provider in **2026**.
 
 !!! info ""
 
