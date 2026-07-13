@@ -2,6 +2,11 @@
 
 There are _7_ registered holidays for the **Türkiye** provider in **2026**.
 
+!!! warning "Incomplete implementation"
+
+    Not all holidays are implemented for the **Türkiye** provider.
+    Islamic lunar calendar holidays (e.g. Eid al-Fitr, Eid al-Adha) are not yet calculated by Yasumi and are therefore not listed.
+
 !!! info ""
 
     The below listed holidays (and the aforementioned number of holidays) merely reflect which holidays are registered
