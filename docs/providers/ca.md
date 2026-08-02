@@ -1,6 +1,6 @@
 # Canada
 
-There are _10_ registered holidays for the **Canada** provider in **2026**.
+There are _11_ registered holidays for the **Canada** provider in **2026**.
 
 !!! info ""
 
@@ -18,6 +18,7 @@ There are _10_ registered holidays for the **Canada** provider in **2026**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-01-01 | Thursday | New Year’s Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-03 | Friday | Good Friday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-04-06 | Monday | Easter Monday | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-18 | Monday | Victoria Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-07-01 | Wednesday | Canada Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-07 | Monday | Labor Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-09-30 | Wednesday | National Day For Truth And Reconciliation | Official |
