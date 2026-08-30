@@ -25,7 +25,7 @@ There are _11_ registered holidays for the **Canada** provider in **2026**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-12 | Monday | Thanksgiving | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-11 | Wednesday | Remembrance Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Second Christmas Day | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-26 | Saturday | Boxing Day | Official |
 
 ??? info "Legend"
 
@@ -42,4 +42,6 @@ the holidays given by the **Canada** Holiday provider.
 
 
 1. [https://en.wikipedia.org/wiki/Public_holidays_in_Canada](https://en.wikipedia.org/wiki/Public_holidays_in_Canada)
+   
+1. [https://www.canada.ca/en/services/jobs/workplace/federal-labour-standards/vacations-holidays.html](https://www.canada.ca/en/services/jobs/workplace/federal-labour-standards/vacations-holidays.html)
    
