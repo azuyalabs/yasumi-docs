@@ -25,7 +25,7 @@ There are _13_ registered holidays for the **Portugal** provider in **2026**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-15 | Saturday | Assumption of Mary | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-05 | Monday | portugueseRepublic | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-01 | Sunday | All Saints’ Day | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-01 | Tuesday | restorationOfIndependence | Official |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-01 | Tuesday | Restoration of Independence | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-08 | Tuesday | Immaculate Conception | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
 
