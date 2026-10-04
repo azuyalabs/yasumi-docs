@@ -17,6 +17,7 @@ declare(strict_types = 1);
 
 namespace YasumiDoc\Infrastructure;
 
+use Nyholm\Psr7\Request;
 use Psr\Http\Client\ClientInterface;
 use YasumiDoc\Services\LocaleInterface;
 
@@ -49,7 +50,10 @@ final readonly class CLDR implements LocaleInterface
 
         if (false === \is_readable($zipFile)) {
             try {
-                $response = $this->client->get('https://unicode.org/Public/cldr/' . self::CLDR_VERSION . '/core.zip');
+                $response = $this->client->sendRequest(
+                    new Request('GET', 'https://unicode.org/Public/cldr/' . self::CLDR_VERSION . '/core.zip')
+                );
+
                 \file_put_contents($tmpFile, $response->getBody()->getContents());
                 \rename($tmpFile, $zipFile);
             } catch (\Throwable $e) {
