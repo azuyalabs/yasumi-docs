@@ -59,9 +59,9 @@
   },
   "require-dev": {
     "azuyalabs/php-cs-fixer-config": "^0.3",
-    "phpstan/phpstan": "^1.12",
+    "phpstan/phpstan": "^2.2",
     "phpunit/phpunit": "^13.4",
-    "rector/rector": "^1.2"
+    "rector/rector": "^2.6"
   },
   "autoload-dev": {
     "psr-4": {
