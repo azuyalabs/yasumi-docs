@@ -25,7 +25,6 @@ use YasumiDoc\PageData;
 use YasumiDoc\PageDataInterface;
 use YasumiDoc\Services\GitRepositoryInterface;
 use YasumiDoc\Services\LocaleInterface;
-use YasumiDoc\Services\PackageRepositoryInterface;
 use YasumiDoc\Services\ProvidersInterface;
 use YasumiDoc\Services\UnitTestsInterface;
 
@@ -50,8 +49,6 @@ return [
 
     GitRepositoryInterface::class => DI\autowire(GitHub::class)->constructor('azuyalabs', 'yasumi'),
     LocaleInterface::class => DI\autowire(YasumiDoc\Infrastructure\CLDR::class),
-    PackageRepositoryInterface::class => DI\autowire(YasumiDoc\Infrastructure\Packagist::class),
-
     UnitTestsInterface::class => DI\autowire(YasumiDoc\Services\UnitTests::class),
     ProvidersInterface::class => DI\autowire(YasumiDoc\Services\Providers::class),
 
