@@ -6,11 +6,11 @@ The following versions are supported with security updates:
 
 | Version | Supported |
 | ------- | --------- |
+| 2.12.0  | Yes       |
 | 2.11.0  | Yes       |
 | 2.10.0  | Yes       |
-| 2.9.0   | Yes       |
-| 2.8.0   | No        |
-| <2.8    | No        |
+| 2.9.0   | No        |
+| <2.9    | No        |
 
 As for supported PHP versions, {{ siteName }} only supports the actively supported versions of PHP and versions of PHP
 that only receive critical security updates. Currently, that is PHP 8.2, 8.3, 8.4 and 8.5.
