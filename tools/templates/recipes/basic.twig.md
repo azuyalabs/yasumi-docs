@@ -1,0 +1,110 @@
+# A basic starter
+
+{{ siteName }} is very easy to use. Let's find out how easy with this basic exercise.
+
+We need to include {{ siteName }} using the Composer autoloader first, then we can create a new holiday provider
+instance (we will be using the United States of America):
+
+{% include('partials/basic_example.md') %}
+
+Now we can access and use the various API methods of {{ siteName }}. Let's see how many holidays the US has in
+2026:
+
+```php
+<?php
+
+// Get the number of defined holidays
+echo $holidays->count() . PHP_EOL;
+
+// 10 (Substituted holidays are only accounted for once)
+```
+
+To get an overview of all the holidays of the US, we can simply loop through the results since each {{ siteName }}
+Holiday Provider implements the [ArrayIterator](https://www.php.net/manual/en/class.arrayiterator.php). Getting a
+list of holidays for the US with the internal short names can be obtained as follows:
+
+```php-inline
+// Get a list all of the holiday names (short names)
+foreach ($holidays->getHolidayNames() as $name) {
+    echo $name . PHP_EOL;
+}
+
+// `newYearsDay`
+// `martinLutherKingDay`
+// `washingtonsBirthday`
+// `memorialDay`
+// `juneteenth`
+// `independenceDay`
+// `independenceDayObserved`
+// `labourDay`
+// `columbusDay`
+// `veteransDay`
+// `thanksgivingDay`
+// `christmasDay`
+```
+
+> These short names are not the names used for display purposes: they are simply used as internal identifiers by {{ siteName }}.
+> Later we will see how we can use the (display) names of holidays we are typically used to.
+
+Now let's get all the holiday dates:
+
+```php
+// Get a list all of the holiday dates
+foreach ($holidays->getHolidayDates() as $date) {
+    echo $date . PHP_EOL;
+}
+
+// 2026-01-01
+// 2026-01-19
+// 2026-02-16
+// 2026-05-26
+// 2026-06-19
+// 2026-07-03
+// 2026-07-04
+// 2026-09-07
+// 2026-10-12
+// 2026-11-11
+// 2026-11-26
+// 2026-12-25
+```
+
+Independence Day is an important holiday in the US. What details can {{ siteName }} tell us about this holiday?
+Using the 'getHoliday' function we can retrieve information like the localized name, date and type of holiday of
+Independence Day:
+
+```php
+// Get a holiday object for Columbus Day
+$columbusDay = $holidays->getHoliday('independenceDay');
+
+// Get the localized name
+echo $columbusDay->getName() . PHP_EOL;
+
+// 'Columbus Day'
+
+// Get the date
+echo $columbusDay . PHP_EOL;
+
+// '2026-10-12'
+
+// Get the type of holiday
+echo $columbusDay->getType() . PHP_EOL;
+
+// 'official'
+```
+
+Lastly, if you are a developer, you might be interested in getting the holiday information as a JSON object:
+
+```php
+// Print the holiday as a JSON object
+echo json_encode($columbusDay, JSON_PRETTY_PRINT);
+
+// {
+//     "shortName": "columbusDay",
+//     "translations": {
+//         "en": "Columbus Day"
+//     },
+//     "date": "2026-10-12 00:00:00.000000",
+//     "timezone_type": 3,
+//     "timezone": "America\/New_York"
+// }
+```

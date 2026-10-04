@@ -1,0 +1,27 @@
+#!/usr/bin/env php
+<?php
+
+declare(strict_types = 1);
+
+/**
+ * This file is part of the 'Yasumi Docs' package.
+ *
+ * The documentation project for the Yasumi library package..
+ *
+ * Copyright (c) 2015 - 2026 AzuyaLabs
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ *
+ * @author Sacha Telgenhof <me at sachatelgenhof dot com>
+ */
+
+$container = require __DIR__ . '/app/bootstrap.php';
+
+$app = new Silly\Application('Yasumi Docs Builder', '0.1.0');
+$app->useContainer($container, $injectWithTypeHint = true);
+
+$app->command('generate', 'YasumiDoc\Command\GeneratorCommand');
+$app->command('config', 'YasumiDoc\Command\ConfigurationCommand')->descriptions('Update config');
+
+$app->run();

@@ -1,0 +1,88 @@
+{
+  "name": "azuyalabs/yasumi-docs",
+  "description": "The documentation project for the Yasumi library package.",
+  "license": "MIT",
+  "type": "project",
+  "keywords": [
+    "yasumi",
+    "documentation"
+  ],
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "Sacha Telgenhof",
+      "email": "me@sachatelgenhof.com",
+      "homepage": "https://www.sachatelgenhof.com",
+      "role": "Maintainer"
+    }
+  ],
+  "homepage": "https://www.yasumi.dev",
+  "support": {
+    "issues": "https://github.com/azuyalabs/yasumi-docs/issues",
+    "source": "https://github.com/azuyalabs/yasumi-docs",
+    "docs": "https://www.yasumi.dev"
+  },
+  "funding": [
+    {
+      "type": "other",
+      "url": "https://www.buymeacoffee.com/sachatelgenhof"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "path",
+      "url": "../../yasumi",
+      "options": {
+        "symlink": true
+      }
+    }
+  ],
+  "require": {
+    "php": "^8.4",
+    "ext-dom": "*",
+    "ext-json": "*",
+    "ext-zip": "*",
+    "azuyalabs/yasumi": "dev-develop",
+    "cache/filesystem-adapter": "^3.0",
+    "guzzlehttp/guzzle": "^7.9",
+    "knplabs/github-api": "^3.16",
+    "league/flysystem": "^3.0",
+    "league/flysystem-local": "^3.0",
+    "mnapoli/silly": "^1.9",
+    "nyholm/psr7": "^1.8",
+    "php-di/php-di": "^7.0",
+    "php-http/guzzle7-adapter": "^1.1",
+    "psr/http-client": "^1.0",
+    "spatie/packagist-api": "^2.1",
+    "symfony/http-client": "^7.3",
+    "twig/twig": "^3.21"
+  },
+  "require-dev": {
+    "azuyalabs/php-cs-fixer-config": "^0.3",
+    "phpstan/phpstan": "^1.12",
+    "phpunit/phpunit": "^13.4"
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "YasumiDoc\\": "src/",
+      "Yasumi\\tests\\": "vendor/azuyalabs/yasumi/tests"
+    }
+  },
+  "config": {
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true,
+      "php-http/discovery": true
+    },
+    "preferred-install": {
+      "azuyalabs/yasumi": "source",
+      "*": "dist"
+    },
+    "process-timeout": 0,
+    "sort-packages": true
+  },
+  "scripts": {
+    "cs": "vendor/bin/php-cs-fixer fix -v --diff --dry-run",
+    "cs-fix": "vendor/bin/php-cs-fixer fix -v",
+    "phpstan": "vendor/bin/phpstan analyse"
+  }
+}

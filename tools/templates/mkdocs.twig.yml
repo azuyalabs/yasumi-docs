@@ -1,0 +1,143 @@
+# main configuration file for mkdocs generation of the Yasumi website
+
+# project information
+site_author: Sacha Telgenhof
+site_description: The easy PHP Library for calculating holidays
+site_name: Yasumi
+site_url: https://www.yasumi.dev
+
+# repository
+repo_url: https://github.com/azuyalabs/yasumi
+repo_name: azuyalabs/yasumi
+
+edit_uri: "https://github.com/azuyalabs/yasumi-docs/blob/main/"
+use_directory_urls: false
+
+copyright: |
+  Copyright &copy; 2015 - 2026 <a href="https://github.com/stelgenhof" target="_blank" rel="noopener">Sacha Telgenhof</a>
+
+# configuration
+theme:
+  name: material
+  custom_dir: overrides
+
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: "teal"
+      accent: "teal"
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to system preference
+      primary: "teal"
+      accent: "teal"
+
+  logo: assets/img/yasumi_logo_globe.svg
+
+  font:
+    text: Inter
+  favicon: assets/img/favicon.ico
+
+  features:
+    - content.code.copy
+    - navigation.indexes
+    - navigation.prune
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+
+# plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      enable_creation_date: false
+      type: timeago
+  - inline-svg
+
+# extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.highlight:
+      use_pygments: true
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - tables
+
+extra_css:
+  - assets/css/yasumi.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/azuyalabs/yasumi
+    - icon: fontawesome/solid/box-open
+      link: https://packagist.org/packages/azuyalabs/yasumi
+    - icon: fontawesome/brands/mastodon
+      link: https://phpc.social/@yasumi
+
+# providers with subdivisions are not part of the navigation
+not_in_nav: |
+  /index.md
+  /providers/at-*.md
+  /providers/au-*.md
+  /providers/ca-*.md
+  /providers/ch-*.md
+  /providers/de-*.md
+  /providers/es-*.md
+  /providers/fr-*.md
+  /providers/gb-*.md
+
+# navigation tree
+nav:
+  - Documentation:
+      - Getting started: "getting-started.md"
+      - Holiday Providers:
+          - Overview: "providers/providers.md"
+{% for id, provider in providers %}
+          - {{ provider -}}: "providers/{{ id | lower }}.md"
+{% endfor %}
+      - Filters: "filters.md"
+      - Cookbook:
+          - Basic: "recipes/basic.md"
+          - Date Range: "recipes/between_filter.md"
+          - Custom Provider: "recipes/custom_provider.md"
+          - Filter Holidays: "recipes/filters.md"
+      - Security and Support: "security.md"
+  - Developers:
+      - Developers: "developers/index.md"
+      - Contributing: "developers/contributing.md"
+      - Testing: "developers/testing.md"
+  - Releases:
+      - Releases: "releases/index.md"
+  {% for release in releases %}
+    - {{ release.tag }}: "releases/{{ release.tag }}.md"
+  {% endfor %}
