@@ -54,6 +54,7 @@
     "php-http/guzzle7-adapter": "^1.1",
     "psr/http-client": "^1.0",
     "spatie/packagist-api": "^2.1",
+    "symfony/filesystem": "^8.1",
     "symfony/http-client": "^7.3",
     "twig/twig": "^3.21"
   },
