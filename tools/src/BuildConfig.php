@@ -35,7 +35,7 @@ final class BuildConfig
 
     private function setOutputDir(string $outputDir): self
     {
-        (new Filesystem())->mkdir($outputDir);
+        new Filesystem()->mkdir($outputDir);
         if (false === file_exists($outputDir)) {
             throw new \InvalidArgumentException(sprintf('builder output directory "%s" does not exist', $outputDir));
         }

@@ -41,19 +41,17 @@ abstract class AbstractPageGenerator implements PageGeneratorInterface, \Stringa
 
     public function __toString(): string
     {
-        return (new \ReflectionClass($this))->getShortName();
+        return new \ReflectionClass($this)->getShortName();
     }
 
     protected function generate(string $template, ?string $filename = null): void
     {
-        if (null === $filename) {
-            $filename = $template;
-        }
+        $filename ??= $template;
 
         $outputFile = sprintf('%s/%s.md', $this->config->getOutputDir(), $filename);
         $outputDir = Path::getDirectory($outputFile);
 
-        (new Filesystem())->mkdir($outputDir); // create the directory in case the template is in a subdirectory
+        new Filesystem()->mkdir($outputDir); // create the directory in case the template is in a subdirectory
 
         $contents = $this->twig->render(sprintf('%s.twig.md', $template), $this->pageData->all());
         file_put_contents($outputFile, $contents);

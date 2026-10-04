@@ -79,7 +79,7 @@ final readonly class Providers implements ProvidersInterface
                 $name = $this->locale->translateSubdivision($provParts[2] . '/' . $provParts[3]);
                 $parent = $this->locale->translateSubdivision($provParts[2]);
             } else {
-                $name = $this->locale->translateSubdivision((new \ReflectionClass($provider))->getShortName());
+                $name = $this->locale->translateSubdivision(new \ReflectionClass($provider)->getShortName());
                 $parent = null;
             }
 
