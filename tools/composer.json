@@ -27,6 +27,32 @@
       "url": "https://www.buymeacoffee.com/sachatelgenhof"
     }
   ],
+  "require": {
+    "php": "^8.4",
+    "ext-dom": "*",
+    "ext-json": "*",
+    "ext-zip": "*",
+    "azuyalabs/yasumi": "dev-develop",
+    "cache/filesystem-adapter": "^3.0",
+    "guzzlehttp/guzzle": "^8.2",
+    "knplabs/github-api": "^3.16",
+    "league/flysystem": "^3.36",
+    "league/flysystem-local": "^3.35",
+    "mnapoli/silly": "^1.10",
+    "nyholm/psr7": "^1.8",
+    "php-di/php-di": "^7.1",
+    "psr/http-client": "^1.0",
+    "spatie/packagist-api": "^2.1",
+    "symfony/filesystem": "^8.1",
+    "symfony/http-client": "^8.1",
+    "twig/twig": "^3.30"
+  },
+  "require-dev": {
+    "azuyalabs/php-cs-fixer-config": "^0.3",
+    "phpstan/phpstan": "^2.2",
+    "phpunit/phpunit": "^13.4",
+    "rector/rector": "^2.6"
+  },
   "repositories": [
     {
       "type": "path",
@@ -36,33 +62,6 @@
       }
     }
   ],
-  "require": {
-    "php": "^8.4",
-    "ext-dom": "*",
-    "ext-json": "*",
-    "ext-zip": "*",
-    "azuyalabs/yasumi": "dev-develop",
-    "cache/filesystem-adapter": "^3.0",
-    "guzzlehttp/guzzle": "^7",
-    "knplabs/github-api": "^3.16",
-    "league/flysystem": "^3.0",
-    "league/flysystem-local": "^3.0",
-    "mnapoli/silly": "^1.9",
-    "nyholm/psr7": "^1.8",
-    "php-di/php-di": "^7.0",
-    "php-http/guzzle7-adapter": "^1",
-    "psr/http-client": "^1.0",
-    "spatie/packagist-api": "^2.1",
-    "symfony/filesystem": "^8.1",
-    "symfony/http-client": "^8",
-    "twig/twig": "^3.21"
-  },
-  "require-dev": {
-    "azuyalabs/php-cs-fixer-config": "^0.3",
-    "phpstan/phpstan": "^2.2",
-    "phpunit/phpunit": "^13.4",
-    "rector/rector": "^2.6"
-  },
   "autoload-dev": {
     "psr-4": {
       "YasumiDoc\\": "src/",
