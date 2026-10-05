@@ -15,7 +15,7 @@ declare(strict_types = 1);
  * @author Sacha Telgenhof <me at sachatelgenhof dot com>
  */
 
-use GuzzleHttp\Client;
+use Http\Discovery\Psr18Client;
 use Psr\Http\Client\ClientInterface;
 use Twig\Environment;
 use Twig\Loader\FilesystemLoader;
@@ -52,7 +52,7 @@ return [
     UnitTestsInterface::class => DI\autowire(YasumiDoc\Services\UnitTests::class),
     ProvidersInterface::class => DI\autowire(YasumiDoc\Services\Providers::class),
 
-    ClientInterface::class => DI\autowire(Client::class),
+    ClientInterface::class => static fn (): Psr18Client => new Psr18Client(),
 
     PageDataInterface::class => static fn (): PageData => new PageData(
         [
