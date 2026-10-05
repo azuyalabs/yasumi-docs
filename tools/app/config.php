@@ -47,13 +47,12 @@ return [
         '../docs'
     ),
 
-    GitRepositoryInterface::class => DI\autowire(GitHub::class)->constructor('azuyalabs', 'yasumi'),
+    GitRepositoryInterface::class => DI\autowire(GitHub::class)->constructor('azuyalabs', 'yasumi', DI\get(BuildConfig::class)),
     LocaleInterface::class => DI\autowire(YasumiDoc\Infrastructure\CLDR::class),
     UnitTestsInterface::class => DI\autowire(YasumiDoc\Services\UnitTests::class),
     ProvidersInterface::class => DI\autowire(YasumiDoc\Services\Providers::class),
 
     ClientInterface::class => static fn (): Psr18Client => new Psr18Client(),
-
     PageDataInterface::class => static fn (): PageData => new PageData(
         [
             'siteName' => 'Yasumi',

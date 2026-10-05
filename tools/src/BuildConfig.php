@@ -23,14 +23,22 @@ final class BuildConfig
 {
     private const string OUTPUT_DIR = '..';
 
+    private string $cacheDir;
+
     public function __construct(private ?string $outputDir = self::OUTPUT_DIR)
     {
         $this->setOutputDir($outputDir);
+        $this->setCacheDir();
     }
 
     public function getOutputDir(): string
     {
         return $this->outputDir;
+    }
+
+    public function getCacheDir(): string
+    {
+        return $this->cacheDir;
     }
 
     private function setOutputDir(string $outputDir): self
@@ -41,6 +49,17 @@ final class BuildConfig
         }
 
         $this->outputDir = rtrim(realpath($outputDir), DIRECTORY_SEPARATOR);
+
+        return $this;
+    }
+
+    private function setCacheDir(): self
+    {
+        $cacheDir = __DIR__ . '/../.cache';
+
+        new Filesystem()->mkdir($cacheDir);
+
+        $this->cacheDir = rtrim(realpath($cacheDir), \DIRECTORY_SEPARATOR);
 
         return $this;
     }

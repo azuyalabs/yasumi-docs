@@ -19,6 +19,8 @@ namespace YasumiDoc\Infrastructure;
 
 use Nyholm\Psr7\Request;
 use Psr\Http\Client\ClientInterface;
+use Symfony\Component\Filesystem\Filesystem;
+use YasumiDoc\BuildConfig;
 use YasumiDoc\Services\LocaleInterface;
 
 final readonly class CLDR implements LocaleInterface
@@ -29,21 +31,18 @@ final readonly class CLDR implements LocaleInterface
 
     private string $cldr_dir;
 
-    public function __construct(private ClientInterface $client)
-    {
+    public function __construct(
+        private ClientInterface $client,
+        BuildConfig $config,
+    ) {
         if (! \class_exists(\ZipArchive::class)) {
             exit('The Zip PHP extension is not installed. Please install it and try again.');
         }
 
-        $this->cache_dir = \getcwd() . '/.cache';
-        if (! \is_dir($this->cache_dir) && ! \mkdir($this->cache_dir)) {
-            exit('Unable to create the cache directory.');
-        }
-
+        $this->cache_dir = $config->getCacheDir();
         $this->cldr_dir = $this->cache_dir . '/_cldr';
-        if (! \is_dir($this->cldr_dir) && ! \mkdir($this->cldr_dir)) {
-            exit('Unable to create the cldr directory.');
-        }
+
+        new Filesystem()->mkdir($this->cldr_dir);
 
         $tmpFile = $this->cache_dir . '/cldr_' . self::CLDR_VERSION . '_tmp.zip';
         $zipFile = $this->cache_dir . '/cldr_' . self::CLDR_VERSION . '.zip';

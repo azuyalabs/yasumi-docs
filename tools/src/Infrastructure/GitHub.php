@@ -21,20 +21,23 @@ use Cache\Adapter\Filesystem\FilesystemCachePool;
 use Github\Client;
 use League\Flysystem\Filesystem;
 use League\Flysystem\Local\LocalFilesystemAdapter;
+use YasumiDoc\BuildConfig;
 use YasumiDoc\Services\GitRepositoryInterface;
 
 final readonly class GitHub implements GitRepositoryInterface
 {
-    private const string CACHE_FOLDER = '.cache/github';
+    private const string CACHE_FOLDER = 'github';
 
     private Client $client;
 
-    public function __construct(private string $username, private string $repository)
-    {
+    public function __construct(
+        private string $username,
+        private string $repository,
+        BuildConfig $config,
+    ) {
         $this->client = new Client();
 
-        // The Flysystem root is the project root, so the cache stays out of the source tree.
-        $filesystem = new Filesystem(new LocalFilesystemAdapter(\dirname(__DIR__, 2)));
+        $filesystem = new Filesystem(new LocalFilesystemAdapter($config->getCacheDir()));
 
         $pool = new FilesystemCachePool($filesystem, self::CACHE_FOLDER);
 
