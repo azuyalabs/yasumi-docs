@@ -12,7 +12,7 @@
             "dist": {
                 "type": "path",
                 "url": "../../yasumi",
-                "reference": "4429bbcc27f2ad3b85f22541a5d11de922ecc52c"
+                "reference": "2b832be3dd8884812757d83f7bf0922eba0f97e5"
             },
             "require": {
                 "ext-json": "*",
