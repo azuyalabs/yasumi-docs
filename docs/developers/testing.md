@@ -34,6 +34,8 @@ The tests are grouped in some test suites to make testing a bit easier:
 
 - **"Denmark"**: For separately testing the [Denmark](../providers/dk.md) Holiday Provider
 
+- **"Ecuador"**: For separately testing the [Ecuador](../providers/ec.md) Holiday Provider
+
 - **"Estonia"**: For separately testing the [Estonia](../providers/ee.md) Holiday Provider
 
 - **"Finland"**: For separately testing the [Finland](../providers/fi.md) Holiday Provider

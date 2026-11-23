@@ -23,7 +23,7 @@ There are _14_ registered holidays for the **Saarland** provider in **2026**.
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-24 | Sunday | Whitsunday | Other |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-05-25 | Monday | Whitmonday | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-06-04 | Thursday | Corpus Christi | Official |
-| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-15 | Saturday | Assumption of Mary | Other |
+| :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-08-15 | Saturday | Assumption of Mary | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-10-03 | Saturday | germanUnityDay | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-11-01 | Sunday | All Saints’ Day | Official |
 | :fontawesome-solid-leaf:{ .icon title="Regular holiday" } | 2026-12-25 | Friday | Christmas | Official |
